@@ -1,0 +1,1201 @@
+student_id,nom,prenom,departement,filiere,niveau,moyenne_generale,rang
+EPL0210,DIJOUX,Emma,Informatique,Génie Logiciel,M1,20.0,1.0
+EPL0479,MARTIN,Julie,Réseaux & Télécoms,Télécommunications,L2,20.0,1.0
+EPL0180,MARTIN,Stéphane,Génie Civil,GC Bâtiment,L3,20.0,1.0
+EPL0756,DIJOUX,Lucas,Génie Civil,GC Travaux Publics,L3,19.9,2.0
+EPL0655,DELANNOY,Lucas,Informatique,Intelligence Artificielle,L3,19.72,3.0
+EPL0763,MOREAU,Danielle,Génie Civil,GC Travaux Publics,L2,19.68,4.0
+EPL0881,PETIT,Emma,Génie Civil,GC Bâtiment,L3,19.58,5.0
+EPL0114,DIJOUX,Madeleine,Réseaux & Télécoms,Télécommunications,L1,19.39,6.0
+EPL0848,DIJOUX,Lucas,Informatique,Intelligence Artificielle,M1,19.37,7.0
+EPL0615,SCHMITT,Danielle,Informatique,Intelligence Artificielle,M1,19.34,8.0
+EPL1166,DELANNOY,Antoine,Informatique,Génie Logiciel,L3,19.32,9.0
+EPL1117,MARTIN,Agathe,Réseaux & Télécoms,Télécommunications,L2,19.21,10.0
+EPL0221,BERNARD,Antoine,Réseaux & Télécoms,Télécommunications,L2,18.94,11.0
+EPL0823,MARTIN,Lucas,Réseaux & Télécoms,Télécommunications,L1,18.9,12.0
+EPL1162,BERNARD,Madeleine,Informatique,Intelligence Artificielle,M1,18.87,13.0
+EPL0584,MOREAU,Julie,Informatique,Intelligence Artificielle,M1,18.81,14.0
+EPL1158,DIJOUX,Julie,Informatique,Intelligence Artificielle,M1,18.76,15.0
+EPL0379,ROBERT,Thomas,Réseaux & Télécoms,Télécommunications,L1,18.57,16.0
+EPL0126,MARTIN,Sophie,Génie Civil,GC Bâtiment,L3,18.57,16.0
+EPL0910,DUPONT,Agathe,Génie Civil,GC Travaux Publics,M1,18.49,17.0
+EPL0375,WAGNER,Madeleine,Réseaux & Télécoms,Télécommunications,L2,18.46,18.0
+EPL1024,MARTIN,Antoine,Informatique,Intelligence Artificielle,L3,18.43,19.0
+EPL0235,PETIT,Stéphane,Informatique,Génie Logiciel,L3,18.43,19.0
+EPL0285,PETIT,Sophie,Génie Civil,GC Bâtiment,L2,18.4,20.0
+EPL0253,MOREAU,Julie,Informatique,Génie Logiciel,L3,18.37,21.0
+EPL0324,DIJOUX,Stéphane,Génie Civil,GC Travaux Publics,L3,18.28,22.0
+EPL1103,ROBERT,Lucas,Réseaux & Télécoms,Télécommunications,L1,18.27,23.0
+EPL1013,ROBERT,Antoine,Génie Civil,GC Travaux Publics,M1,18.23,24.0
+EPL1084,DIJOUX,Stéphane,Génie Civil,GC Travaux Publics,L2,18.23,24.0
+EPL0562,MARTIN,Thomas,Informatique,Intelligence Artificielle,L3,18.23,24.0
+EPL0421,MARTIN,Sophie,Réseaux & Télécoms,Télécommunications,L1,18.18,25.0
+EPL0870,PETIT,Thomas,Informatique,Génie Logiciel,L3,18.03,26.0
+EPL0461,PETIT,Agathe,Réseaux & Télécoms,Télécommunications,L2,17.89,27.0
+EPL1110,WAGNER,Sophie,Réseaux & Télécoms,Télécommunications,L1,17.74,28.0
+EPL0502,WAGNER,Thomas,Informatique,Intelligence Artificielle,L3,17.73,29.0
+EPL0168,DUPONT,Madeleine,Réseaux & Télécoms,Télécommunications,L1,17.69,30.0
+EPL0107,WAGNER,Antoine,Informatique,Génie Logiciel,M1,17.66,31.0
+EPL0623,DELANNOY,Madeleine,Réseaux & Télécoms,Télécommunications,L1,17.65,32.0
+EPL0932,DELANNOY,Madeleine,Génie Civil,GC Travaux Publics,M1,17.64,33.0
+EPL0388,BERNARD,Emma,Informatique,Génie Logiciel,L3,17.63,34.0
+EPL0606,BERNARD,Emma,Réseaux & Télécoms,Télécommunications,L2,17.63,34.0
+EPL0157,DUPONT,Madeleine,Réseaux & Télécoms,Télécommunications,L1,17.6,35.0
+EPL0032,WAGNER,Sophie,Génie Civil,GC Bâtiment,M1,17.56,36.0
+EPL0651,DUPONT,Thomas,Réseaux & Télécoms,Télécommunications,L2,17.55,37.0
+EPL0945,SCHMITT,Sophie,Génie Civil,GC Bâtiment,M1,17.54,38.0
+EPL0886,DUPONT,Madeleine,Génie Civil,GC Bâtiment,L3,17.54,38.0
+EPL0394,MARTIN,Antoine,Génie Civil,GC Bâtiment,L2,17.49,39.0
+EPL0770,PETIT,Sophie,Informatique,Intelligence Artificielle,M1,17.44,40.0
+EPL0968,ROBERT,Sophie,Réseaux & Télécoms,Télécommunications,L1,17.4,41.0
+EPL0864,BERNARD,Agathe,Informatique,Intelligence Artificielle,L3,17.39,42.0
+EPL0997,SCHMITT,Stéphane,Réseaux & Télécoms,Télécommunications,L1,17.39,42.0
+EPL0876,SCHMITT,Agathe,Réseaux & Télécoms,Télécommunications,L2,17.38,43.0
+EPL0768,MOREAU,Sophie,Génie Civil,GC Travaux Publics,M1,17.31,44.0
+EPL0249,SCHMITT,Stéphane,Informatique,Intelligence Artificielle,L3,17.3,45.0
+EPL0422,WAGNER,Julie,Réseaux & Télécoms,Télécommunications,L1,17.27,46.0
+EPL0678,PETIT,Lucas,Génie Civil,GC Bâtiment,M1,17.26,47.0
+EPL0708,SCHMITT,Agathe,Réseaux & Télécoms,Télécommunications,L2,17.26,47.0
+EPL1015,PETIT,Antoine,Réseaux & Télécoms,Télécommunications,L1,17.21,48.0
+EPL1025,BERNARD,Madeleine,Informatique,Intelligence Artificielle,L3,17.18,49.0
+EPL0710,SCHMITT,Julie,Informatique,Intelligence Artificielle,L3,17.09,50.0
+EPL0489,ROBERT,Agathe,Réseaux & Télécoms,Télécommunications,L1,17.06,51.0
+EPL1041,DELANNOY,Sophie,Génie Civil,GC Travaux Publics,L2,17.05,52.0
+EPL0572,WAGNER,Sophie,Réseaux & Télécoms,Télécommunications,L1,17.03,53.0
+EPL0642,DIJOUX,Lucas,Réseaux & Télécoms,Télécommunications,L1,17.01,54.0
+EPL0739,MARTIN,Danielle,Génie Civil,GC Travaux Publics,L3,17.0,55.0
+EPL0475,ROBERT,Emma,Réseaux & Télécoms,Télécommunications,L1,16.93,56.0
+EPL1155,DIJOUX,Agathe,Réseaux & Télécoms,Télécommunications,L2,16.93,56.0
+EPL0267,MOREAU,Emma,Informatique,Intelligence Artificielle,L3,16.9,57.0
+EPL1125,MARTIN,Stéphane,Génie Civil,GC Bâtiment,M1,16.9,57.0
+EPL0437,MOREAU,Sophie,Informatique,Intelligence Artificielle,L3,16.89,58.0
+EPL1133,BERNARD,Madeleine,Réseaux & Télécoms,Télécommunications,L2,16.84,59.0
+EPL0625,BERNARD,Thomas,Génie Civil,GC Bâtiment,L2,16.78,60.0
+EPL1149,DIJOUX,Madeleine,Informatique,Intelligence Artificielle,M1,16.78,60.0
+EPL0283,DELANNOY,Sophie,Informatique,Intelligence Artificielle,M1,16.76,61.0
+EPL0827,DIJOUX,Agathe,Informatique,Intelligence Artificielle,M1,16.74,62.0
+EPL0007,WAGNER,Lucas,Génie Civil,GC Travaux Publics,L3,16.74,62.0
+EPL0914,PETIT,Lucas,Informatique,Intelligence Artificielle,L3,16.73,63.0
+EPL1036,PETIT,Emma,Réseaux & Télécoms,Télécommunications,L2,16.72,64.0
+EPL0929,DIJOUX,Stéphane,Informatique,Génie Logiciel,L3,16.7,65.0
+EPL0074,DELANNOY,Sophie,Réseaux & Télécoms,Télécommunications,L2,16.69,66.0
+EPL0837,DIJOUX,Antoine,Génie Civil,GC Bâtiment,L3,16.65,67.0
+EPL0417,DUPONT,Thomas,Informatique,Intelligence Artificielle,M1,16.65,67.0
+EPL0136,SCHMITT,Danielle,Informatique,Génie Logiciel,M1,16.65,67.0
+EPL0863,MOREAU,Lucas,Informatique,Intelligence Artificielle,L3,16.64,68.0
+EPL0072,PETIT,Stéphane,Réseaux & Télécoms,Télécommunications,L1,16.61,69.0
+EPL0362,DIJOUX,Antoine,Génie Civil,GC Bâtiment,L3,16.6,70.0
+EPL0632,PETIT,Julie,Informatique,Intelligence Artificielle,M1,16.59,71.0
+EPL0004,DIJOUX,Sophie,Génie Civil,GC Bâtiment,L3,16.57,72.0
+EPL0495,WAGNER,Sophie,Génie Civil,GC Travaux Publics,L3,16.57,72.0
+EPL0435,SCHMITT,Antoine,Informatique,Génie Logiciel,M1,16.51,73.0
+EPL0668,MOREAU,Lucas,Génie Civil,GC Bâtiment,L2,16.51,73.0
+EPL0987,DELANNOY,Julie,Informatique,Génie Logiciel,M1,16.51,73.0
+EPL1079,PETIT,Sophie,Informatique,Intelligence Artificielle,M1,16.5,74.0
+EPL0610,MOREAU,Thomas,Génie Civil,GC Bâtiment,L2,16.49,75.0
+EPL0492,DELANNOY,Stéphane,Informatique,Génie Logiciel,L3,16.44,76.0
+EPL0083,WAGNER,Lucas,Génie Civil,GC Travaux Publics,L2,16.43,77.0
+EPL1049,DELANNOY,Sophie,Réseaux & Télécoms,Télécommunications,L1,16.43,77.0
+EPL0352,ROBERT,Sophie,Génie Civil,GC Travaux Publics,M1,16.43,77.0
+EPL0021,WAGNER,Stéphane,Génie Civil,GC Bâtiment,M1,16.4,78.0
+EPL0178,DUPONT,Madeleine,Informatique,Intelligence Artificielle,L3,16.36,79.0
+EPL0826,WAGNER,Antoine,Informatique,Intelligence Artificielle,L3,16.36,79.0
+EPL0373,DUPONT,Thomas,Réseaux & Télécoms,Télécommunications,L2,16.35,80.0
+EPL0813,BERNARD,Stéphane,Réseaux & Télécoms,Télécommunications,L2,16.34,81.0
+EPL0954,WAGNER,Antoine,Informatique,Intelligence Artificielle,M1,16.33,82.0
+EPL0544,PETIT,Emma,Informatique,Intelligence Artificielle,L3,16.32,83.0
+EPL0966,DIJOUX,Sophie,Génie Civil,GC Travaux Publics,L3,16.32,83.0
+EPL0271,ROBERT,Thomas,Réseaux & Télécoms,Télécommunications,L1,16.32,83.0
+EPL0855,ROBERT,Lucas,Réseaux & Télécoms,Télécommunications,L2,16.26,84.0
+EPL0822,ROBERT,Sophie,Génie Civil,GC Bâtiment,L3,16.23,85.0
+EPL0123,DELANNOY,Madeleine,Réseaux & Télécoms,Télécommunications,L1,16.21,86.0
+EPL1001,DELANNOY,Madeleine,Informatique,Intelligence Artificielle,L3,16.2,87.0
+EPL1182,MOREAU,Agathe,Génie Civil,GC Bâtiment,L3,16.18,88.0
+EPL0895,SCHMITT,Julie,Informatique,Intelligence Artificielle,M1,16.15,89.0
+EPL1167,MARTIN,Danielle,Informatique,Génie Logiciel,M1,16.15,89.0
+EPL1050,DELANNOY,Lucas,Informatique,Génie Logiciel,M1,16.14,90.0
+EPL1142,SCHMITT,Stéphane,Informatique,Intelligence Artificielle,L3,16.13,91.0
+EPL0426,MARTIN,Sophie,Génie Civil,GC Bâtiment,L3,16.11,92.0
+EPL0474,DIJOUX,Danielle,Réseaux & Télécoms,Télécommunications,L2,16.1,93.0
+EPL1200,SCHMITT,Danielle,Informatique,Intelligence Artificielle,M1,16.09,94.0
+EPL0604,BERNARD,Julie,Génie Civil,GC Travaux Publics,M1,16.07,95.0
+EPL0066,MOREAU,Madeleine,Informatique,Intelligence Artificielle,L3,16.07,95.0
+EPL0398,DELANNOY,Agathe,Informatique,Génie Logiciel,L3,16.06,96.0
+EPL0624,SCHMITT,Emma,Génie Civil,GC Travaux Publics,M1,16.04,97.0
+EPL0962,BERNARD,Stéphane,Génie Civil,GC Travaux Publics,L2,15.99,98.0
+EPL1011,DUPONT,Danielle,Informatique,Génie Logiciel,L3,15.95,99.0
+EPL0142,ROBERT,Danielle,Informatique,Intelligence Artificielle,M1,15.92,100.0
+EPL0315,DUPONT,Thomas,Génie Civil,GC Travaux Publics,L2,15.92,100.0
+EPL0904,PETIT,Madeleine,Réseaux & Télécoms,Télécommunications,L1,15.84,101.0
+EPL0414,DELANNOY,Lucas,Génie Civil,GC Bâtiment,M1,15.83,102.0
+EPL0307,WAGNER,Sophie,Réseaux & Télécoms,Télécommunications,L2,15.83,102.0
+EPL0680,MARTIN,Danielle,Réseaux & Télécoms,Télécommunications,L2,15.81,103.0
+EPL0257,PETIT,Emma,Génie Civil,GC Bâtiment,L3,15.8,104.0
+EPL0809,WAGNER,Lucas,Informatique,Génie Logiciel,M1,15.77,105.0
+EPL0671,DELANNOY,Sophie,Réseaux & Télécoms,Télécommunications,L2,15.74,106.0
+EPL0400,SCHMITT,Julie,Informatique,Génie Logiciel,L3,15.71,107.0
+EPL0899,MARTIN,Agathe,Informatique,Intelligence Artificielle,L3,15.62,108.0
+EPL0565,WAGNER,Julie,Réseaux & Télécoms,Télécommunications,L2,15.6,109.0
+EPL0925,BERNARD,Agathe,Génie Civil,GC Bâtiment,L3,15.59,110.0
+EPL0854,DIJOUX,Agathe,Génie Civil,GC Travaux Publics,L2,15.57,111.0
+EPL0880,DUPONT,Julie,Réseaux & Télécoms,Télécommunications,L2,15.57,111.0
+EPL1137,SCHMITT,Antoine,Informatique,Génie Logiciel,L3,15.57,111.0
+EPL1122,DELANNOY,Sophie,Informatique,Génie Logiciel,L3,15.56,112.0
+EPL0419,MARTIN,Emma,Réseaux & Télécoms,Télécommunications,L1,15.54,113.0
+EPL0395,MARTIN,Agathe,Informatique,Intelligence Artificielle,M1,15.54,113.0
+EPL1058,MARTIN,Stéphane,Génie Civil,GC Travaux Publics,L2,15.52,114.0
+EPL0894,BERNARD,Sophie,Réseaux & Télécoms,Télécommunications,L1,15.51,115.0
+EPL0553,DUPONT,Stéphane,Réseaux & Télécoms,Télécommunications,L2,15.5,116.0
+EPL0273,WAGNER,Julie,Génie Civil,GC Travaux Publics,M1,15.49,117.0
+EPL0163,PETIT,Thomas,Informatique,Génie Logiciel,M1,15.48,118.0
+EPL0692,MARTIN,Madeleine,Informatique,Génie Logiciel,L3,15.48,118.0
+EPL1068,WAGNER,Sophie,Réseaux & Télécoms,Télécommunications,L2,15.48,118.0
+EPL0327,DUPONT,Agathe,Informatique,Génie Logiciel,M1,15.47,119.0
+EPL1063,ROBERT,Sophie,Informatique,Génie Logiciel,M1,15.45,120.0
+EPL0765,WAGNER,Danielle,Informatique,Génie Logiciel,M1,15.45,120.0
+EPL0580,MOREAU,Julie,Réseaux & Télécoms,Télécommunications,L1,15.43,121.0
+EPL0119,WAGNER,Antoine,Réseaux & Télécoms,Télécommunications,L2,15.43,121.0
+EPL0212,MARTIN,Sophie,Génie Civil,GC Travaux Publics,M1,15.41,122.0
+EPL0652,MOREAU,Julie,Informatique,Génie Logiciel,M1,15.38,123.0
+EPL0480,MARTIN,Stéphane,Génie Civil,GC Bâtiment,L2,15.36,124.0
+EPL0956,PETIT,Sophie,Réseaux & Télécoms,Télécommunications,L1,15.35,125.0
+EPL0890,DUPONT,Madeleine,Réseaux & Télécoms,Télécommunications,L1,15.33,126.0
+EPL1105,BERNARD,Sophie,Génie Civil,GC Bâtiment,L3,15.32,127.0
+EPL1121,DIJOUX,Stéphane,Réseaux & Télécoms,Télécommunications,L2,15.32,127.0
+EPL0716,MOREAU,Danielle,Génie Civil,GC Travaux Publics,M1,15.31,128.0
+EPL0312,DIJOUX,Emma,Informatique,Génie Logiciel,L3,15.3,129.0
+EPL0630,MOREAU,Sophie,Informatique,Génie Logiciel,M1,15.28,130.0
+EPL0226,WAGNER,Julie,Réseaux & Télécoms,Télécommunications,L2,15.27,131.0
+EPL0670,DELANNOY,Emma,Génie Civil,GC Travaux Publics,L3,15.27,131.0
+EPL0203,ROBERT,Emma,Réseaux & Télécoms,Télécommunications,L1,15.25,132.0
+EPL0786,SCHMITT,Agathe,Génie Civil,GC Bâtiment,M1,15.24,133.0
+EPL1043,ROBERT,Danielle,Informatique,Intelligence Artificielle,M1,15.24,133.0
+EPL0921,BERNARD,Madeleine,Réseaux & Télécoms,Télécommunications,L2,15.22,134.0
+EPL0893,BERNARD,Emma,Réseaux & Télécoms,Télécommunications,L1,15.2,135.0
+EPL0820,WAGNER,Sophie,Réseaux & Télécoms,Télécommunications,L2,15.2,135.0
+EPL0429,DELANNOY,Madeleine,Informatique,Intelligence Artificielle,M1,15.18,136.0
+EPL0048,PETIT,Julie,Réseaux & Télécoms,Télécommunications,L2,15.17,137.0
+EPL0204,SCHMITT,Agathe,Génie Civil,GC Bâtiment,L3,15.16,138.0
+EPL0754,MOREAU,Danielle,Génie Civil,GC Bâtiment,L2,15.16,138.0
+EPL0796,BERNARD,Antoine,Génie Civil,GC Travaux Publics,L2,15.16,138.0
+EPL1120,DELANNOY,Julie,Réseaux & Télécoms,Télécommunications,L1,15.15,139.0
+EPL1009,DELANNOY,Emma,Réseaux & Télécoms,Télécommunications,L1,15.15,139.0
+EPL0702,SCHMITT,Danielle,Réseaux & Télécoms,Télécommunications,L1,15.15,139.0
+EPL1040,DIJOUX,Stéphane,Informatique,Génie Logiciel,L3,15.14,140.0
+EPL0884,DELANNOY,Thomas,Génie Civil,GC Bâtiment,M1,15.13,141.0
+EPL0595,PETIT,Danielle,Génie Civil,GC Travaux Publics,L2,15.11,142.0
+EPL0254,DIJOUX,Lucas,Génie Civil,GC Travaux Publics,M1,15.1,143.0
+EPL0815,DELANNOY,Antoine,Génie Civil,GC Travaux Publics,L2,15.1,143.0
+EPL0055,DELANNOY,Thomas,Génie Civil,GC Travaux Publics,L3,15.09,144.0
+EPL1087,ROBERT,Julie,Réseaux & Télécoms,Télécommunications,L2,15.09,144.0
+EPL0735,BERNARD,Emma,Réseaux & Télécoms,Télécommunications,L2,15.09,144.0
+EPL1165,PETIT,Danielle,Réseaux & Télécoms,Télécommunications,L1,15.07,145.0
+EPL0740,DIJOUX,Antoine,Génie Civil,GC Bâtiment,L3,15.04,146.0
+EPL1156,DELANNOY,Antoine,Réseaux & Télécoms,Télécommunications,L1,15.03,147.0
+EPL0539,SCHMITT,Julie,Informatique,Intelligence Artificielle,M1,15.02,148.0
+EPL0068,ROBERT,Danielle,Réseaux & Télécoms,Télécommunications,L1,15.01,149.0
+EPL1075,ROBERT,Lucas,Génie Civil,GC Travaux Publics,M1,14.99,150.0
+EPL1101,ROBERT,Julie,Génie Civil,GC Travaux Publics,L2,14.99,150.0
+EPL0738,PETIT,Madeleine,Informatique,Intelligence Artificielle,L3,14.95,151.0
+EPL1159,DELANNOY,Madeleine,Réseaux & Télécoms,Télécommunications,L1,14.95,151.0
+EPL0839,MARTIN,Madeleine,Réseaux & Télécoms,Télécommunications,L2,14.95,151.0
+EPL0335,MARTIN,Madeleine,Réseaux & Télécoms,Télécommunications,L1,14.93,152.0
+EPL0060,MARTIN,Emma,Génie Civil,GC Bâtiment,L2,14.93,152.0
+EPL0774,WAGNER,Danielle,Informatique,Génie Logiciel,M1,14.92,153.0
+EPL0092,WAGNER,Madeleine,Génie Civil,GC Bâtiment,L2,14.91,154.0
+EPL0424,DUPONT,Stéphane,Informatique,Intelligence Artificielle,M1,14.91,154.0
+EPL0165,BERNARD,Sophie,Réseaux & Télécoms,Télécommunications,L1,14.89,155.0
+EPL1136,DIJOUX,Agathe,Informatique,Intelligence Artificielle,L3,14.89,155.0
+EPL0374,SCHMITT,Emma,Informatique,Génie Logiciel,M1,14.88,156.0
+EPL0452,MOREAU,Thomas,Informatique,Intelligence Artificielle,L3,14.87,157.0
+EPL0213,DIJOUX,Thomas,Informatique,Intelligence Artificielle,L3,14.86,158.0
+EPL0389,SCHMITT,Lucas,Informatique,Génie Logiciel,L3,14.85,159.0
+EPL1186,MARTIN,Madeleine,Informatique,Intelligence Artificielle,M1,14.82,160.0
+EPL0801,MARTIN,Antoine,Réseaux & Télécoms,Télécommunications,L2,14.81,161.0
+EPL0679,MARTIN,Danielle,Génie Civil,GC Bâtiment,M1,14.81,161.0
+EPL0056,DIJOUX,Danielle,Génie Civil,GC Bâtiment,M1,14.79,162.0
+EPL0501,DIJOUX,Thomas,Réseaux & Télécoms,Télécommunications,L2,14.78,163.0
+EPL0699,MARTIN,Lucas,Réseaux & Télécoms,Télécommunications,L2,14.77,164.0
+EPL1002,WAGNER,Thomas,Informatique,Génie Logiciel,L3,14.77,164.0
+EPL0087,MARTIN,Agathe,Réseaux & Télécoms,Télécommunications,L1,14.75,165.0
+EPL1099,DUPONT,Danielle,Informatique,Intelligence Artificielle,L3,14.75,165.0
+EPL0252,DIJOUX,Julie,Génie Civil,GC Bâtiment,L2,14.75,165.0
+EPL1183,WAGNER,Emma,Génie Civil,GC Travaux Publics,L3,14.75,165.0
+EPL0297,MOREAU,Stéphane,Réseaux & Télécoms,Télécommunications,L2,14.7,166.0
+EPL1007,WAGNER,Agathe,Génie Civil,GC Bâtiment,L3,14.69,167.0
+EPL0818,ROBERT,Antoine,Réseaux & Télécoms,Télécommunications,L1,14.67,168.0
+EPL1046,DIJOUX,Danielle,Informatique,Génie Logiciel,M1,14.65,169.0
+EPL0490,ROBERT,Madeleine,Génie Civil,GC Travaux Publics,L2,14.64,170.0
+EPL0988,MARTIN,Agathe,Réseaux & Télécoms,Télécommunications,L1,14.63,171.0
+EPL0942,PETIT,Stéphane,Réseaux & Télécoms,Télécommunications,L2,14.62,172.0
+EPL0377,DUPONT,Antoine,Réseaux & Télécoms,Télécommunications,L1,14.62,172.0
+EPL0563,PETIT,Stéphane,Informatique,Génie Logiciel,M1,14.61,173.0
+EPL0603,DUPONT,Agathe,Réseaux & Télécoms,Télécommunications,L2,14.61,173.0
+EPL1113,WAGNER,Stéphane,Informatique,Génie Logiciel,M1,14.61,173.0
+EPL0244,PETIT,Emma,Informatique,Génie Logiciel,L3,14.6,174.0
+EPL0192,MOREAU,Danielle,Informatique,Génie Logiciel,L3,14.57,175.0
+EPL0353,DELANNOY,Antoine,Réseaux & Télécoms,Télécommunications,L1,14.57,175.0
+EPL0240,DELANNOY,Madeleine,Informatique,Génie Logiciel,L3,14.56,176.0
+EPL1170,DELANNOY,Stéphane,Réseaux & Télécoms,Télécommunications,L2,14.56,176.0
+EPL0294,BERNARD,Antoine,Informatique,Génie Logiciel,M1,14.55,177.0
+EPL1080,MOREAU,Agathe,Réseaux & Télécoms,Télécommunications,L1,14.55,177.0
+EPL0973,WAGNER,Stéphane,Informatique,Génie Logiciel,M1,14.52,178.0
+EPL0541,ROBERT,Danielle,Réseaux & Télécoms,Télécommunications,L2,14.51,179.0
+EPL0787,WAGNER,Madeleine,Génie Civil,GC Bâtiment,M1,14.5,180.0
+EPL0575,WAGNER,Agathe,Informatique,Génie Logiciel,L3,14.49,181.0
+EPL0589,DELANNOY,Lucas,Réseaux & Télécoms,Télécommunications,L1,14.49,181.0
+EPL0313,DIJOUX,Julie,Réseaux & Télécoms,Télécommunications,L2,14.48,182.0
+EPL0176,DELANNOY,Stéphane,Génie Civil,GC Travaux Publics,L2,14.48,182.0
+EPL0167,DIJOUX,Emma,Génie Civil,GC Bâtiment,L3,14.47,183.0
+EPL0637,MOREAU,Lucas,Génie Civil,GC Bâtiment,L2,14.47,183.0
+EPL0035,ROBERT,Stéphane,Informatique,Génie Logiciel,L3,14.47,183.0
+EPL0076,MARTIN,Thomas,Réseaux & Télécoms,Télécommunications,L2,14.47,183.0
+EPL0891,DUPONT,Emma,Génie Civil,GC Travaux Publics,L3,14.46,184.0
+EPL0065,PETIT,Julie,Réseaux & Télécoms,Télécommunications,L1,14.44,185.0
+EPL0139,ROBERT,Stéphane,Génie Civil,GC Travaux Publics,L3,14.44,185.0
+EPL0299,PETIT,Thomas,Réseaux & Télécoms,Télécommunications,L1,14.44,185.0
+EPL0314,MOREAU,Julie,Génie Civil,GC Travaux Publics,L3,14.44,185.0
+EPL0121,MARTIN,Emma,Génie Civil,GC Bâtiment,M1,14.37,186.0
+EPL0328,MARTIN,Emma,Informatique,Intelligence Artificielle,L3,14.37,186.0
+EPL0162,DELANNOY,Agathe,Réseaux & Télécoms,Télécommunications,L2,14.36,187.0
+EPL0981,BERNARD,Sophie,Réseaux & Télécoms,Télécommunications,L2,14.36,187.0
+EPL0146,DIJOUX,Madeleine,Génie Civil,GC Bâtiment,L2,14.35,188.0
+EPL1061,MOREAU,Sophie,Génie Civil,GC Travaux Publics,L3,14.32,189.0
+EPL0260,ROBERT,Thomas,Informatique,Génie Logiciel,M1,14.32,189.0
+EPL0578,DUPONT,Madeleine,Informatique,Génie Logiciel,M1,14.31,190.0
+EPL0008,DUPONT,Madeleine,Génie Civil,GC Travaux Publics,M1,14.3,191.0
+EPL1171,DUPONT,Lucas,Génie Civil,GC Travaux Publics,L2,14.28,192.0
+EPL0980,MARTIN,Stéphane,Informatique,Génie Logiciel,M1,14.28,192.0
+EPL0216,MARTIN,Emma,Génie Civil,GC Travaux Publics,L2,14.28,192.0
+EPL0601,ROBERT,Antoine,Réseaux & Télécoms,Télécommunications,L1,14.27,193.0
+EPL0468,MARTIN,Madeleine,Génie Civil,GC Bâtiment,M1,14.27,193.0
+EPL0516,BERNARD,Emma,Informatique,Génie Logiciel,M1,14.27,193.0
+EPL0120,DELANNOY,Danielle,Génie Civil,GC Travaux Publics,M1,14.26,194.0
+EPL0520,DELANNOY,Madeleine,Informatique,Intelligence Artificielle,M1,14.25,195.0
+EPL0908,BERNARD,Thomas,Génie Civil,GC Bâtiment,M1,14.24,196.0
+EPL0303,SCHMITT,Thomas,Informatique,Génie Logiciel,L3,14.24,196.0
+EPL0724,DELANNOY,Danielle,Génie Civil,GC Travaux Publics,L3,14.23,197.0
+EPL0041,SCHMITT,Emma,Génie Civil,GC Bâtiment,L3,14.22,198.0
+EPL1095,ROBERT,Stéphane,Informatique,Génie Logiciel,M1,14.2,199.0
+EPL1093,MOREAU,Julie,Génie Civil,GC Bâtiment,M1,14.18,200.0
+EPL0618,DIJOUX,Agathe,Réseaux & Télécoms,Télécommunications,L2,14.18,200.0
+EPL0681,BERNARD,Sophie,Informatique,Génie Logiciel,L3,14.17,201.0
+EPL0434,WAGNER,Madeleine,Génie Civil,GC Bâtiment,M1,14.15,202.0
+EPL0686,PETIT,Emma,Réseaux & Télécoms,Télécommunications,L2,14.14,203.0
+EPL0186,DELANNOY,Thomas,Génie Civil,GC Bâtiment,L2,14.14,203.0
+EPL0938,SCHMITT,Lucas,Génie Civil,GC Travaux Publics,M1,14.13,204.0
+EPL0411,SCHMITT,Stéphane,Génie Civil,GC Travaux Publics,M1,14.13,204.0
+EPL0964,SCHMITT,Stéphane,Génie Civil,GC Bâtiment,L3,14.13,204.0
+EPL0689,MOREAU,Antoine,Informatique,Intelligence Artificielle,M1,14.13,204.0
+EPL0771,MOREAU,Antoine,Génie Civil,GC Travaux Publics,L3,14.12,205.0
+EPL1140,MARTIN,Emma,Génie Civil,GC Bâtiment,M1,14.1,206.0
+EPL0760,DUPONT,Thomas,Informatique,Génie Logiciel,L3,14.1,206.0
+EPL1005,ROBERT,Stéphane,Réseaux & Télécoms,Télécommunications,L2,14.09,207.0
+EPL0650,DUPONT,Emma,Réseaux & Télécoms,Télécommunications,L1,14.09,207.0
+EPL0365,WAGNER,Emma,Génie Civil,GC Travaux Publics,L3,14.07,208.0
+EPL0223,PETIT,Antoine,Réseaux & Télécoms,Télécommunications,L1,14.06,209.0
+EPL0428,SCHMITT,Danielle,Génie Civil,GC Bâtiment,M1,14.06,209.0
+EPL0885,BERNARD,Thomas,Génie Civil,GC Bâtiment,L2,14.05,210.0
+EPL0317,DIJOUX,Agathe,Informatique,Génie Logiciel,M1,14.05,210.0
+EPL0798,BERNARD,Emma,Informatique,Intelligence Artificielle,L3,14.04,211.0
+EPL0230,MARTIN,Danielle,Informatique,Intelligence Artificielle,M1,14.04,211.0
+EPL0842,WAGNER,Antoine,Réseaux & Télécoms,Télécommunications,L2,14.02,212.0
+EPL0446,DIJOUX,Agathe,Informatique,Intelligence Artificielle,M1,14.01,213.0
+EPL0282,BERNARD,Julie,Réseaux & Télécoms,Télécommunications,L1,13.99,214.0
+EPL0869,MOREAU,Madeleine,Génie Civil,GC Bâtiment,L3,13.98,215.0
+EPL0160,MOREAU,Agathe,Réseaux & Télécoms,Télécommunications,L2,13.97,216.0
+EPL1047,MOREAU,Julie,Génie Civil,GC Travaux Publics,L2,13.96,217.0
+EPL0611,MOREAU,Antoine,Informatique,Génie Logiciel,M1,13.96,217.0
+EPL0896,SCHMITT,Sophie,Réseaux & Télécoms,Télécommunications,L2,13.95,218.0
+EPL0214,ROBERT,Thomas,Réseaux & Télécoms,Télécommunications,L1,13.95,218.0
+EPL0943,BERNARD,Danielle,Informatique,Intelligence Artificielle,L3,13.95,218.0
+EPL0003,PETIT,Danielle,Informatique,Génie Logiciel,M1,13.94,219.0
+EPL0909,MOREAU,Madeleine,Informatique,Intelligence Artificielle,L3,13.94,219.0
+EPL0425,DELANNOY,Thomas,Informatique,Génie Logiciel,L3,13.94,219.0
+EPL1034,BERNARD,Sophie,Génie Civil,GC Travaux Publics,L2,13.94,219.0
+EPL0961,WAGNER,Stéphane,Génie Civil,GC Travaux Publics,M1,13.93,220.0
+EPL0998,BERNARD,Julie,Génie Civil,GC Bâtiment,M1,13.92,221.0
+EPL1123,DIJOUX,Lucas,Génie Civil,GC Bâtiment,M1,13.92,221.0
+EPL0531,PETIT,Danielle,Informatique,Génie Logiciel,L3,13.92,221.0
+EPL1008,DELANNOY,Stéphane,Réseaux & Télécoms,Télécommunications,L1,13.91,222.0
+EPL0236,DIJOUX,Lucas,Informatique,Génie Logiciel,M1,13.9,223.0
+EPL0860,MARTIN,Madeleine,Génie Civil,GC Bâtiment,L2,13.9,223.0
+EPL0583,PETIT,Emma,Réseaux & Télécoms,Télécommunications,L2,13.9,223.0
+EPL0773,DIJOUX,Lucas,Génie Civil,GC Travaux Publics,L3,13.9,223.0
+EPL0300,ROBERT,Antoine,Génie Civil,GC Travaux Publics,L2,13.89,224.0
+EPL0330,DIJOUX,Lucas,Génie Civil,GC Travaux Publics,L3,13.89,224.0
+EPL0181,DELANNOY,Thomas,Réseaux & Télécoms,Télécommunications,L1,13.88,225.0
+EPL0329,MOREAU,Danielle,Informatique,Intelligence Artificielle,L3,13.87,226.0
+EPL0775,BERNARD,Lucas,Informatique,Génie Logiciel,M1,13.87,226.0
+EPL0406,PETIT,Sophie,Informatique,Génie Logiciel,L3,13.87,226.0
+EPL0780,MOREAU,Sophie,Génie Civil,GC Bâtiment,L2,13.86,227.0
+EPL0694,SCHMITT,Emma,Réseaux & Télécoms,Télécommunications,L2,13.85,228.0
+EPL1029,BERNARD,Sophie,Informatique,Intelligence Artificielle,M1,13.84,229.0
+EPL1107,DELANNOY,Danielle,Informatique,Génie Logiciel,L3,13.84,229.0
+EPL0054,MARTIN,Stéphane,Génie Civil,GC Bâtiment,L2,13.84,229.0
+EPL0467,SCHMITT,Julie,Informatique,Génie Logiciel,L3,13.84,229.0
+EPL0784,DIJOUX,Stéphane,Informatique,Génie Logiciel,L3,13.83,230.0
+EPL0304,MARTIN,Emma,Réseaux & Télécoms,Télécommunications,L2,13.83,230.0
+EPL0706,DIJOUX,Thomas,Génie Civil,GC Travaux Publics,L2,13.82,231.0
+EPL0917,DELANNOY,Madeleine,Réseaux & Télécoms,Télécommunications,L1,13.82,231.0
+EPL0322,PETIT,Emma,Génie Civil,GC Travaux Publics,M1,13.79,232.0
+EPL1139,ROBERT,Emma,Génie Civil,GC Travaux Publics,M1,13.79,232.0
+EPL1169,BERNARD,Thomas,Génie Civil,GC Bâtiment,M1,13.78,233.0
+EPL0695,WAGNER,Thomas,Réseaux & Télécoms,Télécommunications,L1,13.78,233.0
+EPL0889,DELANNOY,Agathe,Génie Civil,GC Bâtiment,L2,13.77,234.0
+EPL0125,WAGNER,Thomas,Informatique,Génie Logiciel,L3,13.76,235.0
+EPL0288,ROBERT,Julie,Génie Civil,GC Bâtiment,L3,13.76,235.0
+EPL0887,PETIT,Stéphane,Génie Civil,GC Travaux Publics,L3,13.75,236.0
+EPL0477,DUPONT,Lucas,Informatique,Génie Logiciel,L3,13.73,237.0
+EPL0547,SCHMITT,Madeleine,Génie Civil,GC Travaux Publics,L3,13.73,237.0
+EPL1000,MOREAU,Sophie,Génie Civil,GC Travaux Publics,L2,13.72,238.0
+EPL0211,WAGNER,Thomas,Informatique,Génie Logiciel,L3,13.71,239.0
+EPL0524,ROBERT,Antoine,Informatique,Génie Logiciel,L3,13.71,239.0
+EPL0959,DUPONT,Stéphane,Réseaux & Télécoms,Télécommunications,L2,13.71,239.0
+EPL0504,DUPONT,Agathe,Réseaux & Télécoms,Télécommunications,L2,13.69,240.0
+EPL1168,DUPONT,Madeleine,Informatique,Génie Logiciel,L3,13.69,240.0
+EPL0785,BERNARD,Danielle,Génie Civil,GC Bâtiment,L3,13.68,241.0
+EPL0202,PETIT,Agathe,Réseaux & Télécoms,Télécommunications,L2,13.68,241.0
+EPL1198,DELANNOY,Emma,Réseaux & Télécoms,Télécommunications,L1,13.66,242.0
+EPL1189,DUPONT,Danielle,Génie Civil,GC Travaux Publics,L3,13.65,243.0
+EPL0309,DELANNOY,Antoine,Génie Civil,GC Travaux Publics,L3,13.64,244.0
+EPL1059,DUPONT,Lucas,Réseaux & Télécoms,Télécommunications,L1,13.63,245.0
+EPL0522,ROBERT,Thomas,Réseaux & Télécoms,Télécommunications,L2,13.63,245.0
+EPL0010,DUPONT,Danielle,Informatique,Intelligence Artificielle,M1,13.63,245.0
+EPL0496,DUPONT,Lucas,Génie Civil,GC Bâtiment,M1,13.62,246.0
+EPL0543,DUPONT,Antoine,Réseaux & Télécoms,Télécommunications,L1,13.59,247.0
+EPL0149,MOREAU,Sophie,Réseaux & Télécoms,Télécommunications,L2,13.57,248.0
+EPL1021,SCHMITT,Agathe,Génie Civil,GC Bâtiment,M1,13.57,248.0
+EPL0361,DUPONT,Sophie,Informatique,Intelligence Artificielle,L3,13.56,249.0
+EPL0209,SCHMITT,Madeleine,Informatique,Intelligence Artificielle,L3,13.55,250.0
+EPL0207,DELANNOY,Danielle,Réseaux & Télécoms,Télécommunications,L1,13.55,250.0
+EPL0745,DUPONT,Julie,Informatique,Intelligence Artificielle,L3,13.55,250.0
+EPL0410,ROBERT,Sophie,Réseaux & Télécoms,Télécommunications,L1,13.54,251.0
+EPL0090,SCHMITT,Sophie,Informatique,Génie Logiciel,L3,13.54,251.0
+EPL0208,ROBERT,Lucas,Génie Civil,GC Travaux Publics,L3,13.54,251.0
+EPL0892,MOREAU,Emma,Génie Civil,GC Bâtiment,L3,13.52,252.0
+EPL0454,MOREAU,Thomas,Informatique,Intelligence Artificielle,M1,13.51,253.0
+EPL0243,DELANNOY,Lucas,Génie Civil,GC Bâtiment,L3,13.51,253.0
+EPL0517,PETIT,Antoine,Génie Civil,GC Travaux Publics,L3,13.5,254.0
+EPL0001,DELANNOY,Danielle,Génie Civil,GC Bâtiment,M1,13.49,255.0
+EPL0372,MARTIN,Sophie,Génie Civil,GC Bâtiment,M1,13.49,255.0
+EPL1114,DELANNOY,Lucas,Informatique,Intelligence Artificielle,L3,13.49,255.0
+EPL1053,DUPONT,Stéphane,Informatique,Intelligence Artificielle,M1,13.48,256.0
+EPL0392,WAGNER,Sophie,Informatique,Génie Logiciel,L3,13.48,256.0
+EPL0846,DUPONT,Stéphane,Réseaux & Télécoms,Télécommunications,L1,13.48,256.0
+EPL0757,DIJOUX,Emma,Génie Civil,GC Bâtiment,M1,13.48,256.0
+EPL0684,DIJOUX,Thomas,Informatique,Intelligence Artificielle,M1,13.47,257.0
+EPL0184,SCHMITT,Emma,Génie Civil,GC Bâtiment,M1,13.45,258.0
+EPL0593,DUPONT,Emma,Réseaux & Télécoms,Télécommunications,L1,13.44,259.0
+EPL0619,DIJOUX,Sophie,Informatique,Génie Logiciel,L3,13.44,259.0
+EPL1072,ROBERT,Madeleine,Informatique,Intelligence Artificielle,L3,13.43,260.0
+EPL0187,MARTIN,Julie,Informatique,Intelligence Artificielle,L3,13.42,261.0
+EPL0134,MARTIN,Danielle,Réseaux & Télécoms,Télécommunications,L1,13.42,261.0
+EPL0736,DUPONT,Madeleine,Génie Civil,GC Travaux Publics,L2,13.42,261.0
+EPL0158,DIJOUX,Stéphane,Informatique,Génie Logiciel,L3,13.42,261.0
+EPL0858,MARTIN,Antoine,Génie Civil,GC Travaux Publics,L3,13.41,262.0
+EPL0622,SCHMITT,Emma,Informatique,Intelligence Artificielle,M1,13.41,262.0
+EPL0276,ROBERT,Lucas,Informatique,Génie Logiciel,M1,13.39,263.0
+EPL0788,DUPONT,Emma,Réseaux & Télécoms,Télécommunications,L1,13.38,264.0
+EPL0958,ROBERT,Danielle,Génie Civil,GC Bâtiment,M1,13.37,265.0
+EPL1134,DELANNOY,Thomas,Génie Civil,GC Bâtiment,L2,13.36,266.0
+EPL0960,DUPONT,Madeleine,Génie Civil,GC Travaux Publics,L2,13.34,267.0
+EPL0690,PETIT,Lucas,Réseaux & Télécoms,Télécommunications,L1,13.33,268.0
+EPL0259,BERNARD,Julie,Informatique,Génie Logiciel,M1,13.33,268.0
+EPL1196,DELANNOY,Danielle,Informatique,Génie Logiciel,M1,13.32,269.0
+EPL0935,DIJOUX,Sophie,Réseaux & Télécoms,Télécommunications,L1,13.32,269.0
+EPL1026,BERNARD,Sophie,Réseaux & Télécoms,Télécommunications,L1,13.31,270.0
+EPL0791,BERNARD,Stéphane,Génie Civil,GC Travaux Publics,L2,13.29,271.0
+EPL1086,MARTIN,Antoine,Génie Civil,GC Travaux Publics,L3,13.29,271.0
+EPL0982,WAGNER,Thomas,Réseaux & Télécoms,Télécommunications,L2,13.28,272.0
+EPL1132,PETIT,Julie,Génie Civil,GC Travaux Publics,L3,13.27,273.0
+EPL1020,ROBERT,Danielle,Réseaux & Télécoms,Télécommunications,L2,13.27,273.0
+EPL0339,MARTIN,Stéphane,Informatique,Génie Logiciel,L3,13.24,274.0
+EPL0605,BERNARD,Antoine,Réseaux & Télécoms,Télécommunications,L1,13.24,274.0
+EPL0166,ROBERT,Sophie,Réseaux & Télécoms,Télécommunications,L2,13.24,274.0
+EPL0733,WAGNER,Agathe,Génie Civil,GC Travaux Publics,L2,13.22,275.0
+EPL0364,DELANNOY,Madeleine,Génie Civil,GC Travaux Publics,L2,13.21,276.0
+EPL0106,ROBERT,Thomas,Réseaux & Télécoms,Télécommunications,L2,13.21,276.0
+EPL0250,MOREAU,Danielle,Génie Civil,GC Bâtiment,M1,13.21,276.0
+EPL1033,MOREAU,Madeleine,Réseaux & Télécoms,Télécommunications,L1,13.2,277.0
+EPL0714,DUPONT,Thomas,Réseaux & Télécoms,Télécommunications,L1,13.2,277.0
+EPL1052,MARTIN,Stéphane,Réseaux & Télécoms,Télécommunications,L1,13.19,278.0
+EPL1006,SCHMITT,Antoine,Informatique,Génie Logiciel,L3,13.18,279.0
+EPL0559,ROBERT,Lucas,Réseaux & Télécoms,Télécommunications,L2,13.18,279.0
+EPL0196,MARTIN,Stéphane,Réseaux & Télécoms,Télécommunications,L2,13.16,280.0
+EPL0844,MOREAU,Agathe,Génie Civil,GC Travaux Publics,M1,13.15,281.0
+EPL1085,DELANNOY,Madeleine,Génie Civil,GC Travaux Publics,M1,13.15,281.0
+EPL0441,ROBERT,Thomas,Informatique,Génie Logiciel,L3,13.15,281.0
+EPL0783,MARTIN,Danielle,Génie Civil,GC Bâtiment,M1,13.14,282.0
+EPL0600,DELANNOY,Stéphane,Génie Civil,GC Travaux Publics,M1,13.13,283.0
+EPL0028,BERNARD,Thomas,Informatique,Génie Logiciel,L3,13.13,283.0
+EPL0928,PETIT,Sophie,Réseaux & Télécoms,Télécommunications,L1,13.13,283.0
+EPL0549,MOREAU,Agathe,Informatique,Intelligence Artificielle,M1,13.11,284.0
+EPL0901,PETIT,Lucas,Réseaux & Télécoms,Télécommunications,L1,13.11,284.0
+EPL0447,DIJOUX,Agathe,Génie Civil,GC Bâtiment,L3,13.1,285.0
+EPL1116,MARTIN,Antoine,Génie Civil,GC Travaux Publics,L3,13.09,286.0
+EPL0071,PETIT,Danielle,Réseaux & Télécoms,Télécommunications,L2,13.08,287.0
+EPL0069,WAGNER,Danielle,Génie Civil,GC Travaux Publics,M1,13.08,287.0
+EPL0201,ROBERT,Madeleine,Informatique,Intelligence Artificielle,M1,13.07,288.0
+EPL0295,BERNARD,Emma,Réseaux & Télécoms,Télécommunications,L2,13.07,288.0
+EPL0082,DELANNOY,Julie,Génie Civil,GC Travaux Publics,L3,13.07,288.0
+EPL0952,PETIT,Antoine,Informatique,Intelligence Artificielle,M1,13.06,289.0
+EPL1070,MOREAU,Julie,Réseaux & Télécoms,Télécommunications,L2,13.04,290.0
+EPL0152,DUPONT,Agathe,Réseaux & Télécoms,Télécommunications,L1,13.04,290.0
+EPL1100,DIJOUX,Sophie,Génie Civil,GC Travaux Publics,L3,13.04,290.0
+EPL0728,ROBERT,Stéphane,Informatique,Génie Logiciel,L3,13.04,290.0
+EPL0387,SCHMITT,Danielle,Réseaux & Télécoms,Télécommunications,L1,13.03,291.0
+EPL0957,PETIT,Emma,Génie Civil,GC Bâtiment,L2,13.03,291.0
+EPL0049,BERNARD,Danielle,Informatique,Génie Logiciel,M1,13.03,291.0
+EPL0581,DUPONT,Emma,Réseaux & Télécoms,Télécommunications,L1,13.02,292.0
+EPL0174,PETIT,Madeleine,Réseaux & Télécoms,Télécommunications,L2,13.02,292.0
+EPL0555,WAGNER,Lucas,Génie Civil,GC Travaux Publics,L2,13.01,293.0
+EPL0868,PETIT,Lucas,Réseaux & Télécoms,Télécommunications,L1,13.0,294.0
+EPL0594,ROBERT,Lucas,Informatique,Intelligence Artificielle,L3,13.0,294.0
+EPL0415,WAGNER,Stéphane,Réseaux & Télécoms,Télécommunications,L1,13.0,294.0
+EPL1130,PETIT,Lucas,Réseaux & Télécoms,Télécommunications,L2,12.99,295.0
+EPL0059,WAGNER,Lucas,Informatique,Intelligence Artificielle,L3,12.99,295.0
+EPL0088,MOREAU,Lucas,Réseaux & Télécoms,Télécommunications,L1,12.99,295.0
+EPL0573,DELANNOY,Julie,Informatique,Intelligence Artificielle,M1,12.98,296.0
+EPL0697,BERNARD,Thomas,Réseaux & Télécoms,Télécommunications,L1,12.98,296.0
+EPL0319,ROBERT,Emma,Réseaux & Télécoms,Télécommunications,L2,12.97,297.0
+EPL0051,BERNARD,Sophie,Informatique,Intelligence Artificielle,L3,12.97,297.0
+EPL0359,SCHMITT,Stéphane,Informatique,Génie Logiciel,L3,12.97,297.0
+EPL1131,MARTIN,Madeleine,Réseaux & Télécoms,Télécommunications,L2,12.96,298.0
+EPL1194,DUPONT,Agathe,Informatique,Intelligence Artificielle,L3,12.96,298.0
+EPL0018,WAGNER,Danielle,Génie Civil,GC Bâtiment,M1,12.94,299.0
+EPL0478,WAGNER,Antoine,Réseaux & Télécoms,Télécommunications,L2,12.93,300.0
+EPL0351,SCHMITT,Stéphane,Informatique,Intelligence Artificielle,L3,12.93,300.0
+EPL0298,MARTIN,Stéphane,Réseaux & Télécoms,Télécommunications,L2,12.92,301.0
+EPL0721,DELANNOY,Antoine,Génie Civil,GC Bâtiment,M1,12.92,301.0
+EPL1127,DELANNOY,Madeleine,Réseaux & Télécoms,Télécommunications,L2,12.91,302.0
+EPL0116,ROBERT,Madeleine,Informatique,Intelligence Artificielle,M1,12.9,303.0
+EPL0150,MARTIN,Antoine,Réseaux & Télécoms,Télécommunications,L1,12.89,304.0
+EPL0097,MOREAU,Emma,Informatique,Génie Logiciel,L3,12.89,304.0
+EPL0155,SCHMITT,Emma,Réseaux & Télécoms,Télécommunications,L1,12.88,305.0
+EPL0847,PETIT,Sophie,Réseaux & Télécoms,Télécommunications,L1,12.87,306.0
+EPL0561,DUPONT,Sophie,Informatique,Génie Logiciel,L3,12.87,306.0
+EPL0867,DELANNOY,Danielle,Informatique,Intelligence Artificielle,L3,12.86,307.0
+EPL0916,WAGNER,Sophie,Génie Civil,GC Travaux Publics,M1,12.84,308.0
+EPL0289,PETIT,Emma,Informatique,Intelligence Artificielle,M1,12.84,308.0
+EPL0613,MARTIN,Emma,Informatique,Intelligence Artificielle,L3,12.84,308.0
+EPL1172,PETIT,Agathe,Réseaux & Télécoms,Télécommunications,L1,12.84,308.0
+EPL0175,ROBERT,Agathe,Génie Civil,GC Travaux Publics,L3,12.83,309.0
+EPL0511,PETIT,Danielle,Génie Civil,GC Travaux Publics,M1,12.81,310.0
+EPL0793,MOREAU,Agathe,Informatique,Intelligence Artificielle,M1,12.81,310.0
+EPL0817,ROBERT,Madeleine,Génie Civil,GC Travaux Publics,L2,12.8,311.0
+EPL0145,MARTIN,Danielle,Réseaux & Télécoms,Télécommunications,L2,12.78,312.0
+EPL1054,MARTIN,Agathe,Génie Civil,GC Bâtiment,L3,12.78,312.0
+EPL0529,BERNARD,Sophie,Génie Civil,GC Bâtiment,L2,12.78,312.0
+EPL0098,MOREAU,Lucas,Génie Civil,GC Travaux Publics,L2,12.78,312.0
+EPL0737,MOREAU,Sophie,Génie Civil,GC Travaux Publics,M1,12.77,313.0
+EPL0109,MOREAU,Agathe,Réseaux & Télécoms,Télécommunications,L2,12.77,313.0
+EPL0554,MOREAU,Emma,Génie Civil,GC Bâtiment,L2,12.76,314.0
+EPL0151,PETIT,Danielle,Informatique,Génie Logiciel,L3,12.75,315.0
+EPL0913,MOREAU,Danielle,Informatique,Génie Logiciel,L3,12.75,315.0
+EPL0586,WAGNER,Agathe,Réseaux & Télécoms,Télécommunications,L2,12.74,316.0
+EPL0343,MARTIN,Julie,Réseaux & Télécoms,Télécommunications,L1,12.73,317.0
+EPL0342,PETIT,Agathe,Génie Civil,GC Bâtiment,L2,12.73,317.0
+EPL0950,DELANNOY,Madeleine,Génie Civil,GC Travaux Publics,M1,12.73,317.0
+EPL0939,MOREAU,Emma,Informatique,Génie Logiciel,L3,12.73,317.0
+EPL0013,ROBERT,Thomas,Génie Civil,GC Bâtiment,M1,12.73,317.0
+EPL1088,ROBERT,Madeleine,Informatique,Intelligence Artificielle,L3,12.72,318.0
+EPL0577,DELANNOY,Stéphane,Génie Civil,GC Travaux Publics,M1,12.71,319.0
+EPL0346,BERNARD,Agathe,Informatique,Génie Logiciel,L3,12.7,320.0
+EPL0836,DIJOUX,Stéphane,Informatique,Intelligence Artificielle,M1,12.7,320.0
+EPL0154,DELANNOY,Emma,Informatique,Intelligence Artificielle,M1,12.7,320.0
+EPL0141,MOREAU,Agathe,Génie Civil,GC Travaux Publics,L2,12.68,321.0
+EPL0620,ROBERT,Stéphane,Réseaux & Télécoms,Télécommunications,L2,12.67,322.0
+EPL0878,DELANNOY,Sophie,Réseaux & Télécoms,Télécommunications,L1,12.67,322.0
+EPL1199,ROBERT,Lucas,Informatique,Intelligence Artificielle,L3,12.67,322.0
+EPL0807,SCHMITT,Danielle,Informatique,Intelligence Artificielle,L3,12.67,322.0
+EPL1039,DIJOUX,Julie,Réseaux & Télécoms,Télécommunications,L1,12.67,322.0
+EPL0367,SCHMITT,Stéphane,Informatique,Intelligence Artificielle,L3,12.67,322.0
+EPL0912,SCHMITT,Madeleine,Génie Civil,GC Travaux Publics,L3,12.66,323.0
+EPL0232,PETIT,Stéphane,Réseaux & Télécoms,Télécommunications,L1,12.65,324.0
+EPL1112,BERNARD,Danielle,Génie Civil,GC Travaux Publics,L3,12.65,324.0
+EPL0193,ROBERT,Madeleine,Réseaux & Télécoms,Télécommunications,L1,12.64,325.0
+EPL0464,DUPONT,Lucas,Génie Civil,GC Travaux Publics,M1,12.64,325.0
+EPL0037,MARTIN,Agathe,Génie Civil,GC Travaux Publics,L3,12.63,326.0
+EPL0711,BERNARD,Thomas,Réseaux & Télécoms,Télécommunications,L2,12.63,326.0
+EPL0991,BERNARD,Madeleine,Réseaux & Télécoms,Télécommunications,L2,12.63,326.0
+EPL0792,ROBERT,Madeleine,Réseaux & Télécoms,Télécommunications,L1,12.62,327.0
+EPL0484,MOREAU,Sophie,Génie Civil,GC Travaux Publics,M1,12.61,328.0
+EPL0861,BERNARD,Lucas,Informatique,Intelligence Artificielle,M1,12.61,328.0
+EPL0277,PETIT,Stéphane,Réseaux & Télécoms,Télécommunications,L1,12.6,329.0
+EPL1119,DELANNOY,Madeleine,Réseaux & Télécoms,Télécommunications,L1,12.6,329.0
+EPL1016,PETIT,Agathe,Réseaux & Télécoms,Télécommunications,L1,12.59,330.0
+EPL0731,SCHMITT,Julie,Génie Civil,GC Travaux Publics,M1,12.59,330.0
+EPL0040,MOREAU,Julie,Génie Civil,GC Bâtiment,L2,12.59,330.0
+EPL0659,SCHMITT,Thomas,Génie Civil,GC Bâtiment,L3,12.59,330.0
+EPL0963,SCHMITT,Julie,Informatique,Intelligence Artificielle,L3,12.59,330.0
+EPL1012,PETIT,Emma,Génie Civil,GC Travaux Publics,L3,12.59,330.0
+EPL0814,MARTIN,Antoine,Réseaux & Télécoms,Télécommunications,L1,12.59,330.0
+EPL0920,ROBERT,Antoine,Réseaux & Télécoms,Télécommunications,L2,12.58,331.0
+EPL0905,PETIT,Stéphane,Génie Civil,GC Bâtiment,M1,12.57,332.0
+EPL0918,PETIT,Julie,Réseaux & Télécoms,Télécommunications,L2,12.56,333.0
+EPL0238,DUPONT,Madeleine,Réseaux & Télécoms,Télécommunications,L1,12.56,333.0
+EPL0747,SCHMITT,Emma,Réseaux & Télécoms,Télécommunications,L1,12.56,333.0
+EPL0758,DIJOUX,Madeleine,Génie Civil,GC Bâtiment,L3,12.55,334.0
+EPL0144,DELANNOY,Emma,Informatique,Génie Logiciel,M1,12.55,334.0
+EPL0585,ROBERT,Agathe,Génie Civil,GC Bâtiment,L2,12.55,334.0
+EPL0378,MARTIN,Madeleine,Génie Civil,GC Bâtiment,L2,12.55,334.0
+EPL1181,BERNARD,Stéphane,Génie Civil,GC Travaux Publics,L3,12.54,335.0
+EPL0781,ROBERT,Antoine,Informatique,Génie Logiciel,L3,12.53,336.0
+EPL0195,DUPONT,Thomas,Génie Civil,GC Travaux Publics,L3,12.52,337.0
+EPL0108,BERNARD,Sophie,Génie Civil,GC Bâtiment,M1,12.52,337.0
+EPL0725,DIJOUX,Stéphane,Réseaux & Télécoms,Télécommunications,L2,12.51,338.0
+EPL0042,DUPONT,Stéphane,Informatique,Intelligence Artificielle,L3,12.51,338.0
+EPL0845,WAGNER,Sophie,Génie Civil,GC Bâtiment,M1,12.5,339.0
+EPL0198,DELANNOY,Madeleine,Génie Civil,GC Travaux Publics,L2,12.46,340.0
+EPL0718,DIJOUX,Thomas,Réseaux & Télécoms,Télécommunications,L1,12.45,341.0
+EPL1115,DIJOUX,Danielle,Réseaux & Télécoms,Télécommunications,L1,12.45,341.0
+EPL0386,SCHMITT,Lucas,Réseaux & Télécoms,Télécommunications,L2,12.45,341.0
+EPL0898,BERNARD,Thomas,Réseaux & Télécoms,Télécommunications,L2,12.44,342.0
+EPL0923,MARTIN,Sophie,Réseaux & Télécoms,Télécommunications,L1,12.4,343.0
+EPL0616,DIJOUX,Danielle,Informatique,Intelligence Artificielle,L3,12.39,344.0
+EPL0270,MOREAU,Thomas,Réseaux & Télécoms,Télécommunications,L1,12.39,344.0
+EPL0971,ROBERT,Sophie,Réseaux & Télécoms,Télécommunications,L1,12.38,345.0
+EPL1144,MARTIN,Emma,Génie Civil,GC Travaux Publics,L2,12.38,345.0
+EPL0762,MARTIN,Antoine,Réseaux & Télécoms,Télécommunications,L2,12.37,346.0
+EPL0409,WAGNER,Sophie,Informatique,Génie Logiciel,L3,12.36,347.0
+EPL1028,MOREAU,Stéphane,Génie Civil,GC Bâtiment,M1,12.36,347.0
+EPL0306,DELANNOY,Madeleine,Génie Civil,GC Bâtiment,L3,12.35,348.0
+EPL0418,ROBERT,Emma,Réseaux & Télécoms,Télécommunications,L2,12.35,348.0
+EPL0717,DELANNOY,Stéphane,Génie Civil,GC Bâtiment,L2,12.34,349.0
+EPL0281,WAGNER,Antoine,Génie Civil,GC Travaux Publics,L2,12.34,349.0
+EPL0026,WAGNER,Julie,Informatique,Génie Logiciel,M1,12.33,350.0
+EPL0617,MARTIN,Sophie,Informatique,Génie Logiciel,L3,12.33,350.0
+EPL0666,DELANNOY,Sophie,Réseaux & Télécoms,Télécommunications,L2,12.32,351.0
+EPL1191,WAGNER,Stéphane,Génie Civil,GC Travaux Publics,L2,12.32,351.0
+EPL1173,MARTIN,Julie,Génie Civil,GC Travaux Publics,L3,12.31,352.0
+EPL0129,WAGNER,Emma,Réseaux & Télécoms,Télécommunications,L1,12.3,353.0
+EPL0519,ROBERT,Agathe,Réseaux & Télécoms,Télécommunications,L2,12.3,353.0
+EPL0321,WAGNER,Stéphane,Génie Civil,GC Bâtiment,L2,12.29,354.0
+EPL0369,MOREAU,Danielle,Informatique,Intelligence Artificielle,M1,12.29,354.0
+EPL0091,MARTIN,Thomas,Informatique,Génie Logiciel,M1,12.29,354.0
+EPL0803,BERNARD,Thomas,Informatique,Intelligence Artificielle,L3,12.29,354.0
+EPL0079,ROBERT,Stéphane,Informatique,Génie Logiciel,L3,12.28,355.0
+EPL0551,DUPONT,Julie,Génie Civil,GC Travaux Publics,M1,12.26,356.0
+EPL0077,DUPONT,Madeleine,Informatique,Intelligence Artificielle,M1,12.26,356.0
+EPL0220,ROBERT,Thomas,Génie Civil,GC Travaux Publics,M1,12.25,357.0
+EPL0819,DIJOUX,Stéphane,Informatique,Intelligence Artificielle,M1,12.25,357.0
+EPL1097,DELANNOY,Lucas,Informatique,Intelligence Artificielle,L3,12.24,358.0
+EPL0333,MOREAU,Danielle,Génie Civil,GC Travaux Publics,M1,12.23,359.0
+EPL0493,PETIT,Agathe,Informatique,Intelligence Artificielle,M1,12.23,359.0
+EPL1073,DELANNOY,Madeleine,Réseaux & Télécoms,Télécommunications,L2,12.23,359.0
+EPL0436,PETIT,Danielle,Réseaux & Télécoms,Télécommunications,L1,12.22,360.0
+EPL0638,MOREAU,Thomas,Génie Civil,GC Travaux Publics,L2,12.22,360.0
+EPL0591,DELANNOY,Antoine,Réseaux & Télécoms,Télécommunications,L1,12.21,361.0
+EPL0132,DIJOUX,Antoine,Génie Civil,GC Bâtiment,M1,12.21,361.0
+EPL0279,BERNARD,Emma,Génie Civil,GC Bâtiment,L2,12.21,361.0
+EPL0023,MOREAU,Stéphane,Réseaux & Télécoms,Télécommunications,L1,12.2,362.0
+EPL0420,WAGNER,Danielle,Réseaux & Télécoms,Télécommunications,L1,12.2,362.0
+EPL0227,ROBERT,Emma,Réseaux & Télécoms,Télécommunications,L1,12.19,363.0
+EPL1003,DELANNOY,Madeleine,Réseaux & Télécoms,Télécommunications,L1,12.18,364.0
+EPL0113,SCHMITT,Lucas,Informatique,Génie Logiciel,L3,12.18,364.0
+EPL0656,DUPONT,Thomas,Réseaux & Télécoms,Télécommunications,L1,12.18,364.0
+EPL0629,SCHMITT,Stéphane,Réseaux & Télécoms,Télécommunications,L1,12.17,365.0
+EPL0199,DUPONT,Agathe,Génie Civil,GC Bâtiment,L3,12.17,365.0
+EPL1094,BERNARD,Julie,Réseaux & Télécoms,Télécommunications,L2,12.16,366.0
+EPL0509,DIJOUX,Sophie,Génie Civil,GC Bâtiment,M1,12.15,367.0
+EPL0906,DELANNOY,Agathe,Génie Civil,GC Travaux Publics,L2,12.14,368.0
+EPL0233,BERNARD,Emma,Réseaux & Télécoms,Télécommunications,L1,12.14,368.0
+EPL0536,DUPONT,Agathe,Informatique,Intelligence Artificielle,L3,12.14,368.0
+EPL0404,PETIT,Agathe,Informatique,Intelligence Artificielle,M1,12.14,368.0
+EPL0528,SCHMITT,Emma,Génie Civil,GC Bâtiment,L3,12.14,368.0
+EPL1027,MOREAU,Lucas,Informatique,Intelligence Artificielle,L3,12.11,369.0
+EPL0462,SCHMITT,Julie,Réseaux & Télécoms,Télécommunications,L1,12.11,369.0
+EPL0800,SCHMITT,Agathe,Génie Civil,GC Travaux Publics,M1,12.09,370.0
+EPL0903,SCHMITT,Thomas,Réseaux & Télécoms,Télécommunications,L2,12.09,370.0
+EPL0799,DELANNOY,Lucas,Génie Civil,GC Bâtiment,L2,12.08,371.0
+EPL0744,BERNARD,Madeleine,Réseaux & Télécoms,Télécommunications,L1,12.08,371.0
+EPL0990,ROBERT,Agathe,Informatique,Génie Logiciel,L3,12.08,371.0
+EPL0371,SCHMITT,Antoine,Informatique,Intelligence Artificielle,M1,12.07,372.0
+EPL0727,SCHMITT,Julie,Génie Civil,GC Bâtiment,M1,12.06,373.0
+EPL0316,ROBERT,Julie,Réseaux & Télécoms,Télécommunications,L2,12.06,373.0
+EPL0571,ROBERT,Thomas,Informatique,Intelligence Artificielle,L3,12.06,373.0
+EPL1146,MARTIN,Antoine,Génie Civil,GC Travaux Publics,L3,12.05,374.0
+EPL0657,SCHMITT,Stéphane,Réseaux & Télécoms,Télécommunications,L2,12.04,375.0
+EPL0368,SCHMITT,Agathe,Génie Civil,GC Bâtiment,L3,12.04,375.0
+EPL0177,DUPONT,Stéphane,Informatique,Génie Logiciel,L3,12.04,375.0
+EPL0274,SCHMITT,Julie,Génie Civil,GC Travaux Publics,M1,12.03,376.0
+EPL0403,MOREAU,Danielle,Informatique,Génie Logiciel,L3,12.02,377.0
+EPL0099,DUPONT,Agathe,Génie Civil,GC Travaux Publics,L3,12.02,377.0
+EPL0985,WAGNER,Sophie,Réseaux & Télécoms,Télécommunications,L2,11.99,378.0
+EPL0491,PETIT,Danielle,Génie Civil,GC Travaux Publics,M1,11.98,379.0
+EPL0033,PETIT,Antoine,Génie Civil,GC Travaux Publics,L2,11.96,380.0
+EPL0331,DIJOUX,Danielle,Réseaux & Télécoms,Télécommunications,L2,11.96,380.0
+EPL0879,MOREAU,Julie,Réseaux & Télécoms,Télécommunications,L1,11.95,381.0
+EPL1197,MARTIN,Sophie,Informatique,Intelligence Artificielle,L3,11.94,382.0
+EPL0355,MOREAU,Danielle,Informatique,Intelligence Artificielle,L3,11.94,382.0
+EPL0357,WAGNER,Julie,Informatique,Génie Logiciel,M1,11.94,382.0
+EPL0305,MOREAU,Thomas,Informatique,Génie Logiciel,L3,11.94,382.0
+EPL0658,DUPONT,Thomas,Génie Civil,GC Bâtiment,M1,11.93,383.0
+EPL1023,MOREAU,Lucas,Génie Civil,GC Travaux Publics,L2,11.93,383.0
+EPL1057,PETIT,Antoine,Informatique,Génie Logiciel,M1,11.92,384.0
+EPL0112,DELANNOY,Agathe,Réseaux & Télécoms,Télécommunications,L1,11.92,384.0
+EPL0117,MARTIN,Stéphane,Génie Civil,GC Bâtiment,L3,11.9,385.0
+EPL0767,DUPONT,Danielle,Informatique,Intelligence Artificielle,M1,11.9,385.0
+EPL0875,WAGNER,Sophie,Informatique,Intelligence Artificielle,L3,11.9,385.0
+EPL0663,PETIT,Julie,Réseaux & Télécoms,Télécommunications,L2,11.9,385.0
+EPL0835,MOREAU,Madeleine,Génie Civil,GC Travaux Publics,L3,11.9,385.0
+EPL0442,DELANNOY,Agathe,Génie Civil,GC Bâtiment,M1,11.9,385.0
+EPL1092,SCHMITT,Agathe,Informatique,Génie Logiciel,M1,11.89,386.0
+EPL0715,SCHMITT,Antoine,Informatique,Génie Logiciel,M1,11.89,386.0
+EPL0073,BERNARD,Emma,Réseaux & Télécoms,Télécommunications,L1,11.89,386.0
+EPL1044,BERNARD,Emma,Informatique,Génie Logiciel,M1,11.88,387.0
+EPL0969,PETIT,Stéphane,Informatique,Génie Logiciel,L3,11.88,387.0
+EPL0797,PETIT,Sophie,Informatique,Intelligence Artificielle,M1,11.88,387.0
+EPL0984,DIJOUX,Antoine,Réseaux & Télécoms,Télécommunications,L2,11.86,388.0
+EPL0949,MOREAU,Antoine,Génie Civil,GC Bâtiment,L3,11.86,388.0
+EPL1071,DIJOUX,Sophie,Informatique,Génie Logiciel,L3,11.86,388.0
+EPL0841,WAGNER,Stéphane,Informatique,Intelligence Artificielle,M1,11.85,389.0
+EPL0512,DIJOUX,Stéphane,Réseaux & Télécoms,Télécommunications,L2,11.85,389.0
+EPL0648,DELANNOY,Stéphane,Génie Civil,GC Travaux Publics,L3,11.84,390.0
+EPL1118,DUPONT,Antoine,Réseaux & Télécoms,Télécommunications,L1,11.83,391.0
+EPL0612,MARTIN,Stéphane,Informatique,Génie Logiciel,L3,11.83,391.0
+EPL0720,MOREAU,Antoine,Génie Civil,GC Travaux Publics,L3,11.83,391.0
+EPL0440,WAGNER,Lucas,Réseaux & Télécoms,Télécommunications,L2,11.83,391.0
+EPL0262,DELANNOY,Thomas,Réseaux & Télécoms,Télécommunications,L1,11.82,392.0
+EPL1174,DIJOUX,Agathe,Informatique,Intelligence Artificielle,L3,11.81,393.0
+EPL0451,DUPONT,Sophie,Réseaux & Télécoms,Télécommunications,L1,11.81,393.0
+EPL1129,DUPONT,Antoine,Génie Civil,GC Travaux Publics,M1,11.81,393.0
+EPL0533,MOREAU,Stéphane,Réseaux & Télécoms,Télécommunications,L1,11.8,394.0
+EPL0930,MARTIN,Madeleine,Informatique,Intelligence Artificielle,M1,11.8,394.0
+EPL0789,SCHMITT,Julie,Informatique,Génie Logiciel,L3,11.79,395.0
+EPL1091,BERNARD,Emma,Génie Civil,GC Bâtiment,L2,11.79,395.0
+EPL0188,DUPONT,Danielle,Génie Civil,GC Travaux Publics,L3,11.78,396.0
+EPL0779,DUPONT,Agathe,Génie Civil,GC Bâtiment,M1,11.78,396.0
+EPL0067,DUPONT,Sophie,Informatique,Génie Logiciel,M1,11.78,396.0
+EPL0110,MOREAU,Lucas,Réseaux & Télécoms,Télécommunications,L2,11.78,396.0
+EPL0173,DUPONT,Antoine,Informatique,Intelligence Artificielle,M1,11.77,397.0
+EPL1096,MOREAU,Sophie,Génie Civil,GC Travaux Publics,M1,11.76,398.0
+EPL0955,PETIT,Thomas,Génie Civil,GC Bâtiment,L2,11.75,399.0
+EPL0444,MARTIN,Emma,Réseaux & Télécoms,Télécommunications,L1,11.73,400.0
+EPL0965,ROBERT,Stéphane,Génie Civil,GC Bâtiment,L3,11.73,400.0
+EPL0764,WAGNER,Thomas,Informatique,Génie Logiciel,L3,11.71,401.0
+EPL0712,SCHMITT,Agathe,Informatique,Génie Logiciel,M1,11.71,401.0
+EPL0915,MOREAU,Thomas,Réseaux & Télécoms,Télécommunications,L1,11.71,401.0
+EPL1178,SCHMITT,Antoine,Réseaux & Télécoms,Télécommunications,L1,11.7,402.0
+EPL0944,DUPONT,Julie,Génie Civil,GC Travaux Publics,L3,11.7,402.0
+EPL0457,ROBERT,Antoine,Réseaux & Télécoms,Télécommunications,L1,11.68,403.0
+EPL0363,BERNARD,Agathe,Informatique,Intelligence Artificielle,M1,11.67,404.0
+EPL0465,ROBERT,Emma,Génie Civil,GC Travaux Publics,M1,11.66,405.0
+EPL0242,WAGNER,Danielle,Informatique,Génie Logiciel,M1,11.66,405.0
+EPL0399,BERNARD,Julie,Génie Civil,GC Travaux Publics,L3,11.66,405.0
+EPL0043,DIJOUX,Sophie,Réseaux & Télécoms,Télécommunications,L2,11.65,406.0
+EPL0481,DELANNOY,Stéphane,Génie Civil,GC Bâtiment,M1,11.62,407.0
+EPL0628,PETIT,Sophie,Réseaux & Télécoms,Télécommunications,L1,11.62,407.0
+EPL0320,WAGNER,Lucas,Informatique,Intelligence Artificielle,L3,11.61,408.0
+EPL0002,ROBERT,Agathe,Génie Civil,GC Bâtiment,L2,11.59,409.0
+EPL1104,BERNARD,Danielle,Génie Civil,GC Bâtiment,L3,11.58,410.0
+EPL0660,PETIT,Agathe,Génie Civil,GC Bâtiment,M1,11.57,411.0
+EPL0408,DIJOUX,Lucas,Informatique,Intelligence Artificielle,L3,11.57,411.0
+EPL0336,DIJOUX,Thomas,Réseaux & Télécoms,Télécommunications,L2,11.56,412.0
+EPL1143,MARTIN,Stéphane,Informatique,Génie Logiciel,L3,11.55,413.0
+EPL0287,MOREAU,Emma,Génie Civil,GC Bâtiment,L2,11.54,414.0
+EPL0633,MOREAU,Antoine,Génie Civil,GC Travaux Publics,L3,11.53,415.0
+EPL0552,DIJOUX,Madeleine,Réseaux & Télécoms,Télécommunications,L1,11.53,415.0
+EPL0354,SCHMITT,Sophie,Informatique,Intelligence Artificielle,M1,11.52,416.0
+EPL0105,DUPONT,Julie,Informatique,Intelligence Artificielle,M1,11.52,416.0
+EPL0897,ROBERT,Lucas,Génie Civil,GC Travaux Publics,M1,11.5,417.0
+EPL1145,DIJOUX,Madeleine,Informatique,Génie Logiciel,M1,11.48,418.0
+EPL1045,PETIT,Danielle,Génie Civil,GC Bâtiment,L3,11.48,418.0
+EPL0871,PETIT,Lucas,Réseaux & Télécoms,Télécommunications,L1,11.47,419.0
+EPL0726,PETIT,Danielle,Réseaux & Télécoms,Télécommunications,L2,11.45,420.0
+EPL0700,PETIT,Stéphane,Informatique,Génie Logiciel,L3,11.45,420.0
+EPL0811,MOREAU,Antoine,Informatique,Intelligence Artificielle,M1,11.44,421.0
+EPL0062,WAGNER,Sophie,Réseaux & Télécoms,Télécommunications,L2,11.44,421.0
+EPL1111,DIJOUX,Stéphane,Informatique,Génie Logiciel,M1,11.43,422.0
+EPL0498,SCHMITT,Antoine,Génie Civil,GC Travaux Publics,M1,11.43,422.0
+EPL0115,DIJOUX,Stéphane,Informatique,Intelligence Artificielle,L3,11.42,423.0
+EPL1090,MARTIN,Lucas,Réseaux & Télécoms,Télécommunications,L2,11.41,424.0
+EPL0310,DELANNOY,Lucas,Réseaux & Télécoms,Télécommunications,L2,11.39,425.0
+EPL0548,ROBERT,Antoine,Génie Civil,GC Bâtiment,L2,11.39,425.0
+EPL0291,MOREAU,Madeleine,Informatique,Intelligence Artificielle,M1,11.38,426.0
+EPL0350,DIJOUX,Emma,Génie Civil,GC Bâtiment,L2,11.36,427.0
+EPL0840,DUPONT,Madeleine,Réseaux & Télécoms,Télécommunications,L2,11.36,427.0
+EPL0311,DELANNOY,Emma,Réseaux & Télécoms,Télécommunications,L2,11.35,428.0
+EPL0989,DIJOUX,Stéphane,Informatique,Génie Logiciel,L3,11.34,429.0
+EPL0466,DIJOUX,Madeleine,Informatique,Intelligence Artificielle,M1,11.34,429.0
+EPL0081,MOREAU,Lucas,Génie Civil,GC Bâtiment,M1,11.34,429.0
+EPL0574,SCHMITT,Julie,Informatique,Intelligence Artificielle,L3,11.34,429.0
+EPL0185,SCHMITT,Emma,Réseaux & Télécoms,Télécommunications,L2,11.33,430.0
+EPL1188,PETIT,Sophie,Réseaux & Télécoms,Télécommunications,L1,11.33,430.0
+EPL0022,DELANNOY,Danielle,Génie Civil,GC Travaux Publics,L2,11.32,431.0
+EPL0649,WAGNER,Lucas,Informatique,Intelligence Artificielle,M1,11.31,432.0
+EPL0100,ROBERT,Emma,Génie Civil,GC Bâtiment,L3,11.3,433.0
+EPL0006,DELANNOY,Sophie,Informatique,Intelligence Artificielle,L3,11.3,433.0
+EPL0005,BERNARD,Agathe,Réseaux & Télécoms,Télécommunications,L1,11.3,433.0
+EPL0218,DELANNOY,Sophie,Réseaux & Télécoms,Télécommunications,L1,11.29,434.0
+EPL0951,DELANNOY,Danielle,Informatique,Intelligence Artificielle,L3,11.28,435.0
+EPL0687,MOREAU,Agathe,Informatique,Intelligence Artificielle,L3,11.28,435.0
+EPL0513,DUPONT,Thomas,Informatique,Intelligence Artificielle,L3,11.28,435.0
+EPL1135,DIJOUX,Lucas,Génie Civil,GC Bâtiment,L3,11.27,436.0
+EPL0993,WAGNER,Julie,Génie Civil,GC Bâtiment,L2,11.26,437.0
+EPL0645,PETIT,Julie,Réseaux & Télécoms,Télécommunications,L2,11.26,437.0
+EPL0169,DIJOUX,Stéphane,Génie Civil,GC Bâtiment,L2,11.26,437.0
+EPL0778,WAGNER,Madeleine,Réseaux & Télécoms,Télécommunications,L2,11.26,437.0
+EPL0423,DELANNOY,Thomas,Réseaux & Télécoms,Télécommunications,L2,11.25,438.0
+EPL0476,DIJOUX,Sophie,Informatique,Génie Logiciel,L3,11.25,438.0
+EPL0667,WAGNER,Julie,Réseaux & Télécoms,Télécommunications,L1,11.24,439.0
+EPL0265,PETIT,Stéphane,Réseaux & Télécoms,Télécommunications,L2,11.24,439.0
+EPL1031,DUPONT,Julie,Réseaux & Télécoms,Télécommunications,L2,11.23,440.0
+EPL0643,DUPONT,Emma,Informatique,Génie Logiciel,M1,11.22,441.0
+EPL1089,WAGNER,Antoine,Génie Civil,GC Travaux Publics,L3,11.22,441.0
+EPL0179,PETIT,Danielle,Informatique,Génie Logiciel,L3,11.21,442.0
+EPL0653,ROBERT,Danielle,Réseaux & Télécoms,Télécommunications,L2,11.19,443.0
+EPL0597,MARTIN,Emma,Informatique,Intelligence Artificielle,L3,11.19,443.0
+EPL0433,ROBERT,Antoine,Réseaux & Télécoms,Télécommunications,L2,11.19,443.0
+EPL0646,ROBERT,Antoine,Réseaux & Télécoms,Télécommunications,L2,11.18,444.0
+EPL0471,MARTIN,Stéphane,Réseaux & Télécoms,Télécommunications,L1,11.17,445.0
+EPL1176,DUPONT,Lucas,Réseaux & Télécoms,Télécommunications,L2,11.16,446.0
+EPL0996,WAGNER,Madeleine,Informatique,Génie Logiciel,L3,11.16,446.0
+EPL0830,WAGNER,Lucas,Réseaux & Télécoms,Télécommunications,L1,11.15,447.0
+EPL0358,WAGNER,Julie,Informatique,Génie Logiciel,L3,11.13,448.0
+EPL0030,WAGNER,Danielle,Génie Civil,GC Bâtiment,M1,11.12,449.0
+EPL1141,ROBERT,Agathe,Génie Civil,GC Travaux Publics,L2,11.11,450.0
+EPL0044,DIJOUX,Agathe,Informatique,Génie Logiciel,L3,11.1,451.0
+EPL0078,MARTIN,Julie,Génie Civil,GC Bâtiment,L2,11.1,451.0
+EPL0911,ROBERT,Madeleine,Informatique,Intelligence Artificielle,M1,11.08,452.0
+EPL0318,MARTIN,Madeleine,Réseaux & Télécoms,Télécommunications,L1,11.07,453.0
+EPL0696,SCHMITT,Madeleine,Informatique,Intelligence Artificielle,M1,11.07,453.0
+EPL0806,SCHMITT,Sophie,Réseaux & Télécoms,Télécommunications,L2,11.07,453.0
+EPL0058,PETIT,Julie,Informatique,Génie Logiciel,M1,11.07,453.0
+EPL0215,MOREAU,Antoine,Réseaux & Télécoms,Télécommunications,L1,11.05,454.0
+EPL1019,BERNARD,Lucas,Réseaux & Télécoms,Télécommunications,L2,11.04,455.0
+EPL0338,DIJOUX,Stéphane,Génie Civil,GC Travaux Publics,M1,11.04,455.0
+EPL1083,ROBERT,Sophie,Réseaux & Télécoms,Télécommunications,L2,11.04,455.0
+EPL1160,BERNARD,Thomas,Réseaux & Télécoms,Télécommunications,L1,11.03,456.0
+EPL0138,PETIT,Julie,Réseaux & Télécoms,Télécommunications,L1,11.03,456.0
+EPL0564,WAGNER,Madeleine,Génie Civil,GC Travaux Publics,L2,11.02,457.0
+EPL0094,ROBERT,Thomas,Réseaux & Télécoms,Télécommunications,L2,11.02,457.0
+EPL0246,ROBERT,Madeleine,Réseaux & Télécoms,Télécommunications,L1,11.0,458.0
+EPL0641,DIJOUX,Danielle,Génie Civil,GC Bâtiment,L2,10.99,459.0
+EPL0673,DUPONT,Stéphane,Réseaux & Télécoms,Télécommunications,L1,10.97,460.0
+EPL0103,DIJOUX,Thomas,Réseaux & Télécoms,Télécommunications,L2,10.97,460.0
+EPL1081,MARTIN,Stéphane,Réseaux & Télécoms,Télécommunications,L2,10.95,461.0
+EPL0570,MOREAU,Danielle,Génie Civil,GC Bâtiment,L3,10.95,461.0
+EPL1082,BERNARD,Sophie,Génie Civil,GC Travaux Publics,L2,10.95,461.0
+EPL0888,SCHMITT,Julie,Réseaux & Télécoms,Télécommunications,L1,10.92,462.0
+EPL0691,MARTIN,Antoine,Informatique,Génie Logiciel,L3,10.92,462.0
+EPL0824,DUPONT,Antoine,Informatique,Intelligence Artificielle,L3,10.91,463.0
+EPL0719,DIJOUX,Danielle,Informatique,Génie Logiciel,L3,10.91,463.0
+EPL1065,WAGNER,Stéphane,Réseaux & Télécoms,Télécommunications,L1,10.91,463.0
+EPL0674,DELANNOY,Antoine,Réseaux & Télécoms,Télécommunications,L2,10.89,464.0
+EPL1060,BERNARD,Danielle,Réseaux & Télécoms,Télécommunications,L1,10.89,464.0
+EPL0688,MOREAU,Agathe,Informatique,Génie Logiciel,M1,10.88,465.0
+EPL0538,WAGNER,Stéphane,Génie Civil,GC Bâtiment,L2,10.85,466.0
+EPL0866,DIJOUX,Madeleine,Réseaux & Télécoms,Télécommunications,L2,10.84,467.0
+EPL0280,SCHMITT,Agathe,Réseaux & Télécoms,Télécommunications,L1,10.84,467.0
+EPL0052,WAGNER,Sophie,Informatique,Intelligence Artificielle,L3,10.84,467.0
+EPL0095,MARTIN,Danielle,Réseaux & Télécoms,Télécommunications,L2,10.82,468.0
+EPL0902,MARTIN,Julie,Génie Civil,GC Bâtiment,L3,10.82,468.0
+EPL0366,BERNARD,Thomas,Informatique,Génie Logiciel,L3,10.8,469.0
+EPL0566,DIJOUX,Madeleine,Réseaux & Télécoms,Télécommunications,L2,10.78,470.0
+EPL0556,MOREAU,Julie,Informatique,Génie Logiciel,L3,10.76,471.0
+EPL0582,MARTIN,Lucas,Génie Civil,GC Travaux Publics,M1,10.75,472.0
+EPL0829,DIJOUX,Emma,Informatique,Génie Logiciel,L3,10.74,473.0
+EPL0560,ROBERT,Lucas,Réseaux & Télécoms,Télécommunications,L1,10.74,473.0
+EPL0102,SCHMITT,Julie,Génie Civil,GC Bâtiment,L3,10.74,473.0
+EPL1078,DIJOUX,Lucas,Réseaux & Télécoms,Télécommunications,L2,10.72,474.0
+EPL0634,DELANNOY,Agathe,Réseaux & Télécoms,Télécommunications,L1,10.72,474.0
+EPL0558,DIJOUX,Madeleine,Génie Civil,GC Travaux Publics,L3,10.7,475.0
+EPL0805,DELANNOY,Antoine,Réseaux & Télécoms,Télécommunications,L2,10.7,475.0
+EPL0269,DUPONT,Stéphane,Génie Civil,GC Travaux Publics,M1,10.68,476.0
+EPL0812,DELANNOY,Stéphane,Réseaux & Télécoms,Télécommunications,L1,10.68,476.0
+EPL0599,MARTIN,Danielle,Génie Civil,GC Travaux Publics,L3,10.67,477.0
+EPL0975,MOREAU,Julie,Réseaux & Télécoms,Télécommunications,L2,10.66,478.0
+EPL0191,DUPONT,Lucas,Réseaux & Télécoms,Télécommunications,L1,10.66,478.0
+EPL0825,DIJOUX,Stéphane,Réseaux & Télécoms,Télécommunications,L2,10.66,478.0
+EPL0919,ROBERT,Madeleine,Génie Civil,GC Bâtiment,M1,10.66,478.0
+EPL0405,MOREAU,Antoine,Génie Civil,GC Travaux Publics,L3,10.65,479.0
+EPL0977,SCHMITT,Madeleine,Informatique,Génie Logiciel,M1,10.64,480.0
+EPL0047,DIJOUX,Antoine,Génie Civil,GC Travaux Publics,L3,10.62,481.0
+EPL0587,DUPONT,Stéphane,Génie Civil,GC Travaux Publics,L2,10.62,481.0
+EPL1042,MOREAU,Agathe,Informatique,Génie Logiciel,L3,10.62,481.0
+EPL0804,ROBERT,Lucas,Informatique,Génie Logiciel,M1,10.61,482.0
+EPL0011,PETIT,Emma,Informatique,Intelligence Artificielle,L3,10.61,482.0
+EPL1069,BERNARD,Lucas,Génie Civil,GC Bâtiment,L2,10.6,483.0
+EPL0012,WAGNER,Julie,Réseaux & Télécoms,Télécommunications,L2,10.6,483.0
+EPL0009,DIJOUX,Julie,Informatique,Intelligence Artificielle,M1,10.59,484.0
+EPL0396,MARTIN,Agathe,Informatique,Intelligence Artificielle,M1,10.59,484.0
+EPL0345,PETIT,Agathe,Réseaux & Télécoms,Télécommunications,L1,10.59,484.0
+EPL0247,PETIT,Thomas,Informatique,Génie Logiciel,M1,10.58,485.0
+EPL0225,BERNARD,Stéphane,Réseaux & Télécoms,Télécommunications,L1,10.58,485.0
+EPL0592,ROBERT,Sophie,Réseaux & Télécoms,Télécommunications,L2,10.57,486.0
+EPL0808,DELANNOY,Sophie,Informatique,Intelligence Artificielle,L3,10.56,487.0
+EPL0061,DIJOUX,Stéphane,Informatique,Intelligence Artificielle,M1,10.56,487.0
+EPL0256,MOREAU,Stéphane,Génie Civil,GC Travaux Publics,L2,10.55,488.0
+EPL1018,SCHMITT,Stéphane,Génie Civil,GC Travaux Publics,L3,10.55,488.0
+EPL1035,MARTIN,Julie,Réseaux & Télécoms,Télécommunications,L1,10.55,488.0
+EPL0219,ROBERT,Sophie,Génie Civil,GC Bâtiment,M1,10.54,489.0
+EPL0557,DIJOUX,Agathe,Génie Civil,GC Bâtiment,M1,10.54,489.0
+EPL0506,MOREAU,Antoine,Génie Civil,GC Travaux Publics,L2,10.54,489.0
+EPL0883,MARTIN,Sophie,Informatique,Génie Logiciel,L3,10.53,490.0
+EPL1076,MARTIN,Danielle,Informatique,Génie Logiciel,M1,10.52,491.0
+EPL0292,DELANNOY,Emma,Réseaux & Télécoms,Télécommunications,L1,10.52,491.0
+EPL0936,MOREAU,Agathe,Réseaux & Télécoms,Télécommunications,L2,10.49,492.0
+EPL0086,DELANNOY,Agathe,Génie Civil,GC Bâtiment,L2,10.49,492.0
+EPL0130,WAGNER,Agathe,Réseaux & Télécoms,Télécommunications,L1,10.49,492.0
+EPL0344,DELANNOY,Lucas,Génie Civil,GC Bâtiment,M1,10.48,493.0
+EPL0596,SCHMITT,Lucas,Génie Civil,GC Travaux Publics,L3,10.47,494.0
+EPL0626,SCHMITT,Lucas,Réseaux & Télécoms,Télécommunications,L1,10.47,494.0
+EPL0449,DELANNOY,Sophie,Génie Civil,GC Travaux Publics,M1,10.46,495.0
+EPL0802,MOREAU,Thomas,Informatique,Génie Logiciel,L3,10.45,496.0
+EPL0821,WAGNER,Agathe,Génie Civil,GC Bâtiment,L3,10.45,496.0
+EPL0877,MOREAU,Antoine,Informatique,Intelligence Artificielle,L3,10.45,496.0
+EPL0084,SCHMITT,Danielle,Réseaux & Télécoms,Télécommunications,L1,10.45,496.0
+EPL0683,MOREAU,Sophie,Génie Civil,GC Travaux Publics,L3,10.43,497.0
+EPL0701,BERNARD,Agathe,Informatique,Génie Logiciel,M1,10.43,497.0
+EPL0828,SCHMITT,Thomas,Informatique,Intelligence Artificielle,M1,10.43,497.0
+EPL0384,PETIT,Emma,Génie Civil,GC Travaux Publics,L2,10.42,498.0
+EPL0455,SCHMITT,Agathe,Génie Civil,GC Bâtiment,L2,10.41,499.0
+EPL0850,MOREAU,Lucas,Informatique,Intelligence Artificielle,M1,10.41,499.0
+EPL0469,ROBERT,Danielle,Génie Civil,GC Bâtiment,M1,10.41,499.0
+EPL0882,DUPONT,Thomas,Génie Civil,GC Travaux Publics,M1,10.41,499.0
+EPL0089,WAGNER,Lucas,Génie Civil,GC Bâtiment,M1,10.41,499.0
+EPL1010,DELANNOY,Stéphane,Informatique,Intelligence Artificielle,L3,10.39,500.0
+EPL0729,MOREAU,Thomas,Réseaux & Télécoms,Télécommunications,L1,10.38,501.0
+EPL0664,MARTIN,Antoine,Génie Civil,GC Travaux Publics,M1,10.37,502.0
+EPL0713,WAGNER,Madeleine,Réseaux & Télécoms,Télécommunications,L2,10.37,502.0
+EPL0025,SCHMITT,Agathe,Réseaux & Télécoms,Télécommunications,L1,10.37,502.0
+EPL0662,DUPONT,Thomas,Génie Civil,GC Bâtiment,L3,10.36,503.0
+EPL1055,DELANNOY,Antoine,Informatique,Intelligence Artificielle,L3,10.35,504.0
+EPL0859,SCHMITT,Lucas,Réseaux & Télécoms,Télécommunications,L2,10.34,505.0
+EPL0459,DIJOUX,Thomas,Génie Civil,GC Travaux Publics,M1,10.34,505.0
+EPL0931,WAGNER,Antoine,Génie Civil,GC Bâtiment,L3,10.33,506.0
+EPL0852,SCHMITT,Stéphane,Informatique,Intelligence Artificielle,L3,10.33,506.0
+EPL0927,BERNARD,Stéphane,Réseaux & Télécoms,Télécommunications,L1,10.32,507.0
+EPL0302,ROBERT,Julie,Informatique,Intelligence Artificielle,M1,10.32,507.0
+EPL0016,SCHMITT,Lucas,Génie Civil,GC Travaux Publics,M1,10.31,508.0
+EPL0340,DELANNOY,Stéphane,Réseaux & Télécoms,Télécommunications,L2,10.31,508.0
+EPL0940,BERNARD,Agathe,Réseaux & Télécoms,Télécommunications,L1,10.31,508.0
+EPL0772,MARTIN,Antoine,Réseaux & Télécoms,Télécommunications,L1,10.31,508.0
+EPL0128,DELANNOY,Thomas,Génie Civil,GC Travaux Publics,L2,10.3,509.0
+EPL0999,MOREAU,Madeleine,Réseaux & Télécoms,Télécommunications,L2,10.29,510.0
+EPL0856,MOREAU,Agathe,Informatique,Génie Logiciel,M1,10.29,510.0
+EPL0661,PETIT,Lucas,Génie Civil,GC Bâtiment,L3,10.28,511.0
+EPL1022,DIJOUX,Agathe,Génie Civil,GC Bâtiment,M1,10.28,511.0
+EPL0470,ROBERT,Lucas,Informatique,Intelligence Artificielle,M1,10.27,512.0
+EPL0540,DIJOUX,Julie,Génie Civil,GC Bâtiment,L2,10.27,512.0
+EPL0761,DIJOUX,Thomas,Génie Civil,GC Travaux Publics,M1,10.27,512.0
+EPL0515,PETIT,Danielle,Informatique,Génie Logiciel,L3,10.27,512.0
+EPL0390,BERNARD,Madeleine,Génie Civil,GC Travaux Publics,M1,10.27,512.0
+EPL0293,DIJOUX,Lucas,Informatique,Intelligence Artificielle,M1,10.23,513.0
+EPL0308,PETIT,Stéphane,Informatique,Génie Logiciel,L3,10.23,513.0
+EPL0507,ROBERT,Lucas,Génie Civil,GC Bâtiment,L3,10.22,514.0
+EPL0402,MARTIN,Emma,Informatique,Intelligence Artificielle,M1,10.2,515.0
+EPL0382,BERNARD,Thomas,Réseaux & Télécoms,Télécommunications,L1,10.2,515.0
+EPL0278,BERNARD,Sophie,Réseaux & Télécoms,Télécommunications,L1,10.2,515.0
+EPL0029,BERNARD,Lucas,Informatique,Intelligence Artificielle,L3,10.2,515.0
+EPL1193,DELANNOY,Thomas,Informatique,Intelligence Artificielle,M1,10.2,515.0
+EPL0550,SCHMITT,Sophie,Réseaux & Télécoms,Télécommunications,L1,10.19,516.0
+EPL0031,ROBERT,Madeleine,Génie Civil,GC Bâtiment,L2,10.19,516.0
+EPL0749,MARTIN,Julie,Génie Civil,GC Bâtiment,L3,10.17,517.0
+EPL0865,ROBERT,Julie,Informatique,Intelligence Artificielle,L3,10.16,518.0
+EPL1109,BERNARD,Stéphane,Génie Civil,GC Bâtiment,L3,10.13,519.0
+EPL0290,ROBERT,Stéphane,Génie Civil,GC Bâtiment,L3,10.13,519.0
+EPL0743,MOREAU,Lucas,Réseaux & Télécoms,Télécommunications,L2,10.13,519.0
+EPL0851,DIJOUX,Emma,Réseaux & Télécoms,Télécommunications,L1,10.13,519.0
+EPL0769,PETIT,Antoine,Génie Civil,GC Travaux Publics,L3,10.12,520.0
+EPL1051,WAGNER,Madeleine,Informatique,Génie Logiciel,L3,10.12,520.0
+EPL0853,DELANNOY,Thomas,Informatique,Intelligence Artificielle,M1,10.09,521.0
+EPL0849,DUPONT,Julie,Informatique,Génie Logiciel,M1,10.09,521.0
+EPL1153,DUPONT,Julie,Génie Civil,GC Bâtiment,L3,10.08,522.0
+EPL1004,SCHMITT,Lucas,Informatique,Génie Logiciel,L3,10.06,523.0
+EPL0487,DIJOUX,Julie,Réseaux & Télécoms,Télécommunications,L2,10.06,523.0
+EPL0070,WAGNER,Thomas,Génie Civil,GC Bâtiment,L2,10.06,523.0
+EPL1017,DIJOUX,Emma,Génie Civil,GC Bâtiment,L3,10.05,524.0
+EPL0505,PETIT,Agathe,Génie Civil,GC Travaux Publics,L3,10.05,524.0
+EPL0234,MOREAU,Thomas,Informatique,Intelligence Artificielle,L3,10.05,524.0
+EPL0248,BERNARD,Thomas,Informatique,Intelligence Artificielle,L3,10.04,525.0
+EPL0535,ROBERT,Julie,Génie Civil,GC Travaux Publics,L2,10.04,525.0
+EPL0974,PETIT,Madeleine,Réseaux & Télécoms,Télécommunications,L1,10.04,525.0
+EPL0523,DELANNOY,Stéphane,Génie Civil,GC Bâtiment,M1,10.01,526.0
+EPL0239,PETIT,Stéphane,Informatique,Intelligence Artificielle,L3,10.01,526.0
+EPL1056,PETIT,Julie,Informatique,Intelligence Artificielle,M1,9.99,527.0
+EPL0053,DIJOUX,Agathe,Réseaux & Télécoms,Télécommunications,L1,9.97,528.0
+EPL0967,DUPONT,Madeleine,Génie Civil,GC Bâtiment,L2,9.97,528.0
+EPL0334,DELANNOY,Stéphane,Réseaux & Télécoms,Télécommunications,L1,9.97,528.0
+EPL0972,DUPONT,Julie,Informatique,Intelligence Artificielle,M1,9.96,529.0
+EPL0153,ROBERT,Stéphane,Informatique,Génie Logiciel,M1,9.96,529.0
+EPL0994,BERNARD,Antoine,Informatique,Intelligence Artificielle,M1,9.95,530.0
+EPL1157,DIJOUX,Agathe,Génie Civil,GC Travaux Publics,L2,9.94,531.0
+EPL1014,DIJOUX,Emma,Réseaux & Télécoms,Télécommunications,L1,9.93,532.0
+EPL0948,MOREAU,Stéphane,Informatique,Génie Logiciel,L3,9.92,533.0
+EPL0296,BERNARD,Emma,Génie Civil,GC Bâtiment,M1,9.92,533.0
+EPL0463,BERNARD,Antoine,Informatique,Intelligence Artificielle,L3,9.9,534.0
+EPL0924,SCHMITT,Lucas,Informatique,Génie Logiciel,M1,9.9,534.0
+EPL0093,PETIT,Lucas,Informatique,Intelligence Artificielle,M1,9.89,535.0
+EPL0703,PETIT,Madeleine,Génie Civil,GC Bâtiment,M1,9.89,535.0
+EPL0766,DUPONT,Antoine,Informatique,Génie Logiciel,M1,9.89,535.0
+EPL0258,SCHMITT,Julie,Réseaux & Télécoms,Télécommunications,L1,9.88,536.0
+EPL0156,WAGNER,Sophie,Génie Civil,GC Travaux Publics,L3,9.86,537.0
+EPL0665,MOREAU,Danielle,Informatique,Génie Logiciel,L3,9.86,537.0
+EPL0229,DUPONT,Julie,Génie Civil,GC Travaux Publics,L3,9.85,538.0
+EPL0349,PETIT,Agathe,Réseaux & Télécoms,Télécommunications,L1,9.84,539.0
+EPL0046,DELANNOY,Lucas,Informatique,Intelligence Artificielle,L3,9.84,539.0
+EPL0777,MARTIN,Emma,Génie Civil,GC Travaux Publics,L3,9.82,540.0
+EPL0746,DUPONT,Danielle,Génie Civil,GC Travaux Publics,L3,9.82,540.0
+EPL0874,DELANNOY,Danielle,Génie Civil,GC Travaux Publics,M1,9.81,541.0
+EPL0231,WAGNER,Julie,Réseaux & Télécoms,Télécommunications,L1,9.81,541.0
+EPL0416,DIJOUX,Antoine,Informatique,Intelligence Artificielle,M1,9.75,542.0
+EPL0170,MARTIN,Agathe,Réseaux & Télécoms,Télécommunications,L2,9.74,543.0
+EPL1175,MOREAU,Lucas,Informatique,Génie Logiciel,L3,9.74,543.0
+EPL1128,DIJOUX,Lucas,Génie Civil,GC Bâtiment,L2,9.74,543.0
+EPL0485,SCHMITT,Antoine,Réseaux & Télécoms,Télécommunications,L2,9.73,544.0
+EPL0748,WAGNER,Julie,Réseaux & Télécoms,Télécommunications,L1,9.73,544.0
+EPL0385,DELANNOY,Stéphane,Génie Civil,GC Bâtiment,M1,9.72,545.0
+EPL0525,PETIT,Sophie,Informatique,Génie Logiciel,M1,9.71,546.0
+EPL0834,BERNARD,Antoine,Réseaux & Télécoms,Télécommunications,L1,9.7,547.0
+EPL0376,PETIT,Sophie,Génie Civil,GC Bâtiment,M1,9.7,547.0
+EPL0217,ROBERT,Lucas,Réseaux & Télécoms,Télécommunications,L2,9.68,548.0
+EPL0370,BERNARD,Madeleine,Génie Civil,GC Travaux Publics,L3,9.68,548.0
+EPL0607,WAGNER,Emma,Informatique,Génie Logiciel,M1,9.68,548.0
+EPL0730,WAGNER,Sophie,Réseaux & Télécoms,Télécommunications,L1,9.67,549.0
+EPL0676,SCHMITT,Agathe,Réseaux & Télécoms,Télécommunications,L1,9.67,549.0
+EPL0137,DELANNOY,Emma,Génie Civil,GC Travaux Publics,M1,9.65,550.0
+EPL0621,PETIT,Madeleine,Réseaux & Télécoms,Télécommunications,L1,9.63,551.0
+EPL0241,WAGNER,Thomas,Informatique,Génie Logiciel,M1,9.62,552.0
+EPL0456,ROBERT,Stéphane,Informatique,Génie Logiciel,L3,9.62,552.0
+EPL0546,MARTIN,Stéphane,Génie Civil,GC Bâtiment,M1,9.61,553.0
+EPL0872,SCHMITT,Madeleine,Réseaux & Télécoms,Télécommunications,L2,9.61,553.0
+EPL0104,WAGNER,Thomas,Génie Civil,GC Bâtiment,L2,9.59,554.0
+EPL0380,DIJOUX,Emma,Génie Civil,GC Bâtiment,L2,9.58,555.0
+EPL0085,MARTIN,Thomas,Informatique,Génie Logiciel,L3,9.57,556.0
+EPL0323,PETIT,Lucas,Informatique,Génie Logiciel,M1,9.55,557.0
+EPL0172,PETIT,Lucas,Réseaux & Télécoms,Télécommunications,L2,9.55,557.0
+EPL0900,DELANNOY,Julie,Informatique,Génie Logiciel,L3,9.55,557.0
+EPL0164,DIJOUX,Danielle,Informatique,Génie Logiciel,M1,9.54,558.0
+EPL0341,BERNARD,Antoine,Réseaux & Télécoms,Télécommunications,L2,9.53,559.0
+EPL0337,DELANNOY,Agathe,Réseaux & Télécoms,Télécommunications,L2,9.52,560.0
+EPL0360,BERNARD,Agathe,Réseaux & Télécoms,Télécommunications,L1,9.52,560.0
+EPL0301,BERNARD,Emma,Génie Civil,GC Bâtiment,L3,9.51,561.0
+EPL0510,ROBERT,Danielle,Génie Civil,GC Travaux Publics,L2,9.51,561.0
+EPL0857,DELANNOY,Emma,Génie Civil,GC Travaux Publics,M1,9.5,562.0
+EPL0057,ROBERT,Stéphane,Génie Civil,GC Travaux Publics,M1,9.48,563.0
+EPL0381,DUPONT,Sophie,Informatique,Intelligence Artificielle,L3,9.48,563.0
+EPL0189,MOREAU,Sophie,Informatique,Intelligence Artificielle,M1,9.46,564.0
+EPL1150,BERNARD,Antoine,Réseaux & Télécoms,Télécommunications,L2,9.46,564.0
+EPL0588,SCHMITT,Emma,Réseaux & Télécoms,Télécommunications,L2,9.45,565.0
+EPL0182,SCHMITT,Antoine,Réseaux & Télécoms,Télécommunications,L1,9.43,566.0
+EPL0590,BERNARD,Stéphane,Réseaux & Télécoms,Télécommunications,L1,9.43,566.0
+EPL0494,PETIT,Madeleine,Informatique,Génie Logiciel,L3,9.42,567.0
+EPL0537,WAGNER,Thomas,Réseaux & Télécoms,Télécommunications,L2,9.42,567.0
+EPL0759,MARTIN,Emma,Réseaux & Télécoms,Télécommunications,L2,9.42,567.0
+EPL0508,WAGNER,Sophie,Informatique,Intelligence Artificielle,M1,9.41,568.0
+EPL0499,DIJOUX,Emma,Réseaux & Télécoms,Télécommunications,L1,9.37,569.0
+EPL0197,DELANNOY,Lucas,Génie Civil,GC Travaux Publics,M1,9.35,570.0
+EPL0171,DIJOUX,Antoine,Génie Civil,GC Travaux Publics,L3,9.33,571.0
+EPL0810,ROBERT,Emma,Réseaux & Télécoms,Télécommunications,L2,9.32,572.0
+EPL0332,DELANNOY,Danielle,Génie Civil,GC Bâtiment,M1,9.31,573.0
+EPL0391,SCHMITT,Sophie,Génie Civil,GC Bâtiment,L2,9.3,574.0
+EPL0530,ROBERT,Antoine,Informatique,Génie Logiciel,L3,9.29,575.0
+EPL0514,WAGNER,Julie,Réseaux & Télécoms,Télécommunications,L1,9.28,576.0
+EPL0019,ROBERT,Madeleine,Réseaux & Télécoms,Télécommunications,L2,9.28,576.0
+EPL0122,ROBERT,Lucas,Informatique,Intelligence Artificielle,M1,9.27,577.0
+EPL0832,DIJOUX,Thomas,Génie Civil,GC Travaux Publics,L2,9.24,578.0
+EPL0135,DUPONT,Julie,Réseaux & Télécoms,Télécommunications,L1,9.24,578.0
+EPL0751,DELANNOY,Stéphane,Génie Civil,GC Travaux Publics,L2,9.23,579.0
+EPL0602,BERNARD,Thomas,Informatique,Intelligence Artificielle,M1,9.23,579.0
+EPL0261,BERNARD,Sophie,Génie Civil,GC Travaux Publics,L2,9.22,580.0
+EPL0206,ROBERT,Agathe,Génie Civil,GC Travaux Publics,M1,9.19,581.0
+EPL0448,MOREAU,Madeleine,Réseaux & Télécoms,Télécommunications,L1,9.18,582.0
+EPL0755,PETIT,Emma,Réseaux & Télécoms,Télécommunications,L2,9.15,583.0
+EPL0482,DELANNOY,Madeleine,Réseaux & Télécoms,Télécommunications,L1,9.13,584.0
+EPL0427,MOREAU,Madeleine,Génie Civil,GC Travaux Publics,L3,9.11,585.0
+EPL0983,DUPONT,Stéphane,Génie Civil,GC Travaux Publics,L3,9.1,586.0
+EPL1190,BERNARD,Lucas,Génie Civil,GC Travaux Publics,M1,9.09,587.0
+EPL0161,ROBERT,Agathe,Informatique,Génie Logiciel,L3,9.08,588.0
+EPL0518,MARTIN,Antoine,Génie Civil,GC Bâtiment,M1,9.07,589.0
+EPL0753,ROBERT,Danielle,Réseaux & Télécoms,Télécommunications,L2,9.07,589.0
+EPL0598,WAGNER,Agathe,Génie Civil,GC Travaux Publics,M1,9.06,590.0
+EPL0275,ROBERT,Sophie,Génie Civil,GC Bâtiment,L2,9.06,590.0
+EPL0732,WAGNER,Thomas,Génie Civil,GC Travaux Publics,L2,9.06,590.0
+EPL1187,DUPONT,Sophie,Réseaux & Télécoms,Télécommunications,L2,9.05,591.0
+EPL0453,SCHMITT,Julie,Réseaux & Télécoms,Télécommunications,L2,9.04,592.0
+EPL0127,DELANNOY,Stéphane,Informatique,Intelligence Artificielle,M1,9.03,593.0
+EPL1151,MOREAU,Julie,Réseaux & Télécoms,Télécommunications,L2,9.03,593.0
+EPL0627,MOREAU,Antoine,Informatique,Génie Logiciel,M1,9.03,593.0
+EPL1185,DELANNOY,Lucas,Informatique,Intelligence Artificielle,M1,9.03,593.0
+EPL1179,BERNARD,Madeleine,Génie Civil,GC Travaux Publics,L3,9.03,593.0
+EPL0838,BERNARD,Sophie,Génie Civil,GC Bâtiment,L2,9.0,594.0
+EPL0995,SCHMITT,Agathe,Informatique,Intelligence Artificielle,M1,9.0,594.0
+EPL0833,BERNARD,Emma,Génie Civil,GC Travaux Publics,M1,8.99,595.0
+EPL0356,PETIT,Thomas,Génie Civil,GC Bâtiment,L2,8.99,595.0
+EPL0325,MARTIN,Sophie,Génie Civil,GC Bâtiment,L3,8.98,596.0
+EPL0568,DELANNOY,Lucas,Réseaux & Télécoms,Télécommunications,L1,8.98,596.0
+EPL0635,ROBERT,Antoine,Réseaux & Télécoms,Télécommunications,L1,8.96,597.0
+EPL0017,DUPONT,Madeleine,Informatique,Génie Logiciel,L3,8.96,597.0
+EPL0937,SCHMITT,Agathe,Génie Civil,GC Travaux Publics,L2,8.94,598.0
+EPL1030,SCHMITT,Agathe,Génie Civil,GC Bâtiment,L3,8.93,599.0
+EPL0264,MARTIN,Danielle,Réseaux & Télécoms,Télécommunications,L2,8.93,599.0
+EPL0922,DELANNOY,Agathe,Génie Civil,GC Bâtiment,L3,8.92,600.0
+EPL0458,WAGNER,Danielle,Réseaux & Télécoms,Télécommunications,L2,8.89,601.0
+EPL0497,DIJOUX,Julie,Réseaux & Télécoms,Télécommunications,L1,8.89,601.0
+EPL1106,BERNARD,Thomas,Informatique,Intelligence Artificielle,M1,8.88,602.0
+EPL1108,DUPONT,Sophie,Informatique,Intelligence Artificielle,M1,8.84,603.0
+EPL0034,DIJOUX,Lucas,Génie Civil,GC Bâtiment,L3,8.83,604.0
+EPL0450,ROBERT,Antoine,Réseaux & Télécoms,Télécommunications,L2,8.82,605.0
+EPL0133,DELANNOY,Danielle,Informatique,Génie Logiciel,M1,8.81,606.0
+EPL0407,DUPONT,Danielle,Informatique,Intelligence Artificielle,M1,8.8,607.0
+EPL0946,BERNARD,Agathe,Génie Civil,GC Travaux Publics,L3,8.79,608.0
+EPL0183,DUPONT,Agathe,Informatique,Génie Logiciel,M1,8.79,608.0
+EPL0228,ROBERT,Lucas,Informatique,Génie Logiciel,M1,8.77,609.0
+EPL0488,DUPONT,Danielle,Génie Civil,GC Bâtiment,M1,8.76,610.0
+EPL0693,DIJOUX,Thomas,Informatique,Génie Logiciel,M1,8.76,610.0
+EPL0795,SCHMITT,Thomas,Informatique,Génie Logiciel,L3,8.76,610.0
+EPL1147,DELANNOY,Danielle,Informatique,Génie Logiciel,M1,8.71,611.0
+EPL1180,MOREAU,Thomas,Génie Civil,GC Bâtiment,M1,8.69,612.0
+EPL0654,MARTIN,Danielle,Réseaux & Télécoms,Télécommunications,L2,8.68,613.0
+EPL0063,MARTIN,Sophie,Réseaux & Télécoms,Télécommunications,L2,8.68,613.0
+EPL0677,ROBERT,Lucas,Informatique,Génie Logiciel,L3,8.67,614.0
+EPL1066,DIJOUX,Danielle,Informatique,Génie Logiciel,L3,8.64,615.0
+EPL0412,DUPONT,Thomas,Réseaux & Télécoms,Télécommunications,L1,8.63,616.0
+EPL0843,DIJOUX,Danielle,Génie Civil,GC Travaux Publics,L2,8.63,616.0
+EPL0614,DELANNOY,Emma,Génie Civil,GC Bâtiment,L2,8.62,617.0
+EPL0542,ROBERT,Thomas,Génie Civil,GC Bâtiment,L3,8.61,618.0
+EPL0682,BERNARD,Madeleine,Génie Civil,GC Bâtiment,L2,8.61,618.0
+EPL1124,ROBERT,Julie,Informatique,Intelligence Artificielle,M1,8.57,619.0
+EPL0200,WAGNER,Madeleine,Génie Civil,GC Travaux Publics,M1,8.57,619.0
+EPL1126,MOREAU,Julie,Génie Civil,GC Travaux Publics,M1,8.56,620.0
+EPL0027,DELANNOY,Thomas,Réseaux & Télécoms,Télécommunications,L1,8.55,621.0
+EPL0986,SCHMITT,Madeleine,Réseaux & Télécoms,Télécommunications,L2,8.52,622.0
+EPL0118,MARTIN,Lucas,Informatique,Génie Logiciel,L3,8.49,623.0
+EPL0431,SCHMITT,Stéphane,Informatique,Génie Logiciel,L3,8.45,624.0
+EPL0159,DELANNOY,Madeleine,Réseaux & Télécoms,Télécommunications,L2,8.43,625.0
+EPL0460,DELANNOY,Sophie,Génie Civil,GC Travaux Publics,L2,8.41,626.0
+EPL0064,BERNARD,Thomas,Informatique,Intelligence Artificielle,L3,8.41,626.0
+EPL0245,MOREAU,Julie,Réseaux & Télécoms,Télécommunications,L1,8.4,627.0
+EPL0534,MARTIN,Agathe,Réseaux & Télécoms,Télécommunications,L2,8.37,628.0
+EPL0326,DUPONT,Thomas,Réseaux & Télécoms,Télécommunications,L1,8.36,629.0
+EPL0036,DIJOUX,Thomas,Génie Civil,GC Travaux Publics,M1,8.34,630.0
+EPL0685,BERNARD,Antoine,Informatique,Génie Logiciel,M1,8.33,631.0
+EPL1138,SCHMITT,Madeleine,Informatique,Génie Logiciel,L3,8.32,632.0
+EPL1037,DIJOUX,Thomas,Génie Civil,GC Travaux Publics,M1,8.32,632.0
+EPL0140,BERNARD,Agathe,Informatique,Intelligence Artificielle,M1,8.31,633.0
+EPL0284,MARTIN,Thomas,Informatique,Intelligence Artificielle,M1,8.29,634.0
+EPL0147,BERNARD,Thomas,Informatique,Intelligence Artificielle,M1,8.29,634.0
+EPL0608,DIJOUX,Thomas,Génie Civil,GC Travaux Publics,L2,8.27,635.0
+EPL0266,ROBERT,Emma,Informatique,Intelligence Artificielle,M1,8.26,636.0
+EPL0194,WAGNER,Emma,Réseaux & Télécoms,Télécommunications,L1,8.26,636.0
+EPL0953,SCHMITT,Thomas,Génie Civil,GC Bâtiment,L2,8.25,637.0
+EPL0698,BERNARD,Emma,Réseaux & Télécoms,Télécommunications,L2,8.25,637.0
+EPL0251,BERNARD,Thomas,Génie Civil,GC Bâtiment,M1,8.22,638.0
+EPL0794,BERNARD,Lucas,Génie Civil,GC Travaux Publics,M1,8.17,639.0
+EPL0742,SCHMITT,Sophie,Informatique,Intelligence Artificielle,L3,8.16,640.0
+EPL0941,PETIT,Antoine,Réseaux & Télécoms,Télécommunications,L1,8.16,640.0
+EPL0707,DIJOUX,Julie,Réseaux & Télécoms,Télécommunications,L2,8.16,640.0
+EPL1074,DIJOUX,Antoine,Génie Civil,GC Travaux Publics,L2,8.15,641.0
+EPL0639,MOREAU,Thomas,Génie Civil,GC Bâtiment,L2,8.13,642.0
+EPL1067,DUPONT,Antoine,Réseaux & Télécoms,Télécommunications,L1,8.12,643.0
+EPL0640,ROBERT,Stéphane,Génie Civil,GC Bâtiment,M1,8.11,644.0
+EPL0445,DIJOUX,Madeleine,Informatique,Intelligence Artificielle,L3,8.09,645.0
+EPL0148,DIJOUX,Madeleine,Informatique,Intelligence Artificielle,M1,8.04,646.0
+EPL0393,PETIT,Julie,Génie Civil,GC Travaux Publics,L2,8.04,646.0
+EPL1154,MARTIN,Thomas,Informatique,Génie Logiciel,L3,8.03,647.0
+EPL0039,BERNARD,Lucas,Informatique,Génie Logiciel,M1,8.02,648.0
+EPL1192,WAGNER,Antoine,Informatique,Génie Logiciel,M1,8.0,649.0
+EPL0782,MOREAU,Emma,Génie Civil,GC Travaux Publics,M1,7.99,650.0
+EPL0831,BERNARD,Danielle,Informatique,Génie Logiciel,L3,7.97,651.0
+EPL0723,WAGNER,Antoine,Génie Civil,GC Travaux Publics,L2,7.96,652.0
+EPL0752,DELANNOY,Madeleine,Réseaux & Télécoms,Télécommunications,L2,7.94,653.0
+EPL0907,DUPONT,Julie,Réseaux & Télécoms,Télécommunications,L2,7.92,654.0
+EPL0205,ROBERT,Lucas,Génie Civil,GC Travaux Publics,L2,7.87,655.0
+EPL0438,SCHMITT,Lucas,Réseaux & Télécoms,Télécommunications,L1,7.86,656.0
+EPL0873,PETIT,Emma,Génie Civil,GC Bâtiment,L2,7.86,656.0
+EPL0500,ROBERT,Agathe,Réseaux & Télécoms,Télécommunications,L1,7.85,657.0
+EPL1163,SCHMITT,Emma,Informatique,Génie Logiciel,L3,7.83,658.0
+EPL0503,WAGNER,Julie,Informatique,Intelligence Artificielle,L3,7.8,659.0
+EPL0124,MARTIN,Julie,Informatique,Intelligence Artificielle,M1,7.79,660.0
+EPL0750,MOREAU,Julie,Réseaux & Télécoms,Télécommunications,L2,7.78,661.0
+EPL0348,MARTIN,Agathe,Informatique,Intelligence Artificielle,L3,7.78,661.0
+EPL0675,DIJOUX,Lucas,Réseaux & Télécoms,Télécommunications,L2,7.78,661.0
+EPL0704,MARTIN,Thomas,Informatique,Intelligence Artificielle,M1,7.77,662.0
+EPL0020,ROBERT,Stéphane,Réseaux & Télécoms,Télécommunications,L2,7.76,663.0
+EPL0101,MOREAU,Thomas,Réseaux & Télécoms,Télécommunications,L1,7.75,664.0
+EPL0024,WAGNER,Agathe,Informatique,Intelligence Artificielle,M1,7.73,665.0
+EPL0486,MARTIN,Antoine,Informatique,Intelligence Artificielle,M1,7.73,665.0
+EPL0268,DIJOUX,Danielle,Réseaux & Télécoms,Télécommunications,L2,7.71,666.0
+EPL0970,ROBERT,Antoine,Réseaux & Télécoms,Télécommunications,L2,7.71,666.0
+EPL0272,SCHMITT,Danielle,Réseaux & Télécoms,Télécommunications,L1,7.69,667.0
+EPL1148,MOREAU,Agathe,Informatique,Intelligence Artificielle,L3,7.68,668.0
+EPL0933,MARTIN,Thomas,Réseaux & Télécoms,Télécommunications,L2,7.66,669.0
+EPL0347,DIJOUX,Danielle,Informatique,Intelligence Artificielle,L3,7.66,669.0
+EPL0096,MOREAU,Julie,Génie Civil,GC Travaux Publics,M1,7.61,670.0
+EPL1038,MARTIN,Sophie,Informatique,Génie Logiciel,L3,7.61,670.0
+EPL0045,MARTIN,Stéphane,Réseaux & Télécoms,Télécommunications,L2,7.56,671.0
+EPL0579,WAGNER,Danielle,Réseaux & Télécoms,Télécommunications,L2,7.56,671.0
+EPL0816,MARTIN,Sophie,Informatique,Intelligence Artificielle,M1,7.54,672.0
+EPL0644,DELANNOY,Lucas,Informatique,Génie Logiciel,L3,7.49,673.0
+EPL0190,BERNARD,Agathe,Réseaux & Télécoms,Télécommunications,L2,7.46,674.0
+EPL0473,MARTIN,Julie,Génie Civil,GC Travaux Publics,L2,7.45,675.0
+EPL0862,PETIT,Madeleine,Informatique,Génie Logiciel,M1,7.45,675.0
+EPL0255,WAGNER,Agathe,Informatique,Génie Logiciel,L3,7.44,676.0
+EPL0926,MARTIN,Danielle,Réseaux & Télécoms,Télécommunications,L1,7.43,677.0
+EPL0947,DELANNOY,Danielle,Génie Civil,GC Travaux Publics,L3,7.42,678.0
+EPL0413,PETIT,Thomas,Réseaux & Télécoms,Télécommunications,L2,7.4,679.0
+EPL0131,WAGNER,Madeleine,Réseaux & Télécoms,Télécommunications,L1,7.35,680.0
+EPL1077,DUPONT,Antoine,Réseaux & Télécoms,Télécommunications,L1,7.33,681.0
+EPL0705,DELANNOY,Lucas,Informatique,Intelligence Artificielle,L3,7.33,681.0
+EPL0776,SCHMITT,Madeleine,Réseaux & Télécoms,Télécommunications,L2,7.29,682.0
+EPL1184,SCHMITT,Stéphane,Informatique,Intelligence Artificielle,L3,7.29,682.0
+EPL1048,DUPONT,Thomas,Informatique,Génie Logiciel,M1,7.27,683.0
+EPL0979,SCHMITT,Julie,Génie Civil,GC Travaux Publics,L3,7.25,684.0
+EPL1195,BERNARD,Sophie,Réseaux & Télécoms,Télécommunications,L1,7.22,685.0
+EPL0401,DIJOUX,Danielle,Réseaux & Télécoms,Télécommunications,L1,7.22,685.0
+EPL0483,SCHMITT,Madeleine,Génie Civil,GC Bâtiment,L3,7.18,686.0
+EPL0143,PETIT,Lucas,Réseaux & Télécoms,Télécommunications,L1,7.18,686.0
+EPL0224,WAGNER,Danielle,Génie Civil,GC Travaux Publics,L3,7.16,687.0
+EPL0527,SCHMITT,Stéphane,Génie Civil,GC Bâtiment,M1,7.12,688.0
+EPL1164,PETIT,Emma,Informatique,Génie Logiciel,L3,7.06,689.0
+EPL0636,PETIT,Madeleine,Génie Civil,GC Bâtiment,L3,7.04,690.0
+EPL0532,DELANNOY,Julie,Réseaux & Télécoms,Télécommunications,L2,7.02,691.0
+EPL0790,ROBERT,Thomas,Informatique,Génie Logiciel,L3,7.02,691.0
+EPL1032,WAGNER,Stéphane,Informatique,Génie Logiciel,L3,6.99,692.0
+EPL0521,BERNARD,Stéphane,Réseaux & Télécoms,Télécommunications,L1,6.99,692.0
+EPL1177,PETIT,Emma,Réseaux & Télécoms,Télécommunications,L2,6.92,693.0
+EPL0631,SCHMITT,Julie,Réseaux & Télécoms,Télécommunications,L1,6.92,693.0
+EPL0734,PETIT,Thomas,Génie Civil,GC Bâtiment,M1,6.89,694.0
+EPL0439,ROBERT,Antoine,Génie Civil,GC Bâtiment,L3,6.89,694.0
+EPL0722,DELANNOY,Agathe,Informatique,Génie Logiciel,M1,6.87,695.0
+EPL0397,SCHMITT,Lucas,Informatique,Génie Logiciel,M1,6.86,696.0
+EPL0015,DELANNOY,Julie,Génie Civil,GC Travaux Publics,L3,6.83,697.0
+EPL1064,DIJOUX,Antoine,Réseaux & Télécoms,Télécommunications,L2,6.78,698.0
+EPL0430,SCHMITT,Julie,Génie Civil,GC Travaux Publics,M1,6.72,699.0
+EPL0050,DELANNOY,Lucas,Informatique,Intelligence Artificielle,M1,6.71,700.0
+EPL0609,SCHMITT,Stéphane,Génie Civil,GC Travaux Publics,M1,6.66,701.0
+EPL0526,SCHMITT,Sophie,Informatique,Génie Logiciel,L3,6.59,702.0
+EPL0741,ROBERT,Sophie,Informatique,Intelligence Artificielle,L3,6.48,703.0
+EPL0222,DUPONT,Emma,Réseaux & Télécoms,Télécommunications,L1,6.4,704.0
+EPL0569,DIJOUX,Danielle,Informatique,Intelligence Artificielle,M1,6.39,705.0
+EPL0976,MOREAU,Thomas,Informatique,Intelligence Artificielle,M1,6.33,706.0
+EPL0014,BERNARD,Antoine,Informatique,Intelligence Artificielle,M1,6.26,707.0
+EPL0111,MOREAU,Julie,Génie Civil,GC Travaux Publics,L2,6.24,708.0
+EPL0286,BERNARD,Madeleine,Informatique,Génie Logiciel,L3,6.14,709.0
+EPL0038,DUPONT,Stéphane,Informatique,Intelligence Artificielle,L3,6.12,710.0
+EPL0080,BERNARD,Stéphane,Informatique,Intelligence Artificielle,M1,6.04,711.0
+EPL1098,PETIT,Sophie,Réseaux & Télécoms,Télécommunications,L2,6.01,712.0
+EPL0237,ROBERT,Julie,Réseaux & Télécoms,Télécommunications,L2,5.92,713.0
+EPL0567,PETIT,Thomas,Génie Civil,GC Bâtiment,L2,5.89,714.0
+EPL0432,PETIT,Lucas,Génie Civil,GC Travaux Publics,L3,5.88,715.0
+EPL0992,WAGNER,Madeleine,Informatique,Intelligence Artificielle,L3,5.87,716.0
+EPL0443,WAGNER,Thomas,Informatique,Génie Logiciel,L3,5.8,717.0
+EPL0672,PETIT,Sophie,Réseaux & Télécoms,Télécommunications,L2,5.78,718.0
+EPL0709,DIJOUX,Danielle,Informatique,Génie Logiciel,M1,5.75,719.0
+EPL0383,MARTIN,Lucas,Réseaux & Télécoms,Télécommunications,L2,5.63,720.0
+EPL1152,BERNARD,Julie,Génie Civil,GC Travaux Publics,L2,5.54,721.0
+EPL0934,PETIT,Emma,Réseaux & Télécoms,Télécommunications,L2,5.4,722.0
+EPL0576,DELANNOY,Sophie,Génie Civil,GC Travaux Publics,M1,5.37,723.0
+EPL0472,MOREAU,Madeleine,Génie Civil,GC Bâtiment,L3,5.09,724.0
+EPL0978,ROBERT,Julie,Génie Civil,GC Bâtiment,L2,4.73,725.0
+EPL0545,DUPONT,Emma,Informatique,Génie Logiciel,L3,4.59,726.0
+EPL1161,MARTIN,Agathe,Réseaux & Télécoms,Télécommunications,L2,4.5,727.0
+EPL0075,ROBERT,Lucas,Informatique,Intelligence Artificielle,M1,4.14,728.0
+EPL0669,BERNARD,Madeleine,Informatique,Intelligence Artificielle,L3,4.05,729.0
+EPL0647,PETIT,Stéphane,Génie Civil,GC Bâtiment,L2,3.91,730.0
+EPL1062,MOREAU,Emma,Génie Civil,GC Travaux Publics,L3,3.45,731.0
+EPL1102,MARTIN,Stéphane,Informatique,Intelligence Artificielle,M1,3.31,732.0
+EPL0263,PETIT,Antoine,Génie Civil,GC Bâtiment,L3,2.28,733.0

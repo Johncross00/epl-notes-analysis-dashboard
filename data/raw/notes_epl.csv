@@ -1,0 +1,1201 @@
+student_id,nom,prenom,sexe,date_naissance,departement,filiere,niveau,annee_academique,ue,matiere,enseignant,note
+EPL0001,DELANNOY,Danielle,F,29/06/2000,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,13.49
+EPL0002,ROBERT,Agathe,F,18/09/1995,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,11.59
+EPL0003,PETIT,Danielle,M,23/03/2007,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,13.94
+EPL0004,DIJOUX,Sophie,F,26/03/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,16.57
+EPL0005,BERNARD,Agathe,F,18/09/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,11.3
+EPL0006,DELANNOY,Sophie,M,20/05/2007,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.3
+EPL0007,WAGNER,Lucas,M,22/03/2000,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,16.74
+EPL0008,DUPONT,Madeleine,F,20/12/2002,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,14.3
+EPL0009,DIJOUX,Julie,M,31/08/1998,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,10.59
+EPL0010,DUPONT,Danielle,M,20/09/1995,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,13.63
+EPL0011,PETIT,Emma,M,13/03/2006,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,10.61
+EPL0012,WAGNER,Julie,F,10/08/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,10.6
+EPL0013,ROBERT,Thomas,M,21/01/1996,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,12.73
+EPL0014,BERNARD,Antoine,M,19/08/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,6.26
+EPL0015,DELANNOY,Julie,F,18/08/2002,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,6.83
+EPL0016,SCHMITT,Lucas,M,21/05/2006,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,10.31
+EPL0017,DUPONT,Madeleine,M,09/04/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,8.96
+EPL0018,WAGNER,Danielle,M,22/09/2007,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,12.94
+EPL0019,ROBERT,Madeleine,M,29/08/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,9.28
+EPL0020,ROBERT,Stéphane,F,13/12/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,7.76
+EPL0021,WAGNER,Stéphane,M,01/08/2002,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,16.4
+EPL0022,DELANNOY,Danielle,M,06/07/1996,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,11.32
+EPL0023,MOREAU,Stéphane,M,22/10/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.2
+EPL0024,WAGNER,Agathe,M,01/09/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,7.73
+EPL0025,SCHMITT,Agathe,M,12/01/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,10.37
+EPL0026,WAGNER,Julie,F,22/02/1998,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,12.33
+EPL0027,DELANNOY,Thomas,M,19/02/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,8.55
+EPL0028,BERNARD,Thomas,F,18/10/1999,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,13.13
+EPL0029,BERNARD,Lucas,F,25/05/2001,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,10.2
+EPL0030,WAGNER,Danielle,M,13/01/2002,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,11.12
+EPL0031,ROBERT,Madeleine,M,23/05/2006,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,10.19
+EPL0032,WAGNER,Sophie,M,11/10/2007,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,17.56
+EPL0033,PETIT,Antoine,F,06/11/2000,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,11.96
+EPL0034,DIJOUX,Lucas,F,03/02/2002,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,8.83
+EPL0035,ROBERT,Stéphane,F,21/12/1997,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,14.47
+EPL0036,DIJOUX,Thomas,F,12/11/2006,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,8.34
+EPL0037,MARTIN,Agathe,M,30/05/2007,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,12.63
+EPL0038,DUPONT,Stéphane,F,03/05/2006,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,6.12
+EPL0039,BERNARD,Lucas,M,30/01/1995,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,8.02
+EPL0040,MOREAU,Julie,F,31/07/2007,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,12.59
+EPL0041,SCHMITT,Emma,M,21/08/2004,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,14.22
+EPL0042,DUPONT,Stéphane,M,22/04/1997,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.51
+EPL0043,DIJOUX,Sophie,M,09/01/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.65
+EPL0044,DIJOUX,Agathe,F,14/11/1995,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,11.1
+EPL0045,MARTIN,Stéphane,M,13/07/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,7.56
+EPL0046,DELANNOY,Lucas,F,05/06/2006,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,9.84
+EPL0047,DIJOUX,Antoine,F,10/11/1995,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,10.62
+EPL0048,PETIT,Julie,M,22/08/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,15.17
+EPL0049,BERNARD,Danielle,M,03/03/2003,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,13.03
+EPL0050,DELANNOY,Lucas,F,28/02/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,6.71
+EPL0051,BERNARD,Sophie,M,07/10/2007,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,12.97
+EPL0052,WAGNER,Sophie,F,06/06/2005,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,10.84
+EPL0053,DIJOUX,Agathe,F,24/07/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,9.97
+EPL0054,MARTIN,Stéphane,M,22/04/1998,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,13.84
+EPL0055,DELANNOY,Thomas,F,29/11/2007,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,15.09
+EPL0056,DIJOUX,Danielle,M,14/07/2004,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,14.79
+EPL0057,ROBERT,Stéphane,M,28/03/2005,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,9.48
+EPL0058,PETIT,Julie,F,16/04/2007,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,11.07
+EPL0059,WAGNER,Lucas,F,13/05/2000,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.99
+EPL0060,MARTIN,Emma,F,11/02/2007,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,14.93
+EPL0061,DIJOUX,Stéphane,M,21/04/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,10.56
+EPL0062,WAGNER,Sophie,F,10/06/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.44
+EPL0063,MARTIN,Sophie,F,27/01/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,8.68
+EPL0064,BERNARD,Thomas,M,21/09/2003,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,8.41
+EPL0065,PETIT,Julie,M,02/11/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,14.44
+EPL0066,MOREAU,Madeleine,M,01/11/2000,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,16.07
+EPL0067,DUPONT,Sophie,F,15/06/2004,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,11.78
+EPL0068,ROBERT,Danielle,F,11/01/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,15.01
+EPL0069,WAGNER,Danielle,M,08/05/2000,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,13.08
+EPL0070,WAGNER,Thomas,F,10/04/2003,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,10.06
+EPL0071,PETIT,Danielle,F,30/11/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,13.08
+EPL0072,PETIT,Stéphane,M,06/10/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,16.61
+EPL0073,BERNARD,Emma,M,07/05/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,11.89
+EPL0074,DELANNOY,Sophie,F,24/04/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,16.69
+EPL0075,ROBERT,Lucas,F,05/06/2005,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,4.14
+EPL0076,MARTIN,Thomas,M,03/06/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,14.47
+EPL0077,DUPONT,Madeleine,F,04/10/1999,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,12.26
+EPL0078,MARTIN,Julie,M,03/08/2006,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,11.1
+EPL0079,ROBERT,Stéphane,F,03/01/2006,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.28
+EPL0080,BERNARD,Stéphane,F,12/04/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,6.04
+EPL0081,MOREAU,Lucas,F,21/08/2000,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,11.34
+EPL0082,DELANNOY,Julie,M,19/04/1999,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,13.07
+EPL0083,WAGNER,Lucas,M,04/02/2003,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,16.43
+EPL0084,SCHMITT,Danielle,F,31/10/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,10.45
+EPL0085,MARTIN,Thomas,F,17/11/2004,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,9.57
+EPL0086,DELANNOY,Agathe,F,11/01/2006,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,10.49
+EPL0087,MARTIN,Agathe,M,28/08/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,14.75
+EPL0088,MOREAU,Lucas,F,06/11/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,12.99
+EPL0089,WAGNER,Lucas,M,10/07/1998,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,10.41
+EPL0090,SCHMITT,Sophie,F,16/07/2005,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,13.54
+EPL0091,MARTIN,Thomas,M,27/03/2000,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,12.29
+EPL0092,WAGNER,Madeleine,F,11/03/1998,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,14.91
+EPL0093,PETIT,Lucas,F,15/10/1997,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,9.89
+EPL0094,ROBERT,Thomas,F,20/10/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,11.02
+EPL0095,MARTIN,Danielle,M,19/02/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,10.82
+EPL0096,MOREAU,Julie,F,28/03/2001,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,7.61
+EPL0097,MOREAU,Emma,F,23/06/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,12.89
+EPL0098,MOREAU,Lucas,F,04/05/2007,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,12.78
+EPL0099,DUPONT,Agathe,F,17/07/2006,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,12.02
+EPL0100,ROBERT,Emma,F,30/11/2004,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,11.3
+EPL0101,MOREAU,Thomas,M,25/08/1995,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,7.75
+EPL0102,SCHMITT,Julie,F,02/02/1997,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,10.74
+EPL0103,DIJOUX,Thomas,F,31/05/2006,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,10.97
+EPL0104,WAGNER,Thomas,M,09/08/2003,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,9.59
+EPL0105,DUPONT,Julie,F,22/01/1995,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,11.52
+EPL0106,ROBERT,Thomas,F,16/06/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,13.21
+EPL0107,WAGNER,Antoine,F,28/03/2000,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,17.66
+EPL0108,BERNARD,Sophie,M,09/02/2006,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,12.52
+EPL0109,MOREAU,Agathe,F,06/05/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,12.77
+EPL0110,MOREAU,Lucas,F,01/12/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.78
+EPL0111,MOREAU,Julie,M,14/07/1996,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,6.24
+EPL0112,DELANNOY,Agathe,F,24/09/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,11.92
+EPL0113,SCHMITT,Lucas,F,29/05/2003,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,12.18
+EPL0114,DIJOUX,Madeleine,M,08/10/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,19.39
+EPL0115,DIJOUX,Stéphane,F,11/09/2000,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,11.42
+EPL0116,ROBERT,Madeleine,M,27/11/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,12.9
+EPL0117,MARTIN,Stéphane,F,02/11/2005,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,11.9
+EPL0118,MARTIN,Lucas,M,17/11/2003,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,8.49
+EPL0119,WAGNER,Antoine,F,30/11/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,15.43
+EPL0120,DELANNOY,Danielle,F,20/11/2004,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,14.26
+EPL0121,MARTIN,Emma,F,09/12/1998,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,14.37
+EPL0122,ROBERT,Lucas,M,06/10/2000,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,9.27
+EPL0123,DELANNOY,Madeleine,M,30/11/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,16.21
+EPL0124,MARTIN,Julie,M,14/03/2005,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,7.79
+EPL0125,WAGNER,Thomas,M,05/08/2007,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,13.76
+EPL0126,MARTIN,Sophie,M,19/02/1998,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,18.57
+EPL0127,DELANNOY,Stéphane,M,19/09/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,9.03
+EPL0128,DELANNOY,Thomas,F,10/04/2001,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,10.3
+EPL0129,WAGNER,Emma,M,29/03/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.3
+EPL0130,WAGNER,Agathe,F,20/01/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.49
+EPL0131,WAGNER,Madeleine,M,16/07/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,7.35
+EPL0132,DIJOUX,Antoine,M,21/03/2001,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,12.21
+EPL0133,DELANNOY,Danielle,M,02/05/1995,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,8.81
+EPL0134,MARTIN,Danielle,M,10/06/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.42
+EPL0135,DUPONT,Julie,M,19/02/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,9.24
+EPL0136,SCHMITT,Danielle,F,04/01/2004,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,16.65
+EPL0137,DELANNOY,Emma,M,22/06/1996,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,9.65
+EPL0138,PETIT,Julie,F,05/03/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,11.03
+EPL0139,ROBERT,Stéphane,F,16/02/2005,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,14.44
+EPL0140,BERNARD,Agathe,F,28/07/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,8.31
+EPL0141,MOREAU,Agathe,M,30/11/1996,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,12.68
+EPL0142,ROBERT,Danielle,F,28/09/1997,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,15.92
+EPL0143,PETIT,Lucas,F,28/04/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,7.18
+EPL0144,DELANNOY,Emma,F,30/07/1997,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,12.55
+EPL0145,MARTIN,Danielle,M,16/02/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,12.78
+EPL0146,DIJOUX,Madeleine,F,24/07/1996,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,14.35
+EPL0147,BERNARD,Thomas,F,13/07/1998,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,8.29
+EPL0148,DIJOUX,Madeleine,M,30/10/1996,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,8.04
+EPL0149,MOREAU,Sophie,F,01/11/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,13.57
+EPL0150,MARTIN,Antoine,F,26/10/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.89
+EPL0151,PETIT,Danielle,M,02/08/1999,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,12.75
+EPL0152,DUPONT,Agathe,M,26/02/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.04
+EPL0153,ROBERT,Stéphane,F,13/08/1996,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,9.96
+EPL0154,DELANNOY,Emma,F,11/11/2007,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,12.7
+EPL0155,SCHMITT,Emma,M,27/04/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,12.88
+EPL0156,WAGNER,Sophie,F,02/10/2006,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,9.86
+EPL0157,DUPONT,Madeleine,M,13/06/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,17.6
+EPL0158,DIJOUX,Stéphane,M,14/04/1998,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,13.42
+EPL0159,DELANNOY,Madeleine,F,28/05/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,8.43
+EPL0160,MOREAU,Agathe,F,01/12/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,13.97
+EPL0161,ROBERT,Agathe,F,10/05/2005,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,9.08
+EPL0162,DELANNOY,Agathe,F,18/05/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,14.36
+EPL0163,PETIT,Thomas,M,21/05/1996,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,15.48
+EPL0164,DIJOUX,Danielle,M,26/10/2004,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,9.54
+EPL0165,BERNARD,Sophie,F,04/03/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,14.89
+EPL0166,ROBERT,Sophie,F,26/08/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,13.24
+EPL0167,DIJOUX,Emma,F,16/10/2003,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,14.47
+EPL0168,DUPONT,Madeleine,M,30/06/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,17.69
+EPL0169,DIJOUX,Stéphane,F,27/11/2005,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,11.26
+EPL0170,MARTIN,Agathe,M,21/07/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,9.74
+EPL0171,DIJOUX,Antoine,M,25/10/2004,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,9.33
+EPL0172,PETIT,Lucas,F,31/03/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,9.55
+EPL0173,DUPONT,Antoine,F,10/05/2005,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,11.77
+EPL0174,PETIT,Madeleine,F,03/03/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,13.02
+EPL0175,ROBERT,Agathe,F,18/11/1996,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,12.83
+EPL0176,DELANNOY,Stéphane,F,03/11/2002,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,14.48
+EPL0177,DUPONT,Stéphane,F,30/10/1996,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.04
+EPL0178,DUPONT,Madeleine,M,10/11/1995,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,16.36
+EPL0179,PETIT,Danielle,M,05/06/1995,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.21
+EPL0180,MARTIN,Stéphane,F,25/09/1997,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,20.0
+EPL0181,DELANNOY,Thomas,M,23/07/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.88
+EPL0182,SCHMITT,Antoine,F,24/05/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,9.43
+EPL0183,DUPONT,Agathe,M,04/10/2003,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,8.79
+EPL0184,SCHMITT,Emma,M,25/09/2002,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,13.45
+EPL0185,SCHMITT,Emma,F,05/12/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,11.33
+EPL0186,DELANNOY,Thomas,M,31/07/2001,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,14.14
+EPL0187,MARTIN,Julie,F,07/03/2007,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,13.42
+EPL0188,DUPONT,Danielle,F,16/02/2001,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,11.78
+EPL0189,MOREAU,Sophie,F,11/03/1999,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,9.46
+EPL0190,BERNARD,Agathe,F,18/01/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,7.46
+EPL0191,DUPONT,Lucas,F,31/12/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.66
+EPL0192,MOREAU,Danielle,F,03/10/2004,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,14.57
+EPL0193,ROBERT,Madeleine,M,15/03/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,12.64
+EPL0194,WAGNER,Emma,F,03/08/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,8.26
+EPL0195,DUPONT,Thomas,M,15/11/2007,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,12.52
+EPL0196,MARTIN,Stéphane,M,01/08/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,13.16
+EPL0197,DELANNOY,Lucas,F,03/01/2005,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,9.35
+EPL0198,DELANNOY,Madeleine,M,20/02/2005,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,12.46
+EPL0199,DUPONT,Agathe,F,23/09/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,12.17
+EPL0200,WAGNER,Madeleine,M,30/01/2006,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,8.57
+EPL0201,ROBERT,Madeleine,M,22/06/1996,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,13.07
+EPL0202,PETIT,Agathe,M,10/02/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,13.68
+EPL0203,ROBERT,Emma,M,14/05/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,15.25
+EPL0204,SCHMITT,Agathe,M,27/10/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,15.16
+EPL0205,ROBERT,Lucas,M,14/08/2000,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,7.87
+EPL0206,ROBERT,Agathe,M,17/06/1998,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,9.19
+EPL0207,DELANNOY,Danielle,F,23/09/1999,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,13.55
+EPL0208,ROBERT,Lucas,F,31/10/2005,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,13.54
+EPL0209,SCHMITT,Madeleine,F,27/04/2004,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,13.55
+EPL0210,DIJOUX,Emma,F,30/09/2002,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,20.0
+EPL0211,WAGNER,Thomas,M,31/12/2000,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,13.71
+EPL0212,MARTIN,Sophie,F,26/07/2000,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,15.41
+EPL0213,DIJOUX,Thomas,F,09/03/2006,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,14.86
+EPL0214,ROBERT,Thomas,M,29/10/1999,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.95
+EPL0215,MOREAU,Antoine,F,29/05/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,11.05
+EPL0216,MARTIN,Emma,F,17/03/2003,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,14.28
+EPL0217,ROBERT,Lucas,M,31/08/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,9.68
+EPL0218,DELANNOY,Sophie,F,09/08/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,11.29
+EPL0219,ROBERT,Sophie,M,07/01/1996,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,10.54
+EPL0220,ROBERT,Thomas,M,25/07/2006,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,12.25
+EPL0221,BERNARD,Antoine,F,18/07/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,18.94
+EPL0222,DUPONT,Emma,M,05/05/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,6.4
+EPL0223,PETIT,Antoine,M,25/02/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,14.06
+EPL0224,WAGNER,Danielle,M,12/04/1999,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,7.16
+EPL0225,BERNARD,Stéphane,F,03/04/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,10.58
+EPL0226,WAGNER,Julie,F,23/09/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,15.27
+EPL0227,ROBERT,Emma,F,05/12/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.19
+EPL0228,ROBERT,Lucas,M,04/09/2001,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,8.77
+EPL0229,DUPONT,Julie,F,15/06/2001,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,9.85
+EPL0230,MARTIN,Danielle,F,09/10/1996,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,14.04
+EPL0231,WAGNER,Julie,F,10/08/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,9.81
+EPL0232,PETIT,Stéphane,M,20/02/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,12.65
+EPL0233,BERNARD,Emma,F,03/04/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.14
+EPL0234,MOREAU,Thomas,M,11/06/2001,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,10.05
+EPL0235,PETIT,Stéphane,M,05/12/1998,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,18.43
+EPL0236,DIJOUX,Lucas,M,17/03/1995,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,13.9
+EPL0237,ROBERT,Julie,F,04/01/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,5.92
+EPL0238,DUPONT,Madeleine,F,08/10/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.56
+EPL0239,PETIT,Stéphane,M,04/02/2004,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,10.01
+EPL0240,DELANNOY,Madeleine,M,16/09/2005,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,14.56
+EPL0241,WAGNER,Thomas,F,24/05/2002,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,9.62
+EPL0242,WAGNER,Danielle,M,09/06/2005,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,11.66
+EPL0243,DELANNOY,Lucas,F,15/12/1999,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,13.51
+EPL0244,PETIT,Emma,F,27/04/2007,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,14.6
+EPL0245,MOREAU,Julie,F,01/10/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,8.4
+EPL0246,ROBERT,Madeleine,M,11/05/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,11.0
+EPL0247,PETIT,Thomas,M,12/06/2006,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,10.58
+EPL0248,BERNARD,Thomas,M,14/07/2007,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,10.04
+EPL0249,SCHMITT,Stéphane,M,07/01/1996,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,17.3
+EPL0250,MOREAU,Danielle,F,03/03/2004,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,13.21
+EPL0251,BERNARD,Thomas,F,05/06/2003,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,8.22
+EPL0252,DIJOUX,Julie,F,11/11/2006,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,14.75
+EPL0253,MOREAU,Julie,F,06/12/2006,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,18.37
+EPL0254,DIJOUX,Lucas,M,13/07/1997,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,15.1
+EPL0255,WAGNER,Agathe,M,03/10/1995,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,7.44
+EPL0256,MOREAU,Stéphane,M,07/04/1996,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,10.55
+EPL0257,PETIT,Emma,M,08/10/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,15.8
+EPL0258,SCHMITT,Julie,M,31/07/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,9.88
+EPL0259,BERNARD,Julie,F,03/05/2004,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,13.33
+EPL0260,ROBERT,Thomas,M,21/01/2000,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,14.32
+EPL0261,BERNARD,Sophie,M,17/09/2003,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,9.22
+EPL0262,DELANNOY,Thomas,F,27/01/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,11.82
+EPL0263,PETIT,Antoine,M,19/08/1996,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,2.28
+EPL0264,MARTIN,Danielle,M,06/04/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,8.93
+EPL0265,PETIT,Stéphane,F,14/05/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.24
+EPL0266,ROBERT,Emma,F,12/11/2000,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,8.26
+EPL0267,MOREAU,Emma,M,25/04/2003,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,16.9
+EPL0268,DIJOUX,Danielle,F,30/05/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,7.71
+EPL0269,DUPONT,Stéphane,F,12/10/2007,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,10.68
+EPL0270,MOREAU,Thomas,F,10/10/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,12.39
+EPL0271,ROBERT,Thomas,M,28/02/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,16.32
+EPL0272,SCHMITT,Danielle,F,31/01/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,7.69
+EPL0273,WAGNER,Julie,F,16/05/2003,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,15.49
+EPL0274,SCHMITT,Julie,F,08/04/1995,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,12.03
+EPL0275,ROBERT,Sophie,M,26/05/1997,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,9.06
+EPL0276,ROBERT,Lucas,F,29/12/2000,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,13.39
+EPL0277,PETIT,Stéphane,M,23/09/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.6
+EPL0278,BERNARD,Sophie,F,04/04/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.2
+EPL0279,BERNARD,Emma,M,05/11/2006,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,12.21
+EPL0280,SCHMITT,Agathe,F,07/03/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,10.84
+EPL0281,WAGNER,Antoine,M,07/12/2003,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,12.34
+EPL0282,BERNARD,Julie,F,11/08/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,13.99
+EPL0283,DELANNOY,Sophie,M,14/09/1996,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,16.76
+EPL0284,MARTIN,Thomas,F,12/02/2000,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,8.29
+EPL0285,PETIT,Sophie,M,16/08/2001,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,18.4
+EPL0286,BERNARD,Madeleine,F,07/02/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,6.14
+EPL0287,MOREAU,Emma,F,17/04/1997,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,11.54
+EPL0288,ROBERT,Julie,F,26/04/1997,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,13.76
+EPL0289,PETIT,Emma,F,12/04/1995,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,12.84
+EPL0290,ROBERT,Stéphane,M,16/07/2003,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,10.13
+EPL0291,MOREAU,Madeleine,M,01/10/1998,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,11.38
+EPL0292,DELANNOY,Emma,F,13/07/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,10.52
+EPL0293,DIJOUX,Lucas,M,16/11/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,10.23
+EPL0294,BERNARD,Antoine,M,27/09/2001,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,14.55
+EPL0295,BERNARD,Emma,F,05/01/2006,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,13.07
+EPL0296,BERNARD,Emma,M,25/08/2007,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,9.92
+EPL0297,MOREAU,Stéphane,F,14/07/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,14.7
+EPL0298,MARTIN,Stéphane,F,16/06/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,12.92
+EPL0299,PETIT,Thomas,F,26/12/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,14.44
+EPL0300,ROBERT,Antoine,M,14/06/1997,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,13.89
+EPL0301,BERNARD,Emma,F,17/05/1997,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,9.51
+EPL0302,ROBERT,Julie,M,30/12/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,10.32
+EPL0303,SCHMITT,Thomas,M,17/08/2001,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,14.24
+EPL0304,MARTIN,Emma,F,22/08/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,13.83
+EPL0305,MOREAU,Thomas,F,04/07/1996,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,11.94
+EPL0306,DELANNOY,Madeleine,M,29/07/2006,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,12.35
+EPL0307,WAGNER,Sophie,M,07/03/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,15.83
+EPL0308,PETIT,Stéphane,F,19/08/2004,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,10.23
+EPL0309,DELANNOY,Antoine,M,16/01/2007,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,13.64
+EPL0310,DELANNOY,Lucas,F,02/11/2006,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,11.39
+EPL0311,DELANNOY,Emma,F,08/04/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,11.35
+EPL0312,DIJOUX,Emma,M,08/05/2000,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,15.3
+EPL0313,DIJOUX,Julie,F,19/05/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,14.48
+EPL0314,MOREAU,Julie,M,12/06/2007,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,14.44
+EPL0315,DUPONT,Thomas,M,20/01/2003,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,15.92
+EPL0316,ROBERT,Julie,F,05/03/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,12.06
+EPL0317,DIJOUX,Agathe,M,12/12/1999,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,14.05
+EPL0318,MARTIN,Madeleine,F,08/09/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,11.07
+EPL0319,ROBERT,Emma,M,24/11/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,12.97
+EPL0320,WAGNER,Lucas,M,01/02/2005,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.61
+EPL0321,WAGNER,Stéphane,F,08/08/2004,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,12.29
+EPL0322,PETIT,Emma,F,31/01/2007,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,13.79
+EPL0323,PETIT,Lucas,M,15/01/1998,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,9.55
+EPL0324,DIJOUX,Stéphane,M,23/03/2002,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,18.28
+EPL0325,MARTIN,Sophie,F,19/02/2005,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,8.98
+EPL0326,DUPONT,Thomas,F,05/05/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,8.36
+EPL0327,DUPONT,Agathe,F,20/11/1999,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,15.47
+EPL0328,MARTIN,Emma,M,12/09/2007,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,14.37
+EPL0329,MOREAU,Danielle,M,18/07/1998,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,13.87
+EPL0330,DIJOUX,Lucas,M,22/02/2001,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,13.89
+EPL0331,DIJOUX,Danielle,F,07/11/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,11.96
+EPL0332,DELANNOY,Danielle,M,11/09/2005,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,9.31
+EPL0333,MOREAU,Danielle,M,15/09/2002,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,12.23
+EPL0334,DELANNOY,Stéphane,F,01/01/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,9.97
+EPL0335,MARTIN,Madeleine,F,26/12/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,14.93
+EPL0336,DIJOUX,Thomas,F,12/10/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,11.56
+EPL0337,DELANNOY,Agathe,M,05/10/1997,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,9.52
+EPL0338,DIJOUX,Stéphane,F,21/11/1996,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,11.04
+EPL0339,MARTIN,Stéphane,M,15/10/2003,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,13.24
+EPL0340,DELANNOY,Stéphane,F,04/08/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,10.31
+EPL0341,BERNARD,Antoine,F,13/03/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,9.53
+EPL0342,PETIT,Agathe,M,17/11/2000,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,12.73
+EPL0343,MARTIN,Julie,F,01/07/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.73
+EPL0344,DELANNOY,Lucas,M,20/06/2006,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,10.48
+EPL0345,PETIT,Agathe,F,23/10/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,10.59
+EPL0346,BERNARD,Agathe,F,26/03/1996,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,12.7
+EPL0347,DIJOUX,Danielle,M,18/02/2006,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,7.66
+EPL0348,MARTIN,Agathe,M,07/07/2002,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,7.78
+EPL0349,PETIT,Agathe,F,17/03/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,9.84
+EPL0350,DIJOUX,Emma,M,20/09/2000,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,11.36
+EPL0351,SCHMITT,Stéphane,M,31/07/2005,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.93
+EPL0352,ROBERT,Sophie,M,21/03/2002,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,16.43
+EPL0353,DELANNOY,Antoine,F,05/09/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,14.57
+EPL0354,SCHMITT,Sophie,M,07/06/2005,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,11.52
+EPL0355,MOREAU,Danielle,F,02/07/1999,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,11.94
+EPL0356,PETIT,Thomas,M,05/04/2007,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,8.99
+EPL0357,WAGNER,Julie,F,20/03/1995,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,11.94
+EPL0358,WAGNER,Julie,M,01/06/2004,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.13
+EPL0359,SCHMITT,Stéphane,F,10/05/2003,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,12.97
+EPL0360,BERNARD,Agathe,M,03/10/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,9.52
+EPL0361,DUPONT,Sophie,F,18/02/2002,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,13.56
+EPL0362,DIJOUX,Antoine,M,27/06/1998,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,16.6
+EPL0363,BERNARD,Agathe,F,28/08/1999,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,11.67
+EPL0364,DELANNOY,Madeleine,F,27/11/1995,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,13.21
+EPL0365,WAGNER,Emma,F,08/07/2006,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,14.07
+EPL0366,BERNARD,Thomas,M,14/02/1997,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,10.8
+EPL0367,SCHMITT,Stéphane,M,12/06/1999,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.67
+EPL0368,SCHMITT,Agathe,M,11/12/2004,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,12.04
+EPL0369,MOREAU,Danielle,M,15/11/2007,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,12.29
+EPL0370,BERNARD,Madeleine,F,25/10/1999,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,9.68
+EPL0371,SCHMITT,Antoine,M,14/08/2001,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,12.07
+EPL0372,MARTIN,Sophie,M,27/05/2004,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,13.49
+EPL0373,DUPONT,Thomas,F,19/09/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,16.35
+EPL0374,SCHMITT,Emma,M,29/08/1995,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,14.88
+EPL0375,WAGNER,Madeleine,M,23/07/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,18.46
+EPL0376,PETIT,Sophie,F,24/11/1998,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,9.7
+EPL0377,DUPONT,Antoine,M,20/11/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,14.62
+EPL0378,MARTIN,Madeleine,F,07/11/1995,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,12.55
+EPL0379,ROBERT,Thomas,M,10/06/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,18.57
+EPL0380,DIJOUX,Emma,M,29/06/1995,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,9.58
+EPL0381,DUPONT,Sophie,M,20/07/2002,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,9.48
+EPL0382,BERNARD,Thomas,F,28/11/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.2
+EPL0383,MARTIN,Lucas,M,26/12/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,5.63
+EPL0384,PETIT,Emma,M,07/09/2007,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,10.42
+EPL0385,DELANNOY,Stéphane,F,02/03/2002,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,9.72
+EPL0386,SCHMITT,Lucas,M,06/08/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,12.45
+EPL0387,SCHMITT,Danielle,F,29/10/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.03
+EPL0388,BERNARD,Emma,F,10/04/1997,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,17.63
+EPL0389,SCHMITT,Lucas,M,23/02/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,14.85
+EPL0390,BERNARD,Madeleine,M,09/04/2007,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,10.27
+EPL0391,SCHMITT,Sophie,M,26/09/2004,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,9.3
+EPL0392,WAGNER,Sophie,F,25/04/2001,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,13.48
+EPL0393,PETIT,Julie,F,12/06/1998,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,8.04
+EPL0394,MARTIN,Antoine,F,24/06/1999,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,17.49
+EPL0395,MARTIN,Agathe,F,04/08/1997,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,15.54
+EPL0396,MARTIN,Agathe,F,23/02/1999,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,10.59
+EPL0397,SCHMITT,Lucas,F,06/06/2005,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,6.86
+EPL0398,DELANNOY,Agathe,F,22/02/2007,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,16.06
+EPL0399,BERNARD,Julie,F,05/11/2007,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,11.66
+EPL0400,SCHMITT,Julie,M,12/09/1997,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,15.71
+EPL0401,DIJOUX,Danielle,F,03/10/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,7.22
+EPL0402,MARTIN,Emma,M,13/12/1996,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,10.2
+EPL0403,MOREAU,Danielle,F,10/07/1997,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.02
+EPL0404,PETIT,Agathe,F,05/01/2007,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,12.14
+EPL0405,MOREAU,Antoine,F,03/11/1995,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,10.65
+EPL0406,PETIT,Sophie,M,17/11/2003,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,13.87
+EPL0407,DUPONT,Danielle,F,18/10/2001,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,8.8
+EPL0408,DIJOUX,Lucas,F,13/03/2002,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,11.57
+EPL0409,WAGNER,Sophie,F,02/08/2006,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,12.36
+EPL0410,ROBERT,Sophie,M,04/10/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,13.54
+EPL0411,SCHMITT,Stéphane,M,28/03/2005,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,14.13
+EPL0412,DUPONT,Thomas,F,11/10/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,8.63
+EPL0413,PETIT,Thomas,M,23/08/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,7.4
+EPL0414,DELANNOY,Lucas,M,02/09/2003,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,15.83
+EPL0415,WAGNER,Stéphane,F,08/03/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,13.0
+EPL0416,DIJOUX,Antoine,M,08/01/2000,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,9.75
+EPL0417,DUPONT,Thomas,F,23/11/1999,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,16.65
+EPL0418,ROBERT,Emma,F,11/09/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,12.35
+EPL0419,MARTIN,Emma,F,09/11/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,15.54
+EPL0420,WAGNER,Danielle,F,03/03/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.2
+EPL0421,MARTIN,Sophie,F,16/09/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,18.18
+EPL0422,WAGNER,Julie,F,15/01/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,17.27
+EPL0423,DELANNOY,Thomas,M,19/10/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,11.25
+EPL0424,DUPONT,Stéphane,F,06/06/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,14.91
+EPL0425,DELANNOY,Thomas,M,06/08/1996,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,13.94
+EPL0426,MARTIN,Sophie,M,20/05/1998,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,16.11
+EPL0427,MOREAU,Madeleine,F,17/01/1999,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,9.11
+EPL0428,SCHMITT,Danielle,F,18/02/2001,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,14.06
+EPL0429,DELANNOY,Madeleine,F,18/08/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,15.18
+EPL0430,SCHMITT,Julie,M,15/05/2003,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,6.72
+EPL0431,SCHMITT,Stéphane,M,21/09/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,8.45
+EPL0432,PETIT,Lucas,M,18/06/1996,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,5.88
+EPL0433,ROBERT,Antoine,F,22/09/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.19
+EPL0434,WAGNER,Madeleine,F,06/06/1995,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,14.15
+EPL0435,SCHMITT,Antoine,M,05/10/1997,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,16.51
+EPL0436,PETIT,Danielle,M,04/06/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.22
+EPL0437,MOREAU,Sophie,M,11/04/2007,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,16.89
+EPL0438,SCHMITT,Lucas,F,07/04/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,7.86
+EPL0439,ROBERT,Antoine,M,04/05/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,6.89
+EPL0440,WAGNER,Lucas,M,11/01/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,11.83
+EPL0441,ROBERT,Thomas,M,12/10/2005,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,13.15
+EPL0442,DELANNOY,Agathe,F,06/05/1998,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,11.9
+EPL0443,WAGNER,Thomas,F,03/12/2000,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,5.8
+EPL0444,MARTIN,Emma,F,21/07/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,11.73
+EPL0445,DIJOUX,Madeleine,F,07/01/2003,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,8.09
+EPL0446,DIJOUX,Agathe,F,23/12/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,14.01
+EPL0447,DIJOUX,Agathe,M,25/04/1996,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,13.1
+EPL0448,MOREAU,Madeleine,F,16/01/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,9.18
+EPL0449,DELANNOY,Sophie,F,12/01/1996,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,10.46
+EPL0450,ROBERT,Antoine,M,03/08/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,8.82
+EPL0451,DUPONT,Sophie,M,10/07/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,11.81
+EPL0452,MOREAU,Thomas,M,05/09/1996,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,14.87
+EPL0453,SCHMITT,Julie,M,07/05/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,9.04
+EPL0454,MOREAU,Thomas,F,22/12/1996,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,13.51
+EPL0455,SCHMITT,Agathe,F,31/03/2004,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,10.41
+EPL0456,ROBERT,Stéphane,F,24/08/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,9.62
+EPL0457,ROBERT,Antoine,F,24/02/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,11.68
+EPL0458,WAGNER,Danielle,F,19/12/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,8.89
+EPL0459,DIJOUX,Thomas,M,06/03/2004,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,10.34
+EPL0460,DELANNOY,Sophie,M,02/04/2005,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,8.41
+EPL0461,PETIT,Agathe,F,04/04/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,17.89
+EPL0462,SCHMITT,Julie,F,31/10/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,12.11
+EPL0463,BERNARD,Antoine,F,22/04/2006,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,9.9
+EPL0464,DUPONT,Lucas,F,28/12/1997,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,12.64
+EPL0465,ROBERT,Emma,M,04/07/1999,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,11.66
+EPL0466,DIJOUX,Madeleine,F,03/08/1997,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,11.34
+EPL0467,SCHMITT,Julie,M,27/07/1995,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,13.84
+EPL0468,MARTIN,Madeleine,F,14/08/2000,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,14.27
+EPL0469,ROBERT,Danielle,F,24/02/2005,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,10.41
+EPL0470,ROBERT,Lucas,M,23/07/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,10.27
+EPL0471,MARTIN,Stéphane,F,22/01/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,11.17
+EPL0472,MOREAU,Madeleine,M,12/03/1999,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,5.09
+EPL0473,MARTIN,Julie,F,01/12/1997,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,7.45
+EPL0474,DIJOUX,Danielle,M,27/03/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,16.1
+EPL0475,ROBERT,Emma,M,16/02/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,16.93
+EPL0476,DIJOUX,Sophie,F,23/01/1997,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,11.25
+EPL0477,DUPONT,Lucas,M,24/11/2006,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,13.73
+EPL0478,WAGNER,Antoine,M,23/11/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,12.93
+EPL0479,MARTIN,Julie,F,22/07/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,20.0
+EPL0480,MARTIN,Stéphane,F,11/07/2006,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,15.36
+EPL0481,DELANNOY,Stéphane,M,07/07/2004,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,11.62
+EPL0482,DELANNOY,Madeleine,M,19/04/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,9.13
+EPL0483,SCHMITT,Madeleine,F,08/07/2007,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,7.18
+EPL0484,MOREAU,Sophie,F,04/02/2002,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,12.61
+EPL0485,SCHMITT,Antoine,M,08/01/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,9.73
+EPL0486,MARTIN,Antoine,M,25/04/2001,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,7.73
+EPL0487,DIJOUX,Julie,M,22/01/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,10.06
+EPL0488,DUPONT,Danielle,M,06/10/1997,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,8.76
+EPL0489,ROBERT,Agathe,F,17/09/1999,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,17.06
+EPL0490,ROBERT,Madeleine,M,16/02/1999,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,14.64
+EPL0491,PETIT,Danielle,F,30/04/2007,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,11.98
+EPL0492,DELANNOY,Stéphane,F,03/06/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,16.44
+EPL0493,PETIT,Agathe,M,16/02/2002,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,12.23
+EPL0494,PETIT,Madeleine,F,04/02/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,9.42
+EPL0495,WAGNER,Sophie,F,23/01/2003,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,16.57
+EPL0496,DUPONT,Lucas,F,17/05/2007,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,13.62
+EPL0497,DIJOUX,Julie,M,26/11/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,8.89
+EPL0498,SCHMITT,Antoine,F,09/10/1999,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,11.43
+EPL0499,DIJOUX,Emma,F,04/01/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,9.37
+EPL0500,ROBERT,Agathe,F,28/02/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,7.85
+EPL0501,DIJOUX,Thomas,M,07/01/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,14.78
+EPL0502,WAGNER,Thomas,M,29/05/1996,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,17.73
+EPL0503,WAGNER,Julie,F,15/09/2003,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,7.8
+EPL0504,DUPONT,Agathe,F,27/11/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,13.69
+EPL0505,PETIT,Agathe,F,10/06/2003,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,10.05
+EPL0506,MOREAU,Antoine,M,04/04/2006,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,10.54
+EPL0507,ROBERT,Lucas,M,15/05/1998,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,10.22
+EPL0508,WAGNER,Sophie,F,17/07/1997,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,9.41
+EPL0509,DIJOUX,Sophie,M,19/06/2000,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,12.15
+EPL0510,ROBERT,Danielle,M,03/04/1996,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,9.51
+EPL0511,PETIT,Danielle,F,03/12/1996,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,12.81
+EPL0512,DIJOUX,Stéphane,F,15/03/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,11.85
+EPL0513,DUPONT,Thomas,M,26/02/2000,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.28
+EPL0514,WAGNER,Julie,F,10/05/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,9.28
+EPL0515,PETIT,Danielle,M,02/02/1997,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,10.27
+EPL0516,BERNARD,Emma,M,19/11/2006,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,14.27
+EPL0517,PETIT,Antoine,M,17/07/2004,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,13.5
+EPL0518,MARTIN,Antoine,F,12/10/2000,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,9.07
+EPL0519,ROBERT,Agathe,M,31/05/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,12.3
+EPL0520,DELANNOY,Madeleine,F,08/09/2000,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,14.25
+EPL0521,BERNARD,Stéphane,F,20/05/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,6.99
+EPL0522,ROBERT,Thomas,F,17/11/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,13.63
+EPL0523,DELANNOY,Stéphane,F,18/08/1998,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,10.01
+EPL0524,ROBERT,Antoine,M,09/08/1998,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,13.71
+EPL0525,PETIT,Sophie,M,08/06/1996,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,9.71
+EPL0526,SCHMITT,Sophie,F,08/09/2006,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,6.59
+EPL0527,SCHMITT,Stéphane,F,15/05/1999,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,7.12
+EPL0528,SCHMITT,Emma,M,03/01/1995,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,12.14
+EPL0529,BERNARD,Sophie,M,12/08/2006,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,12.78
+EPL0530,ROBERT,Antoine,F,17/10/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,9.29
+EPL0531,PETIT,Danielle,F,04/12/1998,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,13.92
+EPL0532,DELANNOY,Julie,F,24/01/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,7.02
+EPL0533,MOREAU,Stéphane,F,16/04/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,11.8
+EPL0534,MARTIN,Agathe,F,11/12/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,8.37
+EPL0535,ROBERT,Julie,M,27/11/2000,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,10.04
+EPL0536,DUPONT,Agathe,M,08/09/2005,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.14
+EPL0537,WAGNER,Thomas,M,07/04/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,9.42
+EPL0538,WAGNER,Stéphane,F,01/07/1998,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,10.85
+EPL0539,SCHMITT,Julie,M,25/10/2005,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,15.02
+EPL0540,DIJOUX,Julie,F,04/12/2003,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,10.27
+EPL0541,ROBERT,Danielle,F,31/10/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,14.51
+EPL0542,ROBERT,Thomas,F,10/03/1995,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,8.61
+EPL0543,DUPONT,Antoine,F,14/03/1999,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.59
+EPL0544,PETIT,Emma,F,15/02/1999,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,16.32
+EPL0545,DUPONT,Emma,F,09/04/2001,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,4.59
+EPL0546,MARTIN,Stéphane,F,18/07/2003,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,9.61
+EPL0547,SCHMITT,Madeleine,F,16/03/2006,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,13.73
+EPL0548,ROBERT,Antoine,M,08/12/2003,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,11.39
+EPL0549,MOREAU,Agathe,F,04/07/2002,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,13.11
+EPL0550,SCHMITT,Sophie,M,16/11/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.19
+EPL0551,DUPONT,Julie,F,09/01/2005,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,12.26
+EPL0552,DIJOUX,Madeleine,F,17/06/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,11.53
+EPL0553,DUPONT,Stéphane,F,08/02/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,15.5
+EPL0554,MOREAU,Emma,F,14/04/2004,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,12.76
+EPL0555,WAGNER,Lucas,M,22/09/1999,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,13.01
+EPL0556,MOREAU,Julie,M,04/08/1995,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,10.76
+EPL0557,DIJOUX,Agathe,F,09/12/2001,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,10.54
+EPL0558,DIJOUX,Madeleine,M,23/08/1995,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,10.7
+EPL0559,ROBERT,Lucas,F,11/01/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,13.18
+EPL0560,ROBERT,Lucas,F,20/10/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.74
+EPL0561,DUPONT,Sophie,F,29/06/1998,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,12.87
+EPL0562,MARTIN,Thomas,M,12/01/2006,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,18.23
+EPL0563,PETIT,Stéphane,M,18/04/2007,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,14.61
+EPL0564,WAGNER,Madeleine,F,27/06/2003,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,11.02
+EPL0565,WAGNER,Julie,F,21/05/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,15.6
+EPL0566,DIJOUX,Madeleine,F,23/06/1997,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,10.78
+EPL0567,PETIT,Thomas,M,11/03/2002,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,5.89
+EPL0568,DELANNOY,Lucas,F,21/10/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,8.98
+EPL0569,DIJOUX,Danielle,F,15/11/1999,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,6.39
+EPL0570,MOREAU,Danielle,F,19/10/1996,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,10.95
+EPL0571,ROBERT,Thomas,M,24/04/1999,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,12.06
+EPL0572,WAGNER,Sophie,F,17/07/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,17.03
+EPL0573,DELANNOY,Julie,M,09/08/2005,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,12.98
+EPL0574,SCHMITT,Julie,M,06/09/2000,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.34
+EPL0575,WAGNER,Agathe,M,26/09/2004,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,14.49
+EPL0576,DELANNOY,Sophie,M,15/03/1995,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,5.37
+EPL0577,DELANNOY,Stéphane,M,19/03/2006,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,12.71
+EPL0578,DUPONT,Madeleine,M,27/10/1997,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,14.31
+EPL0579,WAGNER,Danielle,F,13/01/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,7.56
+EPL0580,MOREAU,Julie,F,05/03/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,15.43
+EPL0581,DUPONT,Emma,F,05/03/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.02
+EPL0582,MARTIN,Lucas,F,08/03/2005,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,10.75
+EPL0583,PETIT,Emma,M,12/03/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,13.9
+EPL0584,MOREAU,Julie,M,08/05/2001,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,18.81
+EPL0585,ROBERT,Agathe,M,29/11/1997,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,12.55
+EPL0586,WAGNER,Agathe,M,22/10/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,12.74
+EPL0587,DUPONT,Stéphane,M,18/04/1995,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,10.62
+EPL0588,SCHMITT,Emma,F,12/04/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,9.45
+EPL0589,DELANNOY,Lucas,M,04/11/1999,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,14.49
+EPL0590,BERNARD,Stéphane,M,20/10/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,9.43
+EPL0591,DELANNOY,Antoine,F,15/04/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,12.21
+EPL0592,ROBERT,Sophie,F,19/07/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,10.57
+EPL0593,DUPONT,Emma,F,28/08/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.44
+EPL0594,ROBERT,Lucas,F,23/02/2005,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,13.0
+EPL0595,PETIT,Danielle,M,08/10/2001,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,15.11
+EPL0596,SCHMITT,Lucas,M,11/02/1997,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,10.47
+EPL0597,MARTIN,Emma,M,23/03/2000,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,11.19
+EPL0598,WAGNER,Agathe,F,27/10/2005,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,9.06
+EPL0599,MARTIN,Danielle,F,04/10/1996,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,10.67
+EPL0600,DELANNOY,Stéphane,M,31/07/2003,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,13.13
+EPL0601,ROBERT,Antoine,M,01/05/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,14.27
+EPL0602,BERNARD,Thomas,M,25/12/1999,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,9.23
+EPL0603,DUPONT,Agathe,F,26/10/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,14.61
+EPL0604,BERNARD,Julie,F,04/12/1997,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,16.07
+EPL0605,BERNARD,Antoine,M,03/08/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.24
+EPL0606,BERNARD,Emma,M,10/07/1997,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,17.63
+EPL0607,WAGNER,Emma,F,18/07/1995,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,9.68
+EPL0608,DIJOUX,Thomas,M,27/03/2000,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,8.27
+EPL0609,SCHMITT,Stéphane,M,14/06/2001,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,6.66
+EPL0610,MOREAU,Thomas,M,11/06/2002,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,16.49
+EPL0611,MOREAU,Antoine,M,31/05/1995,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,13.96
+EPL0612,MARTIN,Stéphane,F,10/03/1996,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,11.83
+EPL0613,MARTIN,Emma,M,06/06/1995,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,12.84
+EPL0614,DELANNOY,Emma,F,03/12/2006,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,8.62
+EPL0615,SCHMITT,Danielle,M,15/11/2006,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,19.34
+EPL0616,DIJOUX,Danielle,F,22/11/2002,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.39
+EPL0617,MARTIN,Sophie,M,13/06/2007,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,12.33
+EPL0618,DIJOUX,Agathe,F,05/09/2006,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,14.18
+EPL0619,DIJOUX,Sophie,F,21/05/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,13.44
+EPL0620,ROBERT,Stéphane,M,06/12/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,12.67
+EPL0621,PETIT,Madeleine,F,09/07/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,9.63
+EPL0622,SCHMITT,Emma,F,22/03/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,13.41
+EPL0623,DELANNOY,Madeleine,M,03/08/1995,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,17.65
+EPL0624,SCHMITT,Emma,M,09/09/2005,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,16.04
+EPL0625,BERNARD,Thomas,F,31/01/1998,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,16.78
+EPL0626,SCHMITT,Lucas,F,29/12/1999,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,10.47
+EPL0627,MOREAU,Antoine,F,15/04/2002,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,9.03
+EPL0628,PETIT,Sophie,F,03/11/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,11.62
+EPL0629,SCHMITT,Stéphane,F,18/11/1995,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.17
+EPL0630,MOREAU,Sophie,F,31/05/2001,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,15.28
+EPL0631,SCHMITT,Julie,M,25/05/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,6.92
+EPL0632,PETIT,Julie,M,26/10/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,16.59
+EPL0633,MOREAU,Antoine,M,13/03/2005,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,11.53
+EPL0634,DELANNOY,Agathe,M,29/01/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,10.72
+EPL0635,ROBERT,Antoine,M,30/06/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,8.96
+EPL0636,PETIT,Madeleine,M,30/03/1998,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,7.04
+EPL0637,MOREAU,Lucas,M,21/08/1997,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,14.47
+EPL0638,MOREAU,Thomas,F,11/03/2007,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,12.22
+EPL0639,MOREAU,Thomas,F,28/11/2004,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,8.13
+EPL0640,ROBERT,Stéphane,M,23/02/1999,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,8.11
+EPL0641,DIJOUX,Danielle,F,05/06/2002,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,10.99
+EPL0642,DIJOUX,Lucas,M,19/03/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,17.01
+EPL0643,DUPONT,Emma,F,08/07/1996,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,11.22
+EPL0644,DELANNOY,Lucas,F,27/10/2006,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,7.49
+EPL0645,PETIT,Julie,M,06/11/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.26
+EPL0646,ROBERT,Antoine,F,28/11/1997,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,11.18
+EPL0647,PETIT,Stéphane,F,05/05/1999,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,3.91
+EPL0648,DELANNOY,Stéphane,F,14/04/2004,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,11.84
+EPL0649,WAGNER,Lucas,F,09/07/1996,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,11.31
+EPL0650,DUPONT,Emma,F,05/10/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,14.09
+EPL0651,DUPONT,Thomas,F,19/10/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,17.55
+EPL0652,MOREAU,Julie,F,16/05/2005,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,15.38
+EPL0653,ROBERT,Danielle,M,14/12/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,11.19
+EPL0654,MARTIN,Danielle,F,01/06/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,8.68
+EPL0655,DELANNOY,Lucas,F,17/09/1995,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,19.72
+EPL0656,DUPONT,Thomas,F,06/11/1999,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.18
+EPL0657,SCHMITT,Stéphane,M,14/12/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,12.04
+EPL0658,DUPONT,Thomas,F,05/05/2002,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,11.93
+EPL0659,SCHMITT,Thomas,F,19/09/2006,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,12.59
+EPL0660,PETIT,Agathe,F,21/06/2005,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,11.57
+EPL0661,PETIT,Lucas,M,13/03/2002,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,10.28
+EPL0662,DUPONT,Thomas,M,11/02/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,10.36
+EPL0663,PETIT,Julie,M,20/08/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,11.9
+EPL0664,MARTIN,Antoine,M,04/11/1998,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,10.37
+EPL0665,MOREAU,Danielle,M,26/08/1995,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,9.86
+EPL0666,DELANNOY,Sophie,F,06/01/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,12.32
+EPL0667,WAGNER,Julie,M,11/06/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,11.24
+EPL0668,MOREAU,Lucas,F,21/07/2005,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,16.51
+EPL0669,BERNARD,Madeleine,F,14/04/2002,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,4.05
+EPL0670,DELANNOY,Emma,F,06/05/2005,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,15.27
+EPL0671,DELANNOY,Sophie,M,23/04/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,15.74
+EPL0672,PETIT,Sophie,M,19/06/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,5.78
+EPL0673,DUPONT,Stéphane,F,06/10/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,10.97
+EPL0674,DELANNOY,Antoine,F,25/07/1997,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,10.89
+EPL0675,DIJOUX,Lucas,F,24/07/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,7.78
+EPL0676,SCHMITT,Agathe,M,12/02/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,9.67
+EPL0677,ROBERT,Lucas,F,18/12/2007,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,8.67
+EPL0678,PETIT,Lucas,F,21/09/2002,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,17.26
+EPL0679,MARTIN,Danielle,F,24/04/2007,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,14.81
+EPL0680,MARTIN,Danielle,M,06/09/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,15.81
+EPL0681,BERNARD,Sophie,M,21/11/1998,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,14.17
+EPL0682,BERNARD,Madeleine,F,25/10/1997,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,8.61
+EPL0683,MOREAU,Sophie,M,24/11/1996,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,10.43
+EPL0684,DIJOUX,Thomas,F,20/05/2007,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,13.47
+EPL0685,BERNARD,Antoine,M,18/12/2007,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,8.33
+EPL0686,PETIT,Emma,M,07/11/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,14.14
+EPL0687,MOREAU,Agathe,M,22/10/2006,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.28
+EPL0688,MOREAU,Agathe,F,08/03/1996,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,10.88
+EPL0689,MOREAU,Antoine,F,10/06/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,14.13
+EPL0690,PETIT,Lucas,F,18/05/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,13.33
+EPL0691,MARTIN,Antoine,M,07/06/2001,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,10.92
+EPL0692,MARTIN,Madeleine,F,04/03/2001,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,15.48
+EPL0693,DIJOUX,Thomas,F,07/12/1998,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,8.76
+EPL0694,SCHMITT,Emma,M,03/04/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,13.85
+EPL0695,WAGNER,Thomas,M,24/09/1999,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,13.78
+EPL0696,SCHMITT,Madeleine,F,11/12/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,11.07
+EPL0697,BERNARD,Thomas,F,04/04/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.98
+EPL0698,BERNARD,Emma,M,08/03/1997,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,8.25
+EPL0699,MARTIN,Lucas,M,22/09/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,14.77
+EPL0700,PETIT,Stéphane,F,13/01/1999,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.45
+EPL0701,BERNARD,Agathe,M,01/01/2005,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,10.43
+EPL0702,SCHMITT,Danielle,M,10/04/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,15.15
+EPL0703,PETIT,Madeleine,F,12/09/2007,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,9.89
+EPL0704,MARTIN,Thomas,M,03/03/2005,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,7.77
+EPL0705,DELANNOY,Lucas,M,02/08/2003,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,7.33
+EPL0706,DIJOUX,Thomas,M,11/01/2006,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,13.82
+EPL0707,DIJOUX,Julie,F,25/11/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,8.16
+EPL0708,SCHMITT,Agathe,M,25/10/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,17.26
+EPL0709,DIJOUX,Danielle,M,04/10/2003,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,5.75
+EPL0710,SCHMITT,Julie,F,21/09/2005,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,17.09
+EPL0711,BERNARD,Thomas,M,21/09/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,12.63
+EPL0712,SCHMITT,Agathe,F,28/12/2006,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,11.71
+EPL0713,WAGNER,Madeleine,M,14/08/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,10.37
+EPL0714,DUPONT,Thomas,M,27/10/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,13.2
+EPL0715,SCHMITT,Antoine,M,21/12/2005,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,11.89
+EPL0716,MOREAU,Danielle,M,11/08/2002,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,15.31
+EPL0717,DELANNOY,Stéphane,F,13/01/2007,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,12.34
+EPL0718,DIJOUX,Thomas,M,27/07/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,12.45
+EPL0719,DIJOUX,Danielle,F,08/03/1997,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,10.91
+EPL0720,MOREAU,Antoine,M,31/05/1996,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,11.83
+EPL0721,DELANNOY,Antoine,M,19/03/2002,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,12.92
+EPL0722,DELANNOY,Agathe,F,03/03/1998,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,6.87
+EPL0723,WAGNER,Antoine,M,28/12/1997,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,7.96
+EPL0724,DELANNOY,Danielle,M,09/01/1999,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,14.23
+EPL0725,DIJOUX,Stéphane,M,28/01/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,12.51
+EPL0726,PETIT,Danielle,M,19/03/2006,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.45
+EPL0727,SCHMITT,Julie,M,22/04/1999,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,12.06
+EPL0728,ROBERT,Stéphane,F,01/09/1999,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,13.04
+EPL0729,MOREAU,Thomas,M,01/08/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.38
+EPL0730,WAGNER,Sophie,F,01/07/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,9.67
+EPL0731,SCHMITT,Julie,M,18/07/1998,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,12.59
+EPL0732,WAGNER,Thomas,F,25/05/2004,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,9.06
+EPL0733,WAGNER,Agathe,M,02/04/2004,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,13.22
+EPL0734,PETIT,Thomas,M,10/10/2004,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,6.89
+EPL0735,BERNARD,Emma,M,07/04/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,15.09
+EPL0736,DUPONT,Madeleine,M,03/10/2007,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,13.42
+EPL0737,MOREAU,Sophie,M,15/09/2002,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,12.77
+EPL0738,PETIT,Madeleine,M,09/12/1996,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,14.95
+EPL0739,MARTIN,Danielle,F,13/07/2000,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,17.0
+EPL0740,DIJOUX,Antoine,M,15/05/2004,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,15.04
+EPL0741,ROBERT,Sophie,F,13/03/1997,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,6.48
+EPL0742,SCHMITT,Sophie,M,23/12/1997,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,8.16
+EPL0743,MOREAU,Lucas,M,20/04/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,10.13
+EPL0744,BERNARD,Madeleine,F,31/05/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,12.08
+EPL0745,DUPONT,Julie,M,26/08/2001,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,13.55
+EPL0746,DUPONT,Danielle,F,27/02/1996,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,9.82
+EPL0747,SCHMITT,Emma,F,06/12/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.56
+EPL0748,WAGNER,Julie,M,24/09/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,9.73
+EPL0749,MARTIN,Julie,F,20/03/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,10.17
+EPL0750,MOREAU,Julie,M,18/07/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,7.78
+EPL0751,DELANNOY,Stéphane,F,16/12/1996,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,9.23
+EPL0752,DELANNOY,Madeleine,F,06/07/1997,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,7.94
+EPL0753,ROBERT,Danielle,F,05/05/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,9.07
+EPL0754,MOREAU,Danielle,F,29/03/1999,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,15.16
+EPL0755,PETIT,Emma,F,26/11/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,9.15
+EPL0756,DIJOUX,Lucas,M,30/10/2000,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,19.9
+EPL0757,DIJOUX,Emma,F,23/03/2005,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,13.48
+EPL0758,DIJOUX,Madeleine,M,02/05/2000,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,12.55
+EPL0759,MARTIN,Emma,M,08/08/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,9.42
+EPL0760,DUPONT,Thomas,M,20/12/2006,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,14.1
+EPL0761,DIJOUX,Thomas,F,02/07/1998,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,10.27
+EPL0762,MARTIN,Antoine,M,05/09/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,12.37
+EPL0763,MOREAU,Danielle,M,11/05/2007,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,19.68
+EPL0764,WAGNER,Thomas,F,27/01/1997,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,11.71
+EPL0765,WAGNER,Danielle,M,28/01/2007,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,15.45
+EPL0766,DUPONT,Antoine,M,05/02/2003,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,9.89
+EPL0767,DUPONT,Danielle,F,26/09/2002,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,11.9
+EPL0768,MOREAU,Sophie,F,22/06/2001,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,17.31
+EPL0769,PETIT,Antoine,M,22/03/1998,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,10.12
+EPL0770,PETIT,Sophie,M,24/02/1995,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,17.44
+EPL0771,MOREAU,Antoine,M,21/06/1999,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,14.12
+EPL0772,MARTIN,Antoine,F,30/01/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,10.31
+EPL0773,DIJOUX,Lucas,F,07/08/2005,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,13.9
+EPL0774,WAGNER,Danielle,M,20/03/2001,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,14.92
+EPL0775,BERNARD,Lucas,F,06/09/1997,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,13.87
+EPL0776,SCHMITT,Madeleine,F,04/05/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,7.29
+EPL0777,MARTIN,Emma,F,26/12/2002,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,9.82
+EPL0778,WAGNER,Madeleine,M,01/10/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.26
+EPL0779,DUPONT,Agathe,F,23/03/1998,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,11.78
+EPL0780,MOREAU,Sophie,F,28/08/1998,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,13.86
+EPL0781,ROBERT,Antoine,M,11/05/2004,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.53
+EPL0782,MOREAU,Emma,F,18/02/2003,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,7.99
+EPL0783,MARTIN,Danielle,M,27/12/1999,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,13.14
+EPL0784,DIJOUX,Stéphane,M,05/10/1996,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,13.83
+EPL0785,BERNARD,Danielle,M,02/06/1997,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,13.68
+EPL0786,SCHMITT,Agathe,F,26/03/1995,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,15.24
+EPL0787,WAGNER,Madeleine,F,28/08/1995,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,14.5
+EPL0788,DUPONT,Emma,M,25/03/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,13.38
+EPL0789,SCHMITT,Julie,M,19/04/1999,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.79
+EPL0790,ROBERT,Thomas,F,25/02/1999,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,7.02
+EPL0791,BERNARD,Stéphane,M,21/02/2004,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,13.29
+EPL0792,ROBERT,Madeleine,F,07/02/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.62
+EPL0793,MOREAU,Agathe,F,12/05/2001,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,12.81
+EPL0794,BERNARD,Lucas,F,27/03/1999,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,8.17
+EPL0795,SCHMITT,Thomas,M,22/11/2003,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,8.76
+EPL0796,BERNARD,Antoine,M,14/10/1998,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,15.16
+EPL0797,PETIT,Sophie,M,22/03/2000,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,11.88
+EPL0798,BERNARD,Emma,F,27/01/2004,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,14.04
+EPL0799,DELANNOY,Lucas,F,25/02/2006,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,12.08
+EPL0800,SCHMITT,Agathe,F,08/08/1995,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,12.09
+EPL0801,MARTIN,Antoine,M,18/09/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,14.81
+EPL0802,MOREAU,Thomas,F,02/03/2007,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,10.45
+EPL0803,BERNARD,Thomas,F,10/06/2003,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.29
+EPL0804,ROBERT,Lucas,M,09/01/2006,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,10.61
+EPL0805,DELANNOY,Antoine,F,03/06/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,10.7
+EPL0806,SCHMITT,Sophie,F,04/02/2006,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.07
+EPL0807,SCHMITT,Danielle,M,16/11/1997,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,12.67
+EPL0808,DELANNOY,Sophie,F,06/01/2003,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,10.56
+EPL0809,WAGNER,Lucas,M,20/06/1996,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,15.77
+EPL0810,ROBERT,Emma,M,03/05/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,9.32
+EPL0811,MOREAU,Antoine,M,05/02/2002,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,11.44
+EPL0812,DELANNOY,Stéphane,F,21/02/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.68
+EPL0813,BERNARD,Stéphane,F,09/09/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,16.34
+EPL0814,MARTIN,Antoine,F,25/01/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.59
+EPL0815,DELANNOY,Antoine,F,30/07/2004,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,15.1
+EPL0816,MARTIN,Sophie,F,28/06/1999,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,7.54
+EPL0817,ROBERT,Madeleine,M,30/07/2006,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,12.8
+EPL0818,ROBERT,Antoine,F,12/09/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,14.67
+EPL0819,DIJOUX,Stéphane,M,25/09/2001,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,12.25
+EPL0820,WAGNER,Sophie,F,09/06/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,15.2
+EPL0821,WAGNER,Agathe,M,22/04/1999,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,10.45
+EPL0822,ROBERT,Sophie,F,31/10/1995,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,16.23
+EPL0823,MARTIN,Lucas,M,12/12/1995,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,18.9
+EPL0824,DUPONT,Antoine,F,04/06/1996,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,10.91
+EPL0825,DIJOUX,Stéphane,M,22/10/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,10.66
+EPL0826,WAGNER,Antoine,M,11/01/2002,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,16.36
+EPL0827,DIJOUX,Agathe,M,20/10/1999,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,16.74
+EPL0828,SCHMITT,Thomas,F,14/07/1997,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,10.43
+EPL0829,DIJOUX,Emma,F,01/04/2003,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,10.74
+EPL0830,WAGNER,Lucas,F,08/12/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,11.15
+EPL0831,BERNARD,Danielle,F,24/09/2000,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,7.97
+EPL0832,DIJOUX,Thomas,F,11/02/2004,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,9.24
+EPL0833,BERNARD,Emma,F,02/04/1997,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,8.99
+EPL0834,BERNARD,Antoine,F,02/03/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,9.7
+EPL0835,MOREAU,Madeleine,M,27/12/2003,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,11.9
+EPL0836,DIJOUX,Stéphane,M,15/03/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,12.7
+EPL0837,DIJOUX,Antoine,F,27/04/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,16.65
+EPL0838,BERNARD,Sophie,M,19/06/1995,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,9.0
+EPL0839,MARTIN,Madeleine,M,30/12/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,14.95
+EPL0840,DUPONT,Madeleine,M,26/04/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,11.36
+EPL0841,WAGNER,Stéphane,M,20/12/2000,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,11.85
+EPL0842,WAGNER,Antoine,M,07/05/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,14.02
+EPL0843,DIJOUX,Danielle,F,14/11/2000,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,8.63
+EPL0844,MOREAU,Agathe,M,08/07/2005,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,13.15
+EPL0845,WAGNER,Sophie,F,30/09/2000,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,12.5
+EPL0846,DUPONT,Stéphane,F,12/12/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,13.48
+EPL0847,PETIT,Sophie,F,08/11/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,12.87
+EPL0848,DIJOUX,Lucas,M,19/04/2006,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,19.37
+EPL0849,DUPONT,Julie,F,07/03/1998,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,10.09
+EPL0850,MOREAU,Lucas,F,24/08/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,10.41
+EPL0851,DIJOUX,Emma,F,24/05/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,10.13
+EPL0852,SCHMITT,Stéphane,M,21/10/1995,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,10.33
+EPL0853,DELANNOY,Thomas,M,25/11/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,10.09
+EPL0854,DIJOUX,Agathe,F,05/02/1997,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,15.57
+EPL0855,ROBERT,Lucas,M,03/02/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,16.26
+EPL0856,MOREAU,Agathe,F,01/08/1995,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,10.29
+EPL0857,DELANNOY,Emma,M,25/08/1995,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,9.5
+EPL0858,MARTIN,Antoine,M,22/05/2002,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,13.41
+EPL0859,SCHMITT,Lucas,F,30/03/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,10.34
+EPL0860,MARTIN,Madeleine,M,12/12/2003,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,13.9
+EPL0861,BERNARD,Lucas,M,14/09/1997,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,12.61
+EPL0862,PETIT,Madeleine,F,26/02/1997,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,7.45
+EPL0863,MOREAU,Lucas,F,09/01/1997,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,16.64
+EPL0864,BERNARD,Agathe,M,07/07/2006,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,17.39
+EPL0865,ROBERT,Julie,M,09/07/2001,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,10.16
+EPL0866,DIJOUX,Madeleine,F,29/07/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,10.84
+EPL0867,DELANNOY,Danielle,M,15/06/2006,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,12.86
+EPL0868,PETIT,Lucas,F,18/09/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,13.0
+EPL0869,MOREAU,Madeleine,M,25/10/2003,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,13.98
+EPL0870,PETIT,Thomas,F,11/12/2000,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,18.03
+EPL0871,PETIT,Lucas,M,23/09/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,11.47
+EPL0872,SCHMITT,Madeleine,F,27/04/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,9.61
+EPL0873,PETIT,Emma,F,15/10/2001,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,7.86
+EPL0874,DELANNOY,Danielle,M,08/08/1995,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,9.81
+EPL0875,WAGNER,Sophie,M,06/12/1996,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,11.9
+EPL0876,SCHMITT,Agathe,M,02/06/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,17.38
+EPL0877,MOREAU,Antoine,M,08/07/1999,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,10.45
+EPL0878,DELANNOY,Sophie,F,12/02/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.67
+EPL0879,MOREAU,Julie,F,14/03/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,11.95
+EPL0880,DUPONT,Julie,M,03/01/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,15.57
+EPL0881,PETIT,Emma,F,13/10/2004,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,19.58
+EPL0882,DUPONT,Thomas,M,21/05/2006,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,10.41
+EPL0883,MARTIN,Sophie,F,30/01/2003,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,10.53
+EPL0884,DELANNOY,Thomas,M,20/11/1998,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,15.13
+EPL0885,BERNARD,Thomas,F,06/04/2000,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,14.05
+EPL0886,DUPONT,Madeleine,M,17/04/2006,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,17.54
+EPL0887,PETIT,Stéphane,M,09/08/2007,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,13.75
+EPL0888,SCHMITT,Julie,F,23/05/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.92
+EPL0889,DELANNOY,Agathe,M,13/08/2007,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,13.77
+EPL0890,DUPONT,Madeleine,F,25/11/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,15.33
+EPL0891,DUPONT,Emma,M,04/10/1997,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,14.46
+EPL0892,MOREAU,Emma,F,30/04/2006,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,13.52
+EPL0893,BERNARD,Emma,M,26/05/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,15.2
+EPL0894,BERNARD,Sophie,F,30/07/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,15.51
+EPL0895,SCHMITT,Julie,M,25/11/1996,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,16.15
+EPL0896,SCHMITT,Sophie,M,21/05/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,13.95
+EPL0897,ROBERT,Lucas,F,20/09/2002,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,11.5
+EPL0898,BERNARD,Thomas,M,18/03/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,12.44
+EPL0899,MARTIN,Agathe,M,20/01/2007,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,15.62
+EPL0900,DELANNOY,Julie,F,10/09/2006,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,9.55
+EPL0901,PETIT,Lucas,M,25/10/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.11
+EPL0902,MARTIN,Julie,F,11/10/1997,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,10.82
+EPL0903,SCHMITT,Thomas,F,18/04/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,12.09
+EPL0904,PETIT,Madeleine,F,28/08/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,15.84
+EPL0905,PETIT,Stéphane,F,10/03/2005,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,12.57
+EPL0906,DELANNOY,Agathe,M,12/07/2004,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,12.14
+EPL0907,DUPONT,Julie,F,16/07/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,7.92
+EPL0908,BERNARD,Thomas,F,08/05/2004,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,14.24
+EPL0909,MOREAU,Madeleine,M,08/10/1999,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,13.94
+EPL0910,DUPONT,Agathe,F,22/06/1997,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,18.49
+EPL0911,ROBERT,Madeleine,M,02/05/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,11.08
+EPL0912,SCHMITT,Madeleine,M,17/06/2004,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,12.66
+EPL0913,MOREAU,Danielle,M,13/04/2007,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,12.75
+EPL0914,PETIT,Lucas,F,30/07/2002,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,16.73
+EPL0915,MOREAU,Thomas,F,05/05/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,11.71
+EPL0916,WAGNER,Sophie,F,18/02/2007,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,12.84
+EPL0917,DELANNOY,Madeleine,M,30/10/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,13.82
+EPL0918,PETIT,Julie,M,16/10/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,12.56
+EPL0919,ROBERT,Madeleine,M,02/03/2001,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,10.66
+EPL0920,ROBERT,Antoine,F,05/01/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,12.58
+EPL0921,BERNARD,Madeleine,F,17/07/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,15.22
+EPL0922,DELANNOY,Agathe,M,26/05/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,8.92
+EPL0923,MARTIN,Sophie,M,27/04/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,12.4
+EPL0924,SCHMITT,Lucas,F,19/03/1997,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,9.9
+EPL0925,BERNARD,Agathe,M,18/07/1999,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,15.59
+EPL0926,MARTIN,Danielle,F,04/06/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,7.43
+EPL0927,BERNARD,Stéphane,M,13/01/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.32
+EPL0928,PETIT,Sophie,F,18/11/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,13.13
+EPL0929,DIJOUX,Stéphane,F,14/06/2007,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,16.7
+EPL0930,MARTIN,Madeleine,M,07/05/1996,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,11.8
+EPL0931,WAGNER,Antoine,F,08/01/1996,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,10.33
+EPL0932,DELANNOY,Madeleine,F,08/09/2004,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,17.64
+EPL0933,MARTIN,Thomas,F,07/07/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,7.66
+EPL0934,PETIT,Emma,M,31/12/1997,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,5.4
+EPL0935,DIJOUX,Sophie,F,23/10/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,13.32
+EPL0936,MOREAU,Agathe,F,11/06/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,10.49
+EPL0937,SCHMITT,Agathe,F,23/04/2003,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,8.94
+EPL0938,SCHMITT,Lucas,F,18/04/1999,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,14.13
+EPL0939,MOREAU,Emma,M,18/04/2001,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,12.73
+EPL0940,BERNARD,Agathe,F,07/10/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,10.31
+EPL0941,PETIT,Antoine,M,19/06/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,8.16
+EPL0942,PETIT,Stéphane,F,21/04/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,14.62
+EPL0943,BERNARD,Danielle,F,13/09/2004,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,13.95
+EPL0944,DUPONT,Julie,M,14/01/2000,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,11.7
+EPL0945,SCHMITT,Sophie,M,04/07/2002,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,17.54
+EPL0946,BERNARD,Agathe,M,01/06/1999,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,8.79
+EPL0947,DELANNOY,Danielle,F,08/09/2004,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,7.42
+EPL0948,MOREAU,Stéphane,F,21/03/1996,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,9.92
+EPL0949,MOREAU,Antoine,M,01/12/1996,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,11.86
+EPL0950,DELANNOY,Madeleine,M,29/11/2004,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,12.73
+EPL0951,DELANNOY,Danielle,M,12/08/2001,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.28
+EPL0952,PETIT,Antoine,M,03/03/2005,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,13.06
+EPL0953,SCHMITT,Thomas,F,26/04/1999,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,8.25
+EPL0954,WAGNER,Antoine,M,31/05/2006,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,16.33
+EPL0955,PETIT,Thomas,M,14/06/2000,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,11.75
+EPL0956,PETIT,Sophie,F,24/12/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,15.35
+EPL0957,PETIT,Emma,F,10/04/2003,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,13.03
+EPL0958,ROBERT,Danielle,F,17/09/2002,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,13.37
+EPL0959,DUPONT,Stéphane,F,25/06/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,13.71
+EPL0960,DUPONT,Madeleine,M,10/03/2005,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,13.34
+EPL0961,WAGNER,Stéphane,F,13/10/1999,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,13.93
+EPL0962,BERNARD,Stéphane,F,18/02/1999,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,15.99
+EPL0963,SCHMITT,Julie,M,12/03/1998,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.59
+EPL0964,SCHMITT,Stéphane,M,16/05/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,14.13
+EPL0965,ROBERT,Stéphane,M,25/05/1999,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,11.73
+EPL0966,DIJOUX,Sophie,M,04/08/2002,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,16.32
+EPL0967,DUPONT,Madeleine,F,19/06/1996,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,9.97
+EPL0968,ROBERT,Sophie,F,17/02/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,17.4
+EPL0969,PETIT,Stéphane,F,02/05/1998,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.88
+EPL0970,ROBERT,Antoine,F,11/09/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,7.71
+EPL0971,ROBERT,Sophie,F,08/03/2006,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,12.38
+EPL0972,DUPONT,Julie,F,05/02/2006,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,9.96
+EPL0973,WAGNER,Stéphane,F,04/04/2000,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,14.52
+EPL0974,PETIT,Madeleine,F,16/09/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.04
+EPL0975,MOREAU,Julie,F,29/02/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,10.66
+EPL0976,MOREAU,Thomas,F,04/03/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,6.33
+EPL0977,SCHMITT,Madeleine,F,30/03/2000,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,10.64
+EPL0978,ROBERT,Julie,M,14/03/2001,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,M. DADEOU,4.73
+EPL0979,SCHMITT,Julie,M,27/06/2002,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,7.25
+EPL0980,MARTIN,Stéphane,M,08/03/2007,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,14.28
+EPL0981,BERNARD,Sophie,M,02/08/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,14.36
+EPL0982,WAGNER,Thomas,M,27/07/2006,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,13.28
+EPL0983,DUPONT,Stéphane,F,14/05/2004,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,9.1
+EPL0984,DIJOUX,Antoine,M,08/11/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.86
+EPL0985,WAGNER,Sophie,F,18/01/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,11.99
+EPL0986,SCHMITT,Madeleine,M,29/05/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,8.52
+EPL0987,DELANNOY,Julie,F,23/03/1999,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,16.51
+EPL0988,MARTIN,Agathe,M,04/05/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,14.63
+EPL0989,DIJOUX,Stéphane,M,28/08/2003,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,11.34
+EPL0990,ROBERT,Agathe,F,15/04/1996,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,12.08
+EPL0991,BERNARD,Madeleine,M,23/11/1997,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,12.63
+EPL0992,WAGNER,Madeleine,M,12/12/2001,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,5.87
+EPL0993,WAGNER,Julie,F,06/03/2001,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,11.26
+EPL0994,BERNARD,Antoine,M,17/10/2006,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,9.95
+EPL0995,SCHMITT,Agathe,F,27/03/2005,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,9.0
+EPL0996,WAGNER,Madeleine,F,08/04/2005,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,11.16
+EPL0997,SCHMITT,Stéphane,M,20/02/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,17.39
+EPL0998,BERNARD,Julie,M,09/04/2003,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,13.92
+EPL0999,MOREAU,Madeleine,F,26/08/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,10.29
+EPL1000,MOREAU,Sophie,F,16/12/2003,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,13.72
+EPL1001,DELANNOY,Madeleine,F,31/05/2005,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,16.2
+EPL1002,WAGNER,Thomas,M,23/07/2005,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,14.77
+EPL1003,DELANNOY,Madeleine,F,14/10/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,12.18
+EPL1004,SCHMITT,Lucas,M,18/11/2004,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,10.06
+EPL1005,ROBERT,Stéphane,F,27/01/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,14.09
+EPL1006,SCHMITT,Antoine,M,03/02/1996,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,13.18
+EPL1007,WAGNER,Agathe,M,16/06/2004,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,14.69
+EPL1008,DELANNOY,Stéphane,M,07/10/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,13.91
+EPL1009,DELANNOY,Emma,F,10/08/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,15.15
+EPL1010,DELANNOY,Stéphane,M,17/05/1997,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,10.39
+EPL1011,DUPONT,Danielle,F,09/10/1999,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,15.95
+EPL1012,PETIT,Emma,M,05/07/1996,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,12.59
+EPL1013,ROBERT,Antoine,M,25/08/2000,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,18.23
+EPL1014,DIJOUX,Emma,M,17/02/2002,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,9.93
+EPL1015,PETIT,Antoine,F,30/07/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,17.21
+EPL1016,PETIT,Agathe,F,20/04/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,12.59
+EPL1017,DIJOUX,Emma,F,26/08/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,10.05
+EPL1018,SCHMITT,Stéphane,F,16/05/2002,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,10.55
+EPL1019,BERNARD,Lucas,M,20/02/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,11.04
+EPL1020,ROBERT,Danielle,M,28/12/1999,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,13.27
+EPL1021,SCHMITT,Agathe,F,27/07/1996,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,13.57
+EPL1022,DIJOUX,Agathe,M,24/04/2007,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,10.28
+EPL1023,MOREAU,Lucas,M,07/06/1999,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,11.93
+EPL1024,MARTIN,Antoine,F,08/07/1999,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,18.43
+EPL1025,BERNARD,Madeleine,F,24/11/2004,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,17.18
+EPL1026,BERNARD,Sophie,M,25/09/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.31
+EPL1027,MOREAU,Lucas,F,09/05/2001,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,12.11
+EPL1028,MOREAU,Stéphane,M,03/04/1999,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,12.36
+EPL1029,BERNARD,Sophie,F,15/05/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,13.84
+EPL1030,SCHMITT,Agathe,F,08/09/2007,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,8.93
+EPL1031,DUPONT,Julie,F,05/04/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,11.23
+EPL1032,WAGNER,Stéphane,F,10/10/1995,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,6.99
+EPL1033,MOREAU,Madeleine,F,19/07/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,13.2
+EPL1034,BERNARD,Sophie,M,18/08/2006,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,13.94
+EPL1035,MARTIN,Julie,F,27/11/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,10.55
+EPL1036,PETIT,Emma,M,12/01/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,16.72
+EPL1037,DIJOUX,Thomas,M,04/03/1997,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,8.32
+EPL1038,MARTIN,Sophie,M,16/12/1998,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,7.61
+EPL1039,DIJOUX,Julie,M,08/02/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,12.67
+EPL1040,DIJOUX,Stéphane,F,02/03/2004,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,15.14
+EPL1041,DELANNOY,Sophie,M,17/03/2001,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,17.05
+EPL1042,MOREAU,Agathe,M,15/05/1996,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,10.62
+EPL1043,ROBERT,Danielle,F,31/08/2006,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,15.24
+EPL1044,BERNARD,Emma,F,11/09/2002,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,11.88
+EPL1045,PETIT,Danielle,F,29/05/2002,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,11.48
+EPL1046,DIJOUX,Danielle,M,25/11/2006,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,14.65
+EPL1047,MOREAU,Julie,F,20/03/1999,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,13.96
+EPL1048,DUPONT,Thomas,M,13/11/2005,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,7.27
+EPL1049,DELANNOY,Sophie,F,18/05/1999,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,16.43
+EPL1050,DELANNOY,Lucas,F,08/10/1998,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,16.14
+EPL1051,WAGNER,Madeleine,M,14/05/1997,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,10.12
+EPL1052,MARTIN,Stéphane,F,06/09/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,13.19
+EPL1053,DUPONT,Stéphane,M,12/09/2002,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,13.48
+EPL1054,MARTIN,Agathe,F,19/12/1996,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,12.78
+EPL1055,DELANNOY,Antoine,F,09/11/1997,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,10.35
+EPL1056,PETIT,Julie,M,15/09/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,9.99
+EPL1057,PETIT,Antoine,M,23/05/1997,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,11.92
+EPL1058,MARTIN,Stéphane,F,22/03/2005,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,15.52
+EPL1059,DUPONT,Lucas,M,18/02/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,13.63
+EPL1060,BERNARD,Danielle,F,04/06/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,10.89
+EPL1061,MOREAU,Sophie,F,28/07/1998,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,14.32
+EPL1062,MOREAU,Emma,F,09/10/2003,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,3.45
+EPL1063,ROBERT,Sophie,M,08/12/1997,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,15.45
+EPL1064,DIJOUX,Antoine,M,28/11/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,6.78
+EPL1065,WAGNER,Stéphane,M,15/02/2003,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,10.91
+EPL1066,DIJOUX,Danielle,M,22/12/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,8.64
+EPL1067,DUPONT,Antoine,F,02/05/1998,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,8.12
+EPL1068,WAGNER,Sophie,F,15/10/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,15.48
+EPL1069,BERNARD,Lucas,F,29/03/2003,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,10.6
+EPL1070,MOREAU,Julie,M,08/07/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,13.04
+EPL1071,DIJOUX,Sophie,F,22/09/2004,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.86
+EPL1072,ROBERT,Madeleine,F,11/06/1995,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,13.43
+EPL1073,DELANNOY,Madeleine,M,13/02/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,12.23
+EPL1074,DIJOUX,Antoine,M,13/08/1998,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,8.15
+EPL1075,ROBERT,Lucas,F,18/03/2007,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,14.99
+EPL1076,MARTIN,Danielle,F,24/12/2006,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,10.52
+EPL1077,DUPONT,Antoine,M,22/03/1997,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,7.33
+EPL1078,DIJOUX,Lucas,M,04/01/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,10.72
+EPL1079,PETIT,Sophie,M,02/05/2007,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,16.5
+EPL1080,MOREAU,Agathe,F,16/07/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,14.55
+EPL1081,MARTIN,Stéphane,F,23/08/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,10.95
+EPL1082,BERNARD,Sophie,M,20/07/2000,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,10.95
+EPL1083,ROBERT,Sophie,M,22/05/2002,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.04
+EPL1084,DIJOUX,Stéphane,F,22/03/1995,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,18.23
+EPL1085,DELANNOY,Madeleine,F,24/12/2005,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,13.15
+EPL1086,MARTIN,Antoine,M,28/01/1996,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,13.29
+EPL1087,ROBERT,Julie,F,11/09/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,15.09
+EPL1088,ROBERT,Madeleine,M,14/03/1998,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,12.72
+EPL1089,WAGNER,Antoine,F,08/04/2005,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,11.22
+EPL1090,MARTIN,Lucas,F,04/09/2006,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,11.41
+EPL1091,BERNARD,Emma,M,13/10/1996,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,11.79
+EPL1092,SCHMITT,Agathe,F,06/06/2007,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,11.89
+EPL1093,MOREAU,Julie,M,04/02/2004,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,14.18
+EPL1094,BERNARD,Julie,F,23/06/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,12.16
+EPL1095,ROBERT,Stéphane,M,07/09/1996,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,14.2
+EPL1096,MOREAU,Sophie,M,16/05/2003,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,11.76
+EPL1097,DELANNOY,Lucas,F,01/11/2005,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,12.24
+EPL1098,PETIT,Sophie,M,02/11/2001,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,6.01
+EPL1099,DUPONT,Danielle,F,15/05/2002,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,14.75
+EPL1100,DIJOUX,Sophie,F,14/03/1995,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,13.04
+EPL1101,ROBERT,Julie,M,18/03/2004,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,14.99
+EPL1102,MARTIN,Stéphane,F,13/11/2003,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,3.31
+EPL1103,ROBERT,Lucas,M,01/11/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,18.27
+EPL1104,BERNARD,Danielle,F,14/06/1999,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,11.58
+EPL1105,BERNARD,Sophie,F,16/09/1995,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,15.32
+EPL1106,BERNARD,Thomas,F,09/11/1997,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,8.88
+EPL1107,DELANNOY,Danielle,M,28/06/1998,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,13.84
+EPL1108,DUPONT,Sophie,M,28/09/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,8.84
+EPL1109,BERNARD,Stéphane,M,20/06/2006,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,10.13
+EPL1110,WAGNER,Sophie,M,18/08/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Prof TRAORE,17.74
+EPL1111,DIJOUX,Stéphane,M,19/12/1997,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,11.43
+EPL1112,BERNARD,Danielle,M,14/01/1997,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,12.65
+EPL1113,WAGNER,Stéphane,F,22/07/2004,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,M. DADEOU,14.61
+EPL1114,DELANNOY,Lucas,F,17/04/2001,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,13.49
+EPL1115,DIJOUX,Danielle,M,03/03/1996,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,12.45
+EPL1116,MARTIN,Antoine,M,30/08/2004,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,13.09
+EPL1117,MARTIN,Agathe,M,22/04/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,19.21
+EPL1118,DUPONT,Antoine,F,05/05/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,11.83
+EPL1119,DELANNOY,Madeleine,M,03/12/1995,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,12.6
+EPL1120,DELANNOY,Julie,F,05/10/2001,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,15.15
+EPL1121,DIJOUX,Stéphane,F,07/05/2007,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,15.32
+EPL1122,DELANNOY,Sophie,M,30/10/2005,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,15.56
+EPL1123,DIJOUX,Lucas,M,13/09/2007,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,13.92
+EPL1124,ROBERT,Julie,M,17/09/1998,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,8.57
+EPL1125,MARTIN,Stéphane,M,30/01/1995,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,16.9
+EPL1126,MOREAU,Julie,F,21/10/2001,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,8.56
+EPL1127,DELANNOY,Madeleine,M,09/01/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,12.91
+EPL1128,DIJOUX,Lucas,M,24/01/2001,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Mme KOUADIO,9.74
+EPL1129,DUPONT,Antoine,F,12/04/2002,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,M. DADEOU,11.81
+EPL1130,PETIT,Lucas,F,14/04/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,12.99
+EPL1131,MARTIN,Madeleine,F,09/05/1995,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,12.96
+EPL1132,PETIT,Julie,M,01/12/2004,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,13.27
+EPL1133,BERNARD,Madeleine,F,13/03/2000,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,M. DADEOU,16.84
+EPL1134,DELANNOY,Thomas,M,21/04/2005,Génie Civil,GC Bâtiment,L2,2025-2026,UE102,Électricité,Prof TRAORE,13.36
+EPL1135,DIJOUX,Lucas,M,15/12/2001,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,11.27
+EPL1136,DIJOUX,Agathe,F,02/07/2000,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,14.89
+EPL1137,SCHMITT,Antoine,M,23/06/2003,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,15.57
+EPL1138,SCHMITT,Madeleine,M,15/11/1996,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,8.32
+EPL1139,ROBERT,Emma,M,16/07/1999,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,13.79
+EPL1140,MARTIN,Emma,F,19/06/1998,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Prof TRAORE,14.1
+EPL1141,ROBERT,Agathe,M,31/12/1995,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,11.11
+EPL1142,SCHMITT,Stéphane,M,31/01/2000,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,16.13
+EPL1143,MARTIN,Stéphane,F,09/07/1997,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.55
+EPL1144,MARTIN,Emma,M,26/06/2002,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,12.38
+EPL1145,DIJOUX,Madeleine,F,24/11/2006,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,11.48
+EPL1146,MARTIN,Antoine,F,24/10/2002,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,12.05
+EPL1147,DELANNOY,Danielle,M,15/04/1998,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,8.71
+EPL1148,MOREAU,Agathe,M,17/12/2007,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,7.68
+EPL1149,DIJOUX,Madeleine,F,28/11/2002,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,16.78
+EPL1150,BERNARD,Antoine,F,06/02/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,9.46
+EPL1151,MOREAU,Julie,F,11/12/2006,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,9.03
+EPL1152,BERNARD,Julie,M,15/12/1996,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,5.54
+EPL1153,DUPONT,Julie,F,30/12/1997,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,10.08
+EPL1154,MARTIN,Thomas,M,15/05/2007,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,8.03
+EPL1155,DIJOUX,Agathe,M,20/06/2003,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,16.93
+EPL1156,DELANNOY,Antoine,M,11/09/2005,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,15.03
+EPL1157,DIJOUX,Agathe,M,23/09/1996,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,M. DADEOU,9.94
+EPL1158,DIJOUX,Julie,F,18/07/2005,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,M. DADEOU,18.76
+EPL1159,DELANNOY,Madeleine,M,21/09/1995,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,14.95
+EPL1160,BERNARD,Thomas,F,31/10/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,11.03
+EPL1161,MARTIN,Agathe,F,22/10/1997,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,4.5
+EPL1162,BERNARD,Madeleine,M,04/07/2005,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,18.87
+EPL1163,SCHMITT,Emma,F,15/05/1999,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,M. DADEOU,7.83
+EPL1164,PETIT,Emma,M,16/05/2000,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,7.06
+EPL1165,PETIT,Danielle,F,18/03/1999,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,15.07
+EPL1166,DELANNOY,Antoine,M,24/08/2007,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,19.32
+EPL1167,MARTIN,Danielle,F,02/05/2001,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,16.15
+EPL1168,DUPONT,Madeleine,M,07/06/2002,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Prof TRAORE,13.69
+EPL1169,BERNARD,Thomas,M,04/07/2001,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,13.78
+EPL1170,DELANNOY,Stéphane,M,27/02/1998,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Mme KOUADIO,14.56
+EPL1171,DUPONT,Lucas,F,30/08/2004,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Prof TRAORE,14.28
+EPL1172,PETIT,Agathe,M,19/09/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,12.84
+EPL1173,MARTIN,Julie,M,11/03/2006,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,12.31
+EPL1174,DIJOUX,Agathe,F,06/12/2007,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,11.81
+EPL1175,MOREAU,Lucas,F,28/09/2000,Informatique,Génie Logiciel,L3,2025-2026,UE302,Base de données,Mme KOUADIO,9.74
+EPL1176,DUPONT,Lucas,F,04/03/2004,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,11.16
+EPL1177,PETIT,Emma,F,14/11/1996,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,6.92
+EPL1178,SCHMITT,Antoine,M,28/06/2000,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,11.7
+EPL1179,BERNARD,Madeleine,F,20/08/1996,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,M. DADEOU,9.03
+EPL1180,MOREAU,Thomas,F,12/06/1997,Génie Civil,GC Bâtiment,M1,2025-2026,UE301,Mathématiques,M. DADEOU,8.69
+EPL1181,BERNARD,Stéphane,F,16/05/2002,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,12.54
+EPL1182,MOREAU,Agathe,F,12/03/2005,Génie Civil,GC Bâtiment,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,16.18
+EPL1183,WAGNER,Emma,M,13/07/2003,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Mme KOUADIO,14.75
+EPL1184,SCHMITT,Stéphane,M,26/06/2004,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Mme KOUADIO,7.29
+EPL1185,DELANNOY,Lucas,F,31/10/1996,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,9.03
+EPL1186,MARTIN,Madeleine,M,27/01/1997,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Mme KOUADIO,14.82
+EPL1187,DUPONT,Sophie,F,31/08/2005,Réseaux & Télécoms,Télécommunications,L2,2025-2026,UE202,Transmission de données,Prof TRAORE,9.05
+EPL1188,PETIT,Sophie,M,31/07/2007,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,M. DADEOU,11.33
+EPL1189,DUPONT,Danielle,M,15/04/2005,Génie Civil,GC Travaux Publics,L3,2025-2026,UE201,Résistance des matériaux,Prof TRAORE,13.65
+EPL1190,BERNARD,Lucas,M,07/02/2005,Génie Civil,GC Travaux Publics,M1,2025-2026,UE301,Mathématiques,Mme KOUADIO,9.09
+EPL1191,WAGNER,Stéphane,F,01/04/2007,Génie Civil,GC Travaux Publics,L2,2025-2026,UE102,Électricité,Mme KOUADIO,12.32
+EPL1192,WAGNER,Antoine,M,22/04/2003,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,8.0
+EPL1193,DELANNOY,Thomas,F,14/04/2004,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,10.2
+EPL1194,DUPONT,Agathe,M,16/04/2005,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,Prof TRAORE,12.96
+EPL1195,BERNARD,Sophie,F,23/10/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,7.22
+EPL1196,DELANNOY,Danielle,F,29/04/1997,Informatique,Génie Logiciel,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,13.32
+EPL1197,MARTIN,Sophie,M,31/12/1999,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,11.94
+EPL1198,DELANNOY,Emma,F,05/04/2004,Réseaux & Télécoms,Télécommunications,L1,2025-2026,UE101,Réseaux de base,Mme KOUADIO,13.66
+EPL1199,ROBERT,Lucas,F,06/12/2000,Informatique,Intelligence Artificielle,L3,2025-2026,UE302,Base de données,M. DADEOU,12.67
+EPL1200,SCHMITT,Danielle,M,10/06/1998,Informatique,Intelligence Artificielle,M1,2025-2026,UE401,Machine Learning,Prof TRAORE,16.09

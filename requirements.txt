@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+fastapi
+uvicorn
+openpyxl
+reportlab

@@ -1,0 +1,1201 @@
+filiere,niveau,student_id,nom,prenom,moyenne,rang
+GC Bâtiment,L2,EPL0285,PETIT,Sophie,18.4,1
+GC Bâtiment,L2,EPL0394,MARTIN,Antoine,17.49,2
+GC Bâtiment,L2,EPL0625,BERNARD,Thomas,16.78,3
+GC Bâtiment,L2,EPL0668,MOREAU,Lucas,16.51,4
+GC Bâtiment,L2,EPL0610,MOREAU,Thomas,16.49,5
+GC Bâtiment,L2,EPL0480,MARTIN,Stéphane,15.36,6
+GC Bâtiment,L2,EPL0754,MOREAU,Danielle,15.16,7
+GC Bâtiment,L2,EPL0060,MARTIN,Emma,14.93,8
+GC Bâtiment,L2,EPL0092,WAGNER,Madeleine,14.91,9
+GC Bâtiment,L2,EPL0252,DIJOUX,Julie,14.75,10
+GC Bâtiment,L2,EPL0637,MOREAU,Lucas,14.47,11
+GC Bâtiment,L2,EPL0146,DIJOUX,Madeleine,14.35,12
+GC Bâtiment,L2,EPL0186,DELANNOY,Thomas,14.14,13
+GC Bâtiment,L2,EPL0885,BERNARD,Thomas,14.05,14
+GC Bâtiment,L2,EPL0860,MARTIN,Madeleine,13.9,15
+GC Bâtiment,L2,EPL0780,MOREAU,Sophie,13.86,16
+GC Bâtiment,L2,EPL0054,MARTIN,Stéphane,13.84,17
+GC Bâtiment,L2,EPL0889,DELANNOY,Agathe,13.77,18
+GC Bâtiment,L2,EPL1134,DELANNOY,Thomas,13.36,19
+GC Bâtiment,L2,EPL0957,PETIT,Emma,13.03,20
+GC Bâtiment,L2,EPL0529,BERNARD,Sophie,12.78,21
+GC Bâtiment,L2,EPL0554,MOREAU,Emma,12.76,22
+GC Bâtiment,L2,EPL0342,PETIT,Agathe,12.73,23
+GC Bâtiment,L2,EPL0040,MOREAU,Julie,12.59,24
+GC Bâtiment,L2,EPL0378,MARTIN,Madeleine,12.55,25
+GC Bâtiment,L2,EPL0585,ROBERT,Agathe,12.55,25
+GC Bâtiment,L2,EPL0717,DELANNOY,Stéphane,12.34,26
+GC Bâtiment,L2,EPL0321,WAGNER,Stéphane,12.29,27
+GC Bâtiment,L2,EPL0279,BERNARD,Emma,12.21,28
+GC Bâtiment,L2,EPL0799,DELANNOY,Lucas,12.08,29
+GC Bâtiment,L2,EPL1091,BERNARD,Emma,11.79,30
+GC Bâtiment,L2,EPL0955,PETIT,Thomas,11.75,31
+GC Bâtiment,L2,EPL0002,ROBERT,Agathe,11.59,32
+GC Bâtiment,L2,EPL0287,MOREAU,Emma,11.54,33
+GC Bâtiment,L2,EPL0548,ROBERT,Antoine,11.39,34
+GC Bâtiment,L2,EPL0350,DIJOUX,Emma,11.36,35
+GC Bâtiment,L2,EPL0169,DIJOUX,Stéphane,11.26,36
+GC Bâtiment,L2,EPL0993,WAGNER,Julie,11.26,36
+GC Bâtiment,L2,EPL0078,MARTIN,Julie,11.1,37
+GC Bâtiment,L2,EPL0641,DIJOUX,Danielle,10.99,38
+GC Bâtiment,L2,EPL0538,WAGNER,Stéphane,10.85,39
+GC Bâtiment,L2,EPL1069,BERNARD,Lucas,10.6,40
+GC Bâtiment,L2,EPL0086,DELANNOY,Agathe,10.49,41
+GC Bâtiment,L2,EPL0455,SCHMITT,Agathe,10.41,42
+GC Bâtiment,L2,EPL0540,DIJOUX,Julie,10.27,43
+GC Bâtiment,L2,EPL0031,ROBERT,Madeleine,10.19,44
+GC Bâtiment,L2,EPL0070,WAGNER,Thomas,10.06,45
+GC Bâtiment,L2,EPL0967,DUPONT,Madeleine,9.97,46
+GC Bâtiment,L2,EPL1128,DIJOUX,Lucas,9.74,47
+GC Bâtiment,L2,EPL0104,WAGNER,Thomas,9.59,48
+GC Bâtiment,L2,EPL0380,DIJOUX,Emma,9.58,49
+GC Bâtiment,L2,EPL0391,SCHMITT,Sophie,9.3,50
+GC Bâtiment,L2,EPL0275,ROBERT,Sophie,9.06,51
+GC Bâtiment,L2,EPL0838,BERNARD,Sophie,9.0,52
+GC Bâtiment,L2,EPL0356,PETIT,Thomas,8.99,53
+GC Bâtiment,L2,EPL0614,DELANNOY,Emma,8.62,54
+GC Bâtiment,L2,EPL0682,BERNARD,Madeleine,8.61,55
+GC Bâtiment,L2,EPL0953,SCHMITT,Thomas,8.25,56
+GC Bâtiment,L2,EPL0639,MOREAU,Thomas,8.13,57
+GC Bâtiment,L2,EPL0873,PETIT,Emma,7.86,58
+GC Bâtiment,L2,EPL0567,PETIT,Thomas,5.89,59
+GC Bâtiment,L2,EPL0978,ROBERT,Julie,4.73,60
+GC Bâtiment,L2,EPL0647,PETIT,Stéphane,3.91,61
+GC Bâtiment,L3,EPL0180,MARTIN,Stéphane,20.0,1
+GC Bâtiment,L3,EPL0881,PETIT,Emma,19.58,2
+GC Bâtiment,L3,EPL0126,MARTIN,Sophie,18.57,3
+GC Bâtiment,L3,EPL0886,DUPONT,Madeleine,17.54,4
+GC Bâtiment,L3,EPL0837,DIJOUX,Antoine,16.65,5
+GC Bâtiment,L3,EPL0362,DIJOUX,Antoine,16.6,6
+GC Bâtiment,L3,EPL0004,DIJOUX,Sophie,16.57,7
+GC Bâtiment,L3,EPL0822,ROBERT,Sophie,16.23,8
+GC Bâtiment,L3,EPL1182,MOREAU,Agathe,16.18,9
+GC Bâtiment,L3,EPL0426,MARTIN,Sophie,16.11,10
+GC Bâtiment,L3,EPL0257,PETIT,Emma,15.8,11
+GC Bâtiment,L3,EPL0925,BERNARD,Agathe,15.59,12
+GC Bâtiment,L3,EPL1105,BERNARD,Sophie,15.32,13
+GC Bâtiment,L3,EPL0204,SCHMITT,Agathe,15.16,14
+GC Bâtiment,L3,EPL0740,DIJOUX,Antoine,15.04,15
+GC Bâtiment,L3,EPL1007,WAGNER,Agathe,14.69,16
+GC Bâtiment,L3,EPL0167,DIJOUX,Emma,14.47,17
+GC Bâtiment,L3,EPL0041,SCHMITT,Emma,14.22,18
+GC Bâtiment,L3,EPL0964,SCHMITT,Stéphane,14.13,19
+GC Bâtiment,L3,EPL0869,MOREAU,Madeleine,13.98,20
+GC Bâtiment,L3,EPL0288,ROBERT,Julie,13.76,21
+GC Bâtiment,L3,EPL0785,BERNARD,Danielle,13.68,22
+GC Bâtiment,L3,EPL0892,MOREAU,Emma,13.52,23
+GC Bâtiment,L3,EPL0243,DELANNOY,Lucas,13.51,24
+GC Bâtiment,L3,EPL0447,DIJOUX,Agathe,13.1,25
+GC Bâtiment,L3,EPL1054,MARTIN,Agathe,12.78,26
+GC Bâtiment,L3,EPL0659,SCHMITT,Thomas,12.59,27
+GC Bâtiment,L3,EPL0758,DIJOUX,Madeleine,12.55,28
+GC Bâtiment,L3,EPL0306,DELANNOY,Madeleine,12.35,29
+GC Bâtiment,L3,EPL0199,DUPONT,Agathe,12.17,30
+GC Bâtiment,L3,EPL0528,SCHMITT,Emma,12.14,31
+GC Bâtiment,L3,EPL0368,SCHMITT,Agathe,12.04,32
+GC Bâtiment,L3,EPL0117,MARTIN,Stéphane,11.9,33
+GC Bâtiment,L3,EPL0949,MOREAU,Antoine,11.86,34
+GC Bâtiment,L3,EPL0965,ROBERT,Stéphane,11.73,35
+GC Bâtiment,L3,EPL1104,BERNARD,Danielle,11.58,36
+GC Bâtiment,L3,EPL1045,PETIT,Danielle,11.48,37
+GC Bâtiment,L3,EPL0100,ROBERT,Emma,11.3,38
+GC Bâtiment,L3,EPL1135,DIJOUX,Lucas,11.27,39
+GC Bâtiment,L3,EPL0570,MOREAU,Danielle,10.95,40
+GC Bâtiment,L3,EPL0902,MARTIN,Julie,10.82,41
+GC Bâtiment,L3,EPL0102,SCHMITT,Julie,10.74,42
+GC Bâtiment,L3,EPL0821,WAGNER,Agathe,10.45,43
+GC Bâtiment,L3,EPL0662,DUPONT,Thomas,10.36,44
+GC Bâtiment,L3,EPL0931,WAGNER,Antoine,10.33,45
+GC Bâtiment,L3,EPL0661,PETIT,Lucas,10.28,46
+GC Bâtiment,L3,EPL0507,ROBERT,Lucas,10.22,47
+GC Bâtiment,L3,EPL0749,MARTIN,Julie,10.17,48
+GC Bâtiment,L3,EPL0290,ROBERT,Stéphane,10.13,49
+GC Bâtiment,L3,EPL1109,BERNARD,Stéphane,10.13,49
+GC Bâtiment,L3,EPL1153,DUPONT,Julie,10.08,50
+GC Bâtiment,L3,EPL1017,DIJOUX,Emma,10.05,51
+GC Bâtiment,L3,EPL0301,BERNARD,Emma,9.51,52
+GC Bâtiment,L3,EPL0325,MARTIN,Sophie,8.98,53
+GC Bâtiment,L3,EPL1030,SCHMITT,Agathe,8.93,54
+GC Bâtiment,L3,EPL0922,DELANNOY,Agathe,8.92,55
+GC Bâtiment,L3,EPL0034,DIJOUX,Lucas,8.83,56
+GC Bâtiment,L3,EPL0542,ROBERT,Thomas,8.61,57
+GC Bâtiment,L3,EPL0483,SCHMITT,Madeleine,7.18,58
+GC Bâtiment,L3,EPL0636,PETIT,Madeleine,7.04,59
+GC Bâtiment,L3,EPL0439,ROBERT,Antoine,6.89,60
+GC Bâtiment,L3,EPL0472,MOREAU,Madeleine,5.09,61
+GC Bâtiment,L3,EPL0263,PETIT,Antoine,2.28,62
+GC Bâtiment,M1,EPL0032,WAGNER,Sophie,17.56,1
+GC Bâtiment,M1,EPL0945,SCHMITT,Sophie,17.54,2
+GC Bâtiment,M1,EPL0678,PETIT,Lucas,17.26,3
+GC Bâtiment,M1,EPL1125,MARTIN,Stéphane,16.9,4
+GC Bâtiment,M1,EPL0021,WAGNER,Stéphane,16.4,5
+GC Bâtiment,M1,EPL0414,DELANNOY,Lucas,15.83,6
+GC Bâtiment,M1,EPL0786,SCHMITT,Agathe,15.24,7
+GC Bâtiment,M1,EPL0884,DELANNOY,Thomas,15.13,8
+GC Bâtiment,M1,EPL0679,MARTIN,Danielle,14.81,9
+GC Bâtiment,M1,EPL0056,DIJOUX,Danielle,14.79,10
+GC Bâtiment,M1,EPL0787,WAGNER,Madeleine,14.5,11
+GC Bâtiment,M1,EPL0121,MARTIN,Emma,14.37,12
+GC Bâtiment,M1,EPL0468,MARTIN,Madeleine,14.27,13
+GC Bâtiment,M1,EPL0908,BERNARD,Thomas,14.24,14
+GC Bâtiment,M1,EPL1093,MOREAU,Julie,14.18,15
+GC Bâtiment,M1,EPL0434,WAGNER,Madeleine,14.15,16
+GC Bâtiment,M1,EPL1140,MARTIN,Emma,14.1,17
+GC Bâtiment,M1,EPL0428,SCHMITT,Danielle,14.06,18
+GC Bâtiment,M1,EPL0998,BERNARD,Julie,13.92,19
+GC Bâtiment,M1,EPL1123,DIJOUX,Lucas,13.92,19
+GC Bâtiment,M1,EPL1169,BERNARD,Thomas,13.78,20
+GC Bâtiment,M1,EPL0496,DUPONT,Lucas,13.62,21
+GC Bâtiment,M1,EPL1021,SCHMITT,Agathe,13.57,22
+GC Bâtiment,M1,EPL0001,DELANNOY,Danielle,13.49,23
+GC Bâtiment,M1,EPL0372,MARTIN,Sophie,13.49,23
+GC Bâtiment,M1,EPL0757,DIJOUX,Emma,13.48,24
+GC Bâtiment,M1,EPL0184,SCHMITT,Emma,13.45,25
+GC Bâtiment,M1,EPL0958,ROBERT,Danielle,13.37,26
+GC Bâtiment,M1,EPL0250,MOREAU,Danielle,13.21,27
+GC Bâtiment,M1,EPL0783,MARTIN,Danielle,13.14,28
+GC Bâtiment,M1,EPL0018,WAGNER,Danielle,12.94,29
+GC Bâtiment,M1,EPL0721,DELANNOY,Antoine,12.92,30
+GC Bâtiment,M1,EPL0013,ROBERT,Thomas,12.73,31
+GC Bâtiment,M1,EPL0905,PETIT,Stéphane,12.57,32
+GC Bâtiment,M1,EPL0108,BERNARD,Sophie,12.52,33
+GC Bâtiment,M1,EPL0845,WAGNER,Sophie,12.5,34
+GC Bâtiment,M1,EPL1028,MOREAU,Stéphane,12.36,35
+GC Bâtiment,M1,EPL0132,DIJOUX,Antoine,12.21,36
+GC Bâtiment,M1,EPL0509,DIJOUX,Sophie,12.15,37
+GC Bâtiment,M1,EPL0727,SCHMITT,Julie,12.06,38
+GC Bâtiment,M1,EPL0658,DUPONT,Thomas,11.93,39
+GC Bâtiment,M1,EPL0442,DELANNOY,Agathe,11.9,40
+GC Bâtiment,M1,EPL0779,DUPONT,Agathe,11.78,41
+GC Bâtiment,M1,EPL0481,DELANNOY,Stéphane,11.62,42
+GC Bâtiment,M1,EPL0660,PETIT,Agathe,11.57,43
+GC Bâtiment,M1,EPL0081,MOREAU,Lucas,11.34,44
+GC Bâtiment,M1,EPL0030,WAGNER,Danielle,11.12,45
+GC Bâtiment,M1,EPL0919,ROBERT,Madeleine,10.66,46
+GC Bâtiment,M1,EPL0219,ROBERT,Sophie,10.54,47
+GC Bâtiment,M1,EPL0557,DIJOUX,Agathe,10.54,47
+GC Bâtiment,M1,EPL0344,DELANNOY,Lucas,10.48,48
+GC Bâtiment,M1,EPL0089,WAGNER,Lucas,10.41,49
+GC Bâtiment,M1,EPL0469,ROBERT,Danielle,10.41,49
+GC Bâtiment,M1,EPL1022,DIJOUX,Agathe,10.28,50
+GC Bâtiment,M1,EPL0523,DELANNOY,Stéphane,10.01,51
+GC Bâtiment,M1,EPL0296,BERNARD,Emma,9.92,52
+GC Bâtiment,M1,EPL0703,PETIT,Madeleine,9.89,53
+GC Bâtiment,M1,EPL0385,DELANNOY,Stéphane,9.72,54
+GC Bâtiment,M1,EPL0376,PETIT,Sophie,9.7,55
+GC Bâtiment,M1,EPL0546,MARTIN,Stéphane,9.61,56
+GC Bâtiment,M1,EPL0332,DELANNOY,Danielle,9.31,57
+GC Bâtiment,M1,EPL0518,MARTIN,Antoine,9.07,58
+GC Bâtiment,M1,EPL0488,DUPONT,Danielle,8.76,59
+GC Bâtiment,M1,EPL1180,MOREAU,Thomas,8.69,60
+GC Bâtiment,M1,EPL0251,BERNARD,Thomas,8.22,61
+GC Bâtiment,M1,EPL0640,ROBERT,Stéphane,8.11,62
+GC Bâtiment,M1,EPL0527,SCHMITT,Stéphane,7.12,63
+GC Bâtiment,M1,EPL0734,PETIT,Thomas,6.89,64
+GC Travaux Publics,L2,EPL0763,MOREAU,Danielle,19.68,1
+GC Travaux Publics,L2,EPL1084,DIJOUX,Stéphane,18.23,2
+GC Travaux Publics,L2,EPL1041,DELANNOY,Sophie,17.05,3
+GC Travaux Publics,L2,EPL0083,WAGNER,Lucas,16.43,4
+GC Travaux Publics,L2,EPL0962,BERNARD,Stéphane,15.99,5
+GC Travaux Publics,L2,EPL0315,DUPONT,Thomas,15.92,6
+GC Travaux Publics,L2,EPL0854,DIJOUX,Agathe,15.57,7
+GC Travaux Publics,L2,EPL1058,MARTIN,Stéphane,15.52,8
+GC Travaux Publics,L2,EPL0796,BERNARD,Antoine,15.16,9
+GC Travaux Publics,L2,EPL0595,PETIT,Danielle,15.11,10
+GC Travaux Publics,L2,EPL0815,DELANNOY,Antoine,15.1,11
+GC Travaux Publics,L2,EPL1101,ROBERT,Julie,14.99,12
+GC Travaux Publics,L2,EPL0490,ROBERT,Madeleine,14.64,13
+GC Travaux Publics,L2,EPL0176,DELANNOY,Stéphane,14.48,14
+GC Travaux Publics,L2,EPL0216,MARTIN,Emma,14.28,15
+GC Travaux Publics,L2,EPL1171,DUPONT,Lucas,14.28,15
+GC Travaux Publics,L2,EPL1047,MOREAU,Julie,13.96,16
+GC Travaux Publics,L2,EPL1034,BERNARD,Sophie,13.94,17
+GC Travaux Publics,L2,EPL0300,ROBERT,Antoine,13.89,18
+GC Travaux Publics,L2,EPL0706,DIJOUX,Thomas,13.82,19
+GC Travaux Publics,L2,EPL1000,MOREAU,Sophie,13.72,20
+GC Travaux Publics,L2,EPL0736,DUPONT,Madeleine,13.42,21
+GC Travaux Publics,L2,EPL0960,DUPONT,Madeleine,13.34,22
+GC Travaux Publics,L2,EPL0791,BERNARD,Stéphane,13.29,23
+GC Travaux Publics,L2,EPL0733,WAGNER,Agathe,13.22,24
+GC Travaux Publics,L2,EPL0364,DELANNOY,Madeleine,13.21,25
+GC Travaux Publics,L2,EPL0555,WAGNER,Lucas,13.01,26
+GC Travaux Publics,L2,EPL0817,ROBERT,Madeleine,12.8,27
+GC Travaux Publics,L2,EPL0098,MOREAU,Lucas,12.78,28
+GC Travaux Publics,L2,EPL0141,MOREAU,Agathe,12.68,29
+GC Travaux Publics,L2,EPL0198,DELANNOY,Madeleine,12.46,30
+GC Travaux Publics,L2,EPL1144,MARTIN,Emma,12.38,31
+GC Travaux Publics,L2,EPL0281,WAGNER,Antoine,12.34,32
+GC Travaux Publics,L2,EPL1191,WAGNER,Stéphane,12.32,33
+GC Travaux Publics,L2,EPL0638,MOREAU,Thomas,12.22,34
+GC Travaux Publics,L2,EPL0906,DELANNOY,Agathe,12.14,35
+GC Travaux Publics,L2,EPL0033,PETIT,Antoine,11.96,36
+GC Travaux Publics,L2,EPL1023,MOREAU,Lucas,11.93,37
+GC Travaux Publics,L2,EPL0022,DELANNOY,Danielle,11.32,38
+GC Travaux Publics,L2,EPL1141,ROBERT,Agathe,11.11,39
+GC Travaux Publics,L2,EPL0564,WAGNER,Madeleine,11.02,40
+GC Travaux Publics,L2,EPL1082,BERNARD,Sophie,10.95,41
+GC Travaux Publics,L2,EPL0587,DUPONT,Stéphane,10.62,42
+GC Travaux Publics,L2,EPL0256,MOREAU,Stéphane,10.55,43
+GC Travaux Publics,L2,EPL0506,MOREAU,Antoine,10.54,44
+GC Travaux Publics,L2,EPL0384,PETIT,Emma,10.42,45
+GC Travaux Publics,L2,EPL0128,DELANNOY,Thomas,10.3,46
+GC Travaux Publics,L2,EPL0535,ROBERT,Julie,10.04,47
+GC Travaux Publics,L2,EPL1157,DIJOUX,Agathe,9.94,48
+GC Travaux Publics,L2,EPL0510,ROBERT,Danielle,9.51,49
+GC Travaux Publics,L2,EPL0832,DIJOUX,Thomas,9.24,50
+GC Travaux Publics,L2,EPL0751,DELANNOY,Stéphane,9.23,51
+GC Travaux Publics,L2,EPL0261,BERNARD,Sophie,9.22,52
+GC Travaux Publics,L2,EPL0732,WAGNER,Thomas,9.06,53
+GC Travaux Publics,L2,EPL0937,SCHMITT,Agathe,8.94,54
+GC Travaux Publics,L2,EPL0843,DIJOUX,Danielle,8.63,55
+GC Travaux Publics,L2,EPL0460,DELANNOY,Sophie,8.41,56
+GC Travaux Publics,L2,EPL0608,DIJOUX,Thomas,8.27,57
+GC Travaux Publics,L2,EPL1074,DIJOUX,Antoine,8.15,58
+GC Travaux Publics,L2,EPL0393,PETIT,Julie,8.04,59
+GC Travaux Publics,L2,EPL0723,WAGNER,Antoine,7.96,60
+GC Travaux Publics,L2,EPL0205,ROBERT,Lucas,7.87,61
+GC Travaux Publics,L2,EPL0473,MARTIN,Julie,7.45,62
+GC Travaux Publics,L2,EPL0111,MOREAU,Julie,6.24,63
+GC Travaux Publics,L2,EPL1152,BERNARD,Julie,5.54,64
+GC Travaux Publics,L3,EPL0756,DIJOUX,Lucas,19.9,1
+GC Travaux Publics,L3,EPL0324,DIJOUX,Stéphane,18.28,2
+GC Travaux Publics,L3,EPL0739,MARTIN,Danielle,17.0,3
+GC Travaux Publics,L3,EPL0007,WAGNER,Lucas,16.74,4
+GC Travaux Publics,L3,EPL0495,WAGNER,Sophie,16.57,5
+GC Travaux Publics,L3,EPL0966,DIJOUX,Sophie,16.32,6
+GC Travaux Publics,L3,EPL0670,DELANNOY,Emma,15.27,7
+GC Travaux Publics,L3,EPL0055,DELANNOY,Thomas,15.09,8
+GC Travaux Publics,L3,EPL1183,WAGNER,Emma,14.75,9
+GC Travaux Publics,L3,EPL0891,DUPONT,Emma,14.46,10
+GC Travaux Publics,L3,EPL0139,ROBERT,Stéphane,14.44,11
+GC Travaux Publics,L3,EPL0314,MOREAU,Julie,14.44,11
+GC Travaux Publics,L3,EPL1061,MOREAU,Sophie,14.32,12
+GC Travaux Publics,L3,EPL0724,DELANNOY,Danielle,14.23,13
+GC Travaux Publics,L3,EPL0771,MOREAU,Antoine,14.12,14
+GC Travaux Publics,L3,EPL0365,WAGNER,Emma,14.07,15
+GC Travaux Publics,L3,EPL0773,DIJOUX,Lucas,13.9,16
+GC Travaux Publics,L3,EPL0330,DIJOUX,Lucas,13.89,17
+GC Travaux Publics,L3,EPL0887,PETIT,Stéphane,13.75,18
+GC Travaux Publics,L3,EPL0547,SCHMITT,Madeleine,13.73,19
+GC Travaux Publics,L3,EPL1189,DUPONT,Danielle,13.65,20
+GC Travaux Publics,L3,EPL0309,DELANNOY,Antoine,13.64,21
+GC Travaux Publics,L3,EPL0208,ROBERT,Lucas,13.54,22
+GC Travaux Publics,L3,EPL0517,PETIT,Antoine,13.5,23
+GC Travaux Publics,L3,EPL0858,MARTIN,Antoine,13.41,24
+GC Travaux Publics,L3,EPL1086,MARTIN,Antoine,13.29,25
+GC Travaux Publics,L3,EPL1132,PETIT,Julie,13.27,26
+GC Travaux Publics,L3,EPL1116,MARTIN,Antoine,13.09,27
+GC Travaux Publics,L3,EPL0082,DELANNOY,Julie,13.07,28
+GC Travaux Publics,L3,EPL1100,DIJOUX,Sophie,13.04,29
+GC Travaux Publics,L3,EPL0175,ROBERT,Agathe,12.83,30
+GC Travaux Publics,L3,EPL0912,SCHMITT,Madeleine,12.66,31
+GC Travaux Publics,L3,EPL1112,BERNARD,Danielle,12.65,32
+GC Travaux Publics,L3,EPL0037,MARTIN,Agathe,12.63,33
+GC Travaux Publics,L3,EPL1012,PETIT,Emma,12.59,34
+GC Travaux Publics,L3,EPL1181,BERNARD,Stéphane,12.54,35
+GC Travaux Publics,L3,EPL0195,DUPONT,Thomas,12.52,36
+GC Travaux Publics,L3,EPL1173,MARTIN,Julie,12.31,37
+GC Travaux Publics,L3,EPL1146,MARTIN,Antoine,12.05,38
+GC Travaux Publics,L3,EPL0099,DUPONT,Agathe,12.02,39
+GC Travaux Publics,L3,EPL0835,MOREAU,Madeleine,11.9,40
+GC Travaux Publics,L3,EPL0648,DELANNOY,Stéphane,11.84,41
+GC Travaux Publics,L3,EPL0720,MOREAU,Antoine,11.83,42
+GC Travaux Publics,L3,EPL0188,DUPONT,Danielle,11.78,43
+GC Travaux Publics,L3,EPL0944,DUPONT,Julie,11.7,44
+GC Travaux Publics,L3,EPL0399,BERNARD,Julie,11.66,45
+GC Travaux Publics,L3,EPL0633,MOREAU,Antoine,11.53,46
+GC Travaux Publics,L3,EPL1089,WAGNER,Antoine,11.22,47
+GC Travaux Publics,L3,EPL0558,DIJOUX,Madeleine,10.7,48
+GC Travaux Publics,L3,EPL0599,MARTIN,Danielle,10.67,49
+GC Travaux Publics,L3,EPL0405,MOREAU,Antoine,10.65,50
+GC Travaux Publics,L3,EPL0047,DIJOUX,Antoine,10.62,51
+GC Travaux Publics,L3,EPL1018,SCHMITT,Stéphane,10.55,52
+GC Travaux Publics,L3,EPL0596,SCHMITT,Lucas,10.47,53
+GC Travaux Publics,L3,EPL0683,MOREAU,Sophie,10.43,54
+GC Travaux Publics,L3,EPL0769,PETIT,Antoine,10.12,55
+GC Travaux Publics,L3,EPL0505,PETIT,Agathe,10.05,56
+GC Travaux Publics,L3,EPL0156,WAGNER,Sophie,9.86,57
+GC Travaux Publics,L3,EPL0229,DUPONT,Julie,9.85,58
+GC Travaux Publics,L3,EPL0746,DUPONT,Danielle,9.82,59
+GC Travaux Publics,L3,EPL0777,MARTIN,Emma,9.82,59
+GC Travaux Publics,L3,EPL0370,BERNARD,Madeleine,9.68,60
+GC Travaux Publics,L3,EPL0171,DIJOUX,Antoine,9.33,61
+GC Travaux Publics,L3,EPL0427,MOREAU,Madeleine,9.11,62
+GC Travaux Publics,L3,EPL0983,DUPONT,Stéphane,9.1,63
+GC Travaux Publics,L3,EPL1179,BERNARD,Madeleine,9.03,64
+GC Travaux Publics,L3,EPL0946,BERNARD,Agathe,8.79,65
+GC Travaux Publics,L3,EPL0947,DELANNOY,Danielle,7.42,66
+GC Travaux Publics,L3,EPL0979,SCHMITT,Julie,7.25,67
+GC Travaux Publics,L3,EPL0224,WAGNER,Danielle,7.16,68
+GC Travaux Publics,L3,EPL0015,DELANNOY,Julie,6.83,69
+GC Travaux Publics,L3,EPL0432,PETIT,Lucas,5.88,70
+GC Travaux Publics,L3,EPL1062,MOREAU,Emma,3.45,71
+GC Travaux Publics,M1,EPL0910,DUPONT,Agathe,18.49,1
+GC Travaux Publics,M1,EPL1013,ROBERT,Antoine,18.23,2
+GC Travaux Publics,M1,EPL0932,DELANNOY,Madeleine,17.64,3
+GC Travaux Publics,M1,EPL0768,MOREAU,Sophie,17.31,4
+GC Travaux Publics,M1,EPL0352,ROBERT,Sophie,16.43,5
+GC Travaux Publics,M1,EPL0604,BERNARD,Julie,16.07,6
+GC Travaux Publics,M1,EPL0624,SCHMITT,Emma,16.04,7
+GC Travaux Publics,M1,EPL0273,WAGNER,Julie,15.49,8
+GC Travaux Publics,M1,EPL0212,MARTIN,Sophie,15.41,9
+GC Travaux Publics,M1,EPL0716,MOREAU,Danielle,15.31,10
+GC Travaux Publics,M1,EPL0254,DIJOUX,Lucas,15.1,11
+GC Travaux Publics,M1,EPL1075,ROBERT,Lucas,14.99,12
+GC Travaux Publics,M1,EPL0008,DUPONT,Madeleine,14.3,13
+GC Travaux Publics,M1,EPL0120,DELANNOY,Danielle,14.26,14
+GC Travaux Publics,M1,EPL0411,SCHMITT,Stéphane,14.13,15
+GC Travaux Publics,M1,EPL0938,SCHMITT,Lucas,14.13,15
+GC Travaux Publics,M1,EPL0961,WAGNER,Stéphane,13.93,16
+GC Travaux Publics,M1,EPL0322,PETIT,Emma,13.79,17
+GC Travaux Publics,M1,EPL1139,ROBERT,Emma,13.79,17
+GC Travaux Publics,M1,EPL0844,MOREAU,Agathe,13.15,18
+GC Travaux Publics,M1,EPL1085,DELANNOY,Madeleine,13.15,18
+GC Travaux Publics,M1,EPL0600,DELANNOY,Stéphane,13.13,19
+GC Travaux Publics,M1,EPL0069,WAGNER,Danielle,13.08,20
+GC Travaux Publics,M1,EPL0916,WAGNER,Sophie,12.84,21
+GC Travaux Publics,M1,EPL0511,PETIT,Danielle,12.81,22
+GC Travaux Publics,M1,EPL0737,MOREAU,Sophie,12.77,23
+GC Travaux Publics,M1,EPL0950,DELANNOY,Madeleine,12.73,24
+GC Travaux Publics,M1,EPL0577,DELANNOY,Stéphane,12.71,25
+GC Travaux Publics,M1,EPL0464,DUPONT,Lucas,12.64,26
+GC Travaux Publics,M1,EPL0484,MOREAU,Sophie,12.61,27
+GC Travaux Publics,M1,EPL0731,SCHMITT,Julie,12.59,28
+GC Travaux Publics,M1,EPL0551,DUPONT,Julie,12.26,29
+GC Travaux Publics,M1,EPL0220,ROBERT,Thomas,12.25,30
+GC Travaux Publics,M1,EPL0333,MOREAU,Danielle,12.23,31
+GC Travaux Publics,M1,EPL0800,SCHMITT,Agathe,12.09,32
+GC Travaux Publics,M1,EPL0274,SCHMITT,Julie,12.03,33
+GC Travaux Publics,M1,EPL0491,PETIT,Danielle,11.98,34
+GC Travaux Publics,M1,EPL1129,DUPONT,Antoine,11.81,35
+GC Travaux Publics,M1,EPL1096,MOREAU,Sophie,11.76,36
+GC Travaux Publics,M1,EPL0465,ROBERT,Emma,11.66,37
+GC Travaux Publics,M1,EPL0897,ROBERT,Lucas,11.5,38
+GC Travaux Publics,M1,EPL0498,SCHMITT,Antoine,11.43,39
+GC Travaux Publics,M1,EPL0338,DIJOUX,Stéphane,11.04,40
+GC Travaux Publics,M1,EPL0582,MARTIN,Lucas,10.75,41
+GC Travaux Publics,M1,EPL0269,DUPONT,Stéphane,10.68,42
+GC Travaux Publics,M1,EPL0449,DELANNOY,Sophie,10.46,43
+GC Travaux Publics,M1,EPL0882,DUPONT,Thomas,10.41,44
+GC Travaux Publics,M1,EPL0664,MARTIN,Antoine,10.37,45
+GC Travaux Publics,M1,EPL0459,DIJOUX,Thomas,10.34,46
+GC Travaux Publics,M1,EPL0016,SCHMITT,Lucas,10.31,47
+GC Travaux Publics,M1,EPL0390,BERNARD,Madeleine,10.27,48
+GC Travaux Publics,M1,EPL0761,DIJOUX,Thomas,10.27,48
+GC Travaux Publics,M1,EPL0874,DELANNOY,Danielle,9.81,49
+GC Travaux Publics,M1,EPL0137,DELANNOY,Emma,9.65,50
+GC Travaux Publics,M1,EPL0857,DELANNOY,Emma,9.5,51
+GC Travaux Publics,M1,EPL0057,ROBERT,Stéphane,9.48,52
+GC Travaux Publics,M1,EPL0197,DELANNOY,Lucas,9.35,53
+GC Travaux Publics,M1,EPL0206,ROBERT,Agathe,9.19,54
+GC Travaux Publics,M1,EPL1190,BERNARD,Lucas,9.09,55
+GC Travaux Publics,M1,EPL0598,WAGNER,Agathe,9.06,56
+GC Travaux Publics,M1,EPL0833,BERNARD,Emma,8.99,57
+GC Travaux Publics,M1,EPL0200,WAGNER,Madeleine,8.57,58
+GC Travaux Publics,M1,EPL1126,MOREAU,Julie,8.56,59
+GC Travaux Publics,M1,EPL0036,DIJOUX,Thomas,8.34,60
+GC Travaux Publics,M1,EPL1037,DIJOUX,Thomas,8.32,61
+GC Travaux Publics,M1,EPL0794,BERNARD,Lucas,8.17,62
+GC Travaux Publics,M1,EPL0782,MOREAU,Emma,7.99,63
+GC Travaux Publics,M1,EPL0096,MOREAU,Julie,7.61,64
+GC Travaux Publics,M1,EPL0430,SCHMITT,Julie,6.72,65
+GC Travaux Publics,M1,EPL0609,SCHMITT,Stéphane,6.66,66
+GC Travaux Publics,M1,EPL0576,DELANNOY,Sophie,5.37,67
+Génie Logiciel,L3,EPL1166,DELANNOY,Antoine,19.32,1
+Génie Logiciel,L3,EPL0235,PETIT,Stéphane,18.43,2
+Génie Logiciel,L3,EPL0253,MOREAU,Julie,18.37,3
+Génie Logiciel,L3,EPL0870,PETIT,Thomas,18.03,4
+Génie Logiciel,L3,EPL0388,BERNARD,Emma,17.63,5
+Génie Logiciel,L3,EPL0929,DIJOUX,Stéphane,16.7,6
+Génie Logiciel,L3,EPL0492,DELANNOY,Stéphane,16.44,7
+Génie Logiciel,L3,EPL0398,DELANNOY,Agathe,16.06,8
+Génie Logiciel,L3,EPL1011,DUPONT,Danielle,15.95,9
+Génie Logiciel,L3,EPL0400,SCHMITT,Julie,15.71,10
+Génie Logiciel,L3,EPL1137,SCHMITT,Antoine,15.57,11
+Génie Logiciel,L3,EPL1122,DELANNOY,Sophie,15.56,12
+Génie Logiciel,L3,EPL0692,MARTIN,Madeleine,15.48,13
+Génie Logiciel,L3,EPL0312,DIJOUX,Emma,15.3,14
+Génie Logiciel,L3,EPL1040,DIJOUX,Stéphane,15.14,15
+Génie Logiciel,L3,EPL0389,SCHMITT,Lucas,14.85,16
+Génie Logiciel,L3,EPL1002,WAGNER,Thomas,14.77,17
+Génie Logiciel,L3,EPL0244,PETIT,Emma,14.6,18
+Génie Logiciel,L3,EPL0192,MOREAU,Danielle,14.57,19
+Génie Logiciel,L3,EPL0240,DELANNOY,Madeleine,14.56,20
+Génie Logiciel,L3,EPL0575,WAGNER,Agathe,14.49,21
+Génie Logiciel,L3,EPL0035,ROBERT,Stéphane,14.47,22
+Génie Logiciel,L3,EPL0303,SCHMITT,Thomas,14.24,23
+Génie Logiciel,L3,EPL0681,BERNARD,Sophie,14.17,24
+Génie Logiciel,L3,EPL0760,DUPONT,Thomas,14.1,25
+Génie Logiciel,L3,EPL0425,DELANNOY,Thomas,13.94,26
+Génie Logiciel,L3,EPL0531,PETIT,Danielle,13.92,27
+Génie Logiciel,L3,EPL0406,PETIT,Sophie,13.87,28
+Génie Logiciel,L3,EPL0467,SCHMITT,Julie,13.84,29
+Génie Logiciel,L3,EPL1107,DELANNOY,Danielle,13.84,29
+Génie Logiciel,L3,EPL0784,DIJOUX,Stéphane,13.83,30
+Génie Logiciel,L3,EPL0125,WAGNER,Thomas,13.76,31
+Génie Logiciel,L3,EPL0477,DUPONT,Lucas,13.73,32
+Génie Logiciel,L3,EPL0211,WAGNER,Thomas,13.71,33
+Génie Logiciel,L3,EPL0524,ROBERT,Antoine,13.71,33
+Génie Logiciel,L3,EPL1168,DUPONT,Madeleine,13.69,34
+Génie Logiciel,L3,EPL0090,SCHMITT,Sophie,13.54,35
+Génie Logiciel,L3,EPL0392,WAGNER,Sophie,13.48,36
+Génie Logiciel,L3,EPL0619,DIJOUX,Sophie,13.44,37
+Génie Logiciel,L3,EPL0158,DIJOUX,Stéphane,13.42,38
+Génie Logiciel,L3,EPL0339,MARTIN,Stéphane,13.24,39
+Génie Logiciel,L3,EPL1006,SCHMITT,Antoine,13.18,40
+Génie Logiciel,L3,EPL0441,ROBERT,Thomas,13.15,41
+Génie Logiciel,L3,EPL0028,BERNARD,Thomas,13.13,42
+Génie Logiciel,L3,EPL0728,ROBERT,Stéphane,13.04,43
+Génie Logiciel,L3,EPL0359,SCHMITT,Stéphane,12.97,44
+Génie Logiciel,L3,EPL0097,MOREAU,Emma,12.89,45
+Génie Logiciel,L3,EPL0561,DUPONT,Sophie,12.87,46
+Génie Logiciel,L3,EPL0151,PETIT,Danielle,12.75,47
+Génie Logiciel,L3,EPL0913,MOREAU,Danielle,12.75,47
+Génie Logiciel,L3,EPL0939,MOREAU,Emma,12.73,48
+Génie Logiciel,L3,EPL0346,BERNARD,Agathe,12.7,49
+Génie Logiciel,L3,EPL0781,ROBERT,Antoine,12.53,50
+Génie Logiciel,L3,EPL0409,WAGNER,Sophie,12.36,51
+Génie Logiciel,L3,EPL0617,MARTIN,Sophie,12.33,52
+Génie Logiciel,L3,EPL0079,ROBERT,Stéphane,12.28,53
+Génie Logiciel,L3,EPL0113,SCHMITT,Lucas,12.18,54
+Génie Logiciel,L3,EPL0990,ROBERT,Agathe,12.08,55
+Génie Logiciel,L3,EPL0177,DUPONT,Stéphane,12.04,56
+Génie Logiciel,L3,EPL0403,MOREAU,Danielle,12.02,57
+Génie Logiciel,L3,EPL0305,MOREAU,Thomas,11.94,58
+Génie Logiciel,L3,EPL0969,PETIT,Stéphane,11.88,59
+Génie Logiciel,L3,EPL1071,DIJOUX,Sophie,11.86,60
+Génie Logiciel,L3,EPL0612,MARTIN,Stéphane,11.83,61
+Génie Logiciel,L3,EPL0789,SCHMITT,Julie,11.79,62
+Génie Logiciel,L3,EPL0764,WAGNER,Thomas,11.71,63
+Génie Logiciel,L3,EPL1143,MARTIN,Stéphane,11.55,64
+Génie Logiciel,L3,EPL0700,PETIT,Stéphane,11.45,65
+Génie Logiciel,L3,EPL0989,DIJOUX,Stéphane,11.34,66
+Génie Logiciel,L3,EPL0476,DIJOUX,Sophie,11.25,67
+Génie Logiciel,L3,EPL0179,PETIT,Danielle,11.21,68
+Génie Logiciel,L3,EPL0996,WAGNER,Madeleine,11.16,69
+Génie Logiciel,L3,EPL0358,WAGNER,Julie,11.13,70
+Génie Logiciel,L3,EPL0044,DIJOUX,Agathe,11.1,71
+Génie Logiciel,L3,EPL0691,MARTIN,Antoine,10.92,72
+Génie Logiciel,L3,EPL0719,DIJOUX,Danielle,10.91,73
+Génie Logiciel,L3,EPL0366,BERNARD,Thomas,10.8,74
+Génie Logiciel,L3,EPL0556,MOREAU,Julie,10.76,75
+Génie Logiciel,L3,EPL0829,DIJOUX,Emma,10.74,76
+Génie Logiciel,L3,EPL1042,MOREAU,Agathe,10.62,77
+Génie Logiciel,L3,EPL0883,MARTIN,Sophie,10.53,78
+Génie Logiciel,L3,EPL0802,MOREAU,Thomas,10.45,79
+Génie Logiciel,L3,EPL0515,PETIT,Danielle,10.27,80
+Génie Logiciel,L3,EPL0308,PETIT,Stéphane,10.23,81
+Génie Logiciel,L3,EPL1051,WAGNER,Madeleine,10.12,82
+Génie Logiciel,L3,EPL1004,SCHMITT,Lucas,10.06,83
+Génie Logiciel,L3,EPL0948,MOREAU,Stéphane,9.92,84
+Génie Logiciel,L3,EPL0665,MOREAU,Danielle,9.86,85
+Génie Logiciel,L3,EPL1175,MOREAU,Lucas,9.74,86
+Génie Logiciel,L3,EPL0456,ROBERT,Stéphane,9.62,87
+Génie Logiciel,L3,EPL0085,MARTIN,Thomas,9.57,88
+Génie Logiciel,L3,EPL0900,DELANNOY,Julie,9.55,89
+Génie Logiciel,L3,EPL0494,PETIT,Madeleine,9.42,90
+Génie Logiciel,L3,EPL0530,ROBERT,Antoine,9.29,91
+Génie Logiciel,L3,EPL0161,ROBERT,Agathe,9.08,92
+Génie Logiciel,L3,EPL0017,DUPONT,Madeleine,8.96,93
+Génie Logiciel,L3,EPL0795,SCHMITT,Thomas,8.76,94
+Génie Logiciel,L3,EPL0677,ROBERT,Lucas,8.67,95
+Génie Logiciel,L3,EPL1066,DIJOUX,Danielle,8.64,96
+Génie Logiciel,L3,EPL0118,MARTIN,Lucas,8.49,97
+Génie Logiciel,L3,EPL0431,SCHMITT,Stéphane,8.45,98
+Génie Logiciel,L3,EPL1138,SCHMITT,Madeleine,8.32,99
+Génie Logiciel,L3,EPL1154,MARTIN,Thomas,8.03,100
+Génie Logiciel,L3,EPL0831,BERNARD,Danielle,7.97,101
+Génie Logiciel,L3,EPL1163,SCHMITT,Emma,7.83,102
+Génie Logiciel,L3,EPL1038,MARTIN,Sophie,7.61,103
+Génie Logiciel,L3,EPL0644,DELANNOY,Lucas,7.49,104
+Génie Logiciel,L3,EPL0255,WAGNER,Agathe,7.44,105
+Génie Logiciel,L3,EPL1164,PETIT,Emma,7.06,106
+Génie Logiciel,L3,EPL0790,ROBERT,Thomas,7.02,107
+Génie Logiciel,L3,EPL1032,WAGNER,Stéphane,6.99,108
+Génie Logiciel,L3,EPL0526,SCHMITT,Sophie,6.59,109
+Génie Logiciel,L3,EPL0286,BERNARD,Madeleine,6.14,110
+Génie Logiciel,L3,EPL0443,WAGNER,Thomas,5.8,111
+Génie Logiciel,L3,EPL0545,DUPONT,Emma,4.59,112
+Génie Logiciel,M1,EPL0210,DIJOUX,Emma,20.0,1
+Génie Logiciel,M1,EPL0107,WAGNER,Antoine,17.66,2
+Génie Logiciel,M1,EPL0136,SCHMITT,Danielle,16.65,3
+Génie Logiciel,M1,EPL0435,SCHMITT,Antoine,16.51,4
+Génie Logiciel,M1,EPL0987,DELANNOY,Julie,16.51,4
+Génie Logiciel,M1,EPL1167,MARTIN,Danielle,16.15,5
+Génie Logiciel,M1,EPL1050,DELANNOY,Lucas,16.14,6
+Génie Logiciel,M1,EPL0809,WAGNER,Lucas,15.77,7
+Génie Logiciel,M1,EPL0163,PETIT,Thomas,15.48,8
+Génie Logiciel,M1,EPL0327,DUPONT,Agathe,15.47,9
+Génie Logiciel,M1,EPL0765,WAGNER,Danielle,15.45,10
+Génie Logiciel,M1,EPL1063,ROBERT,Sophie,15.45,10
+Génie Logiciel,M1,EPL0652,MOREAU,Julie,15.38,11
+Génie Logiciel,M1,EPL0630,MOREAU,Sophie,15.28,12
+Génie Logiciel,M1,EPL0774,WAGNER,Danielle,14.92,13
+Génie Logiciel,M1,EPL0374,SCHMITT,Emma,14.88,14
+Génie Logiciel,M1,EPL1046,DIJOUX,Danielle,14.65,15
+Génie Logiciel,M1,EPL0563,PETIT,Stéphane,14.61,16
+Génie Logiciel,M1,EPL1113,WAGNER,Stéphane,14.61,16
+Génie Logiciel,M1,EPL0294,BERNARD,Antoine,14.55,17
+Génie Logiciel,M1,EPL0973,WAGNER,Stéphane,14.52,18
+Génie Logiciel,M1,EPL0260,ROBERT,Thomas,14.32,19
+Génie Logiciel,M1,EPL0578,DUPONT,Madeleine,14.31,20
+Génie Logiciel,M1,EPL0980,MARTIN,Stéphane,14.28,21
+Génie Logiciel,M1,EPL0516,BERNARD,Emma,14.27,22
+Génie Logiciel,M1,EPL1095,ROBERT,Stéphane,14.2,23
+Génie Logiciel,M1,EPL0317,DIJOUX,Agathe,14.05,24
+Génie Logiciel,M1,EPL0611,MOREAU,Antoine,13.96,25
+Génie Logiciel,M1,EPL0003,PETIT,Danielle,13.94,26
+Génie Logiciel,M1,EPL0236,DIJOUX,Lucas,13.9,27
+Génie Logiciel,M1,EPL0775,BERNARD,Lucas,13.87,28
+Génie Logiciel,M1,EPL0276,ROBERT,Lucas,13.39,29
+Génie Logiciel,M1,EPL0259,BERNARD,Julie,13.33,30
+Génie Logiciel,M1,EPL1196,DELANNOY,Danielle,13.32,31
+Génie Logiciel,M1,EPL0049,BERNARD,Danielle,13.03,32
+Génie Logiciel,M1,EPL0144,DELANNOY,Emma,12.55,33
+Génie Logiciel,M1,EPL0026,WAGNER,Julie,12.33,34
+Génie Logiciel,M1,EPL0091,MARTIN,Thomas,12.29,35
+Génie Logiciel,M1,EPL0357,WAGNER,Julie,11.94,36
+Génie Logiciel,M1,EPL1057,PETIT,Antoine,11.92,37
+Génie Logiciel,M1,EPL0715,SCHMITT,Antoine,11.89,38
+Génie Logiciel,M1,EPL1092,SCHMITT,Agathe,11.89,38
+Génie Logiciel,M1,EPL1044,BERNARD,Emma,11.88,39
+Génie Logiciel,M1,EPL0067,DUPONT,Sophie,11.78,40
+Génie Logiciel,M1,EPL0712,SCHMITT,Agathe,11.71,41
+Génie Logiciel,M1,EPL0242,WAGNER,Danielle,11.66,42
+Génie Logiciel,M1,EPL1145,DIJOUX,Madeleine,11.48,43
+Génie Logiciel,M1,EPL1111,DIJOUX,Stéphane,11.43,44
+Génie Logiciel,M1,EPL0643,DUPONT,Emma,11.22,45
+Génie Logiciel,M1,EPL0058,PETIT,Julie,11.07,46
+Génie Logiciel,M1,EPL0688,MOREAU,Agathe,10.88,47
+Génie Logiciel,M1,EPL0977,SCHMITT,Madeleine,10.64,48
+Génie Logiciel,M1,EPL0804,ROBERT,Lucas,10.61,49
+Génie Logiciel,M1,EPL0247,PETIT,Thomas,10.58,50
+Génie Logiciel,M1,EPL1076,MARTIN,Danielle,10.52,51
+Génie Logiciel,M1,EPL0701,BERNARD,Agathe,10.43,52
+Génie Logiciel,M1,EPL0856,MOREAU,Agathe,10.29,53
+Génie Logiciel,M1,EPL0849,DUPONT,Julie,10.09,54
+Génie Logiciel,M1,EPL0153,ROBERT,Stéphane,9.96,55
+Génie Logiciel,M1,EPL0924,SCHMITT,Lucas,9.9,56
+Génie Logiciel,M1,EPL0766,DUPONT,Antoine,9.89,57
+Génie Logiciel,M1,EPL0525,PETIT,Sophie,9.71,58
+Génie Logiciel,M1,EPL0607,WAGNER,Emma,9.68,59
+Génie Logiciel,M1,EPL0241,WAGNER,Thomas,9.62,60
+Génie Logiciel,M1,EPL0323,PETIT,Lucas,9.55,61
+Génie Logiciel,M1,EPL0164,DIJOUX,Danielle,9.54,62
+Génie Logiciel,M1,EPL0627,MOREAU,Antoine,9.03,63
+Génie Logiciel,M1,EPL0133,DELANNOY,Danielle,8.81,64
+Génie Logiciel,M1,EPL0183,DUPONT,Agathe,8.79,65
+Génie Logiciel,M1,EPL0228,ROBERT,Lucas,8.77,66
+Génie Logiciel,M1,EPL0693,DIJOUX,Thomas,8.76,67
+Génie Logiciel,M1,EPL1147,DELANNOY,Danielle,8.71,68
+Génie Logiciel,M1,EPL0685,BERNARD,Antoine,8.33,69
+Génie Logiciel,M1,EPL0039,BERNARD,Lucas,8.02,70
+Génie Logiciel,M1,EPL1192,WAGNER,Antoine,8.0,71
+Génie Logiciel,M1,EPL0862,PETIT,Madeleine,7.45,72
+Génie Logiciel,M1,EPL1048,DUPONT,Thomas,7.27,73
+Génie Logiciel,M1,EPL0722,DELANNOY,Agathe,6.87,74
+Génie Logiciel,M1,EPL0397,SCHMITT,Lucas,6.86,75
+Génie Logiciel,M1,EPL0709,DIJOUX,Danielle,5.75,76
+Intelligence Artificielle,L3,EPL0655,DELANNOY,Lucas,19.72,1
+Intelligence Artificielle,L3,EPL1024,MARTIN,Antoine,18.43,2
+Intelligence Artificielle,L3,EPL0562,MARTIN,Thomas,18.23,3
+Intelligence Artificielle,L3,EPL0502,WAGNER,Thomas,17.73,4
+Intelligence Artificielle,L3,EPL0864,BERNARD,Agathe,17.39,5
+Intelligence Artificielle,L3,EPL0249,SCHMITT,Stéphane,17.3,6
+Intelligence Artificielle,L3,EPL1025,BERNARD,Madeleine,17.18,7
+Intelligence Artificielle,L3,EPL0710,SCHMITT,Julie,17.09,8
+Intelligence Artificielle,L3,EPL0267,MOREAU,Emma,16.9,9
+Intelligence Artificielle,L3,EPL0437,MOREAU,Sophie,16.89,10
+Intelligence Artificielle,L3,EPL0914,PETIT,Lucas,16.73,11
+Intelligence Artificielle,L3,EPL0863,MOREAU,Lucas,16.64,12
+Intelligence Artificielle,L3,EPL0178,DUPONT,Madeleine,16.36,13
+Intelligence Artificielle,L3,EPL0826,WAGNER,Antoine,16.36,13
+Intelligence Artificielle,L3,EPL0544,PETIT,Emma,16.32,14
+Intelligence Artificielle,L3,EPL1001,DELANNOY,Madeleine,16.2,15
+Intelligence Artificielle,L3,EPL1142,SCHMITT,Stéphane,16.13,16
+Intelligence Artificielle,L3,EPL0066,MOREAU,Madeleine,16.07,17
+Intelligence Artificielle,L3,EPL0899,MARTIN,Agathe,15.62,18
+Intelligence Artificielle,L3,EPL0738,PETIT,Madeleine,14.95,19
+Intelligence Artificielle,L3,EPL1136,DIJOUX,Agathe,14.89,20
+Intelligence Artificielle,L3,EPL0452,MOREAU,Thomas,14.87,21
+Intelligence Artificielle,L3,EPL0213,DIJOUX,Thomas,14.86,22
+Intelligence Artificielle,L3,EPL1099,DUPONT,Danielle,14.75,23
+Intelligence Artificielle,L3,EPL0328,MARTIN,Emma,14.37,24
+Intelligence Artificielle,L3,EPL0798,BERNARD,Emma,14.04,25
+Intelligence Artificielle,L3,EPL0943,BERNARD,Danielle,13.95,26
+Intelligence Artificielle,L3,EPL0909,MOREAU,Madeleine,13.94,27
+Intelligence Artificielle,L3,EPL0329,MOREAU,Danielle,13.87,28
+Intelligence Artificielle,L3,EPL0361,DUPONT,Sophie,13.56,29
+Intelligence Artificielle,L3,EPL0209,SCHMITT,Madeleine,13.55,30
+Intelligence Artificielle,L3,EPL0745,DUPONT,Julie,13.55,30
+Intelligence Artificielle,L3,EPL1114,DELANNOY,Lucas,13.49,31
+Intelligence Artificielle,L3,EPL1072,ROBERT,Madeleine,13.43,32
+Intelligence Artificielle,L3,EPL0187,MARTIN,Julie,13.42,33
+Intelligence Artificielle,L3,EPL0594,ROBERT,Lucas,13.0,34
+Intelligence Artificielle,L3,EPL0059,WAGNER,Lucas,12.99,35
+Intelligence Artificielle,L3,EPL0051,BERNARD,Sophie,12.97,36
+Intelligence Artificielle,L3,EPL1194,DUPONT,Agathe,12.96,37
+Intelligence Artificielle,L3,EPL0351,SCHMITT,Stéphane,12.93,38
+Intelligence Artificielle,L3,EPL0867,DELANNOY,Danielle,12.86,39
+Intelligence Artificielle,L3,EPL0613,MARTIN,Emma,12.84,40
+Intelligence Artificielle,L3,EPL1088,ROBERT,Madeleine,12.72,41
+Intelligence Artificielle,L3,EPL0367,SCHMITT,Stéphane,12.67,42
+Intelligence Artificielle,L3,EPL0807,SCHMITT,Danielle,12.67,42
+Intelligence Artificielle,L3,EPL1199,ROBERT,Lucas,12.67,42
+Intelligence Artificielle,L3,EPL0963,SCHMITT,Julie,12.59,43
+Intelligence Artificielle,L3,EPL0042,DUPONT,Stéphane,12.51,44
+Intelligence Artificielle,L3,EPL0616,DIJOUX,Danielle,12.39,45
+Intelligence Artificielle,L3,EPL0803,BERNARD,Thomas,12.29,46
+Intelligence Artificielle,L3,EPL1097,DELANNOY,Lucas,12.24,47
+Intelligence Artificielle,L3,EPL0536,DUPONT,Agathe,12.14,48
+Intelligence Artificielle,L3,EPL1027,MOREAU,Lucas,12.11,49
+Intelligence Artificielle,L3,EPL0571,ROBERT,Thomas,12.06,50
+Intelligence Artificielle,L3,EPL0355,MOREAU,Danielle,11.94,51
+Intelligence Artificielle,L3,EPL1197,MARTIN,Sophie,11.94,51
+Intelligence Artificielle,L3,EPL0875,WAGNER,Sophie,11.9,52
+Intelligence Artificielle,L3,EPL1174,DIJOUX,Agathe,11.81,53
+Intelligence Artificielle,L3,EPL0320,WAGNER,Lucas,11.61,54
+Intelligence Artificielle,L3,EPL0408,DIJOUX,Lucas,11.57,55
+Intelligence Artificielle,L3,EPL0115,DIJOUX,Stéphane,11.42,56
+Intelligence Artificielle,L3,EPL0574,SCHMITT,Julie,11.34,57
+Intelligence Artificielle,L3,EPL0006,DELANNOY,Sophie,11.3,58
+Intelligence Artificielle,L3,EPL0513,DUPONT,Thomas,11.28,59
+Intelligence Artificielle,L3,EPL0687,MOREAU,Agathe,11.28,59
+Intelligence Artificielle,L3,EPL0951,DELANNOY,Danielle,11.28,59
+Intelligence Artificielle,L3,EPL0597,MARTIN,Emma,11.19,60
+Intelligence Artificielle,L3,EPL0824,DUPONT,Antoine,10.91,61
+Intelligence Artificielle,L3,EPL0052,WAGNER,Sophie,10.84,62
+Intelligence Artificielle,L3,EPL0011,PETIT,Emma,10.61,63
+Intelligence Artificielle,L3,EPL0808,DELANNOY,Sophie,10.56,64
+Intelligence Artificielle,L3,EPL0877,MOREAU,Antoine,10.45,65
+Intelligence Artificielle,L3,EPL1010,DELANNOY,Stéphane,10.39,66
+Intelligence Artificielle,L3,EPL1055,DELANNOY,Antoine,10.35,67
+Intelligence Artificielle,L3,EPL0852,SCHMITT,Stéphane,10.33,68
+Intelligence Artificielle,L3,EPL0029,BERNARD,Lucas,10.2,69
+Intelligence Artificielle,L3,EPL0865,ROBERT,Julie,10.16,70
+Intelligence Artificielle,L3,EPL0234,MOREAU,Thomas,10.05,71
+Intelligence Artificielle,L3,EPL0248,BERNARD,Thomas,10.04,72
+Intelligence Artificielle,L3,EPL0239,PETIT,Stéphane,10.01,73
+Intelligence Artificielle,L3,EPL0463,BERNARD,Antoine,9.9,74
+Intelligence Artificielle,L3,EPL0046,DELANNOY,Lucas,9.84,75
+Intelligence Artificielle,L3,EPL0381,DUPONT,Sophie,9.48,76
+Intelligence Artificielle,L3,EPL0064,BERNARD,Thomas,8.41,77
+Intelligence Artificielle,L3,EPL0742,SCHMITT,Sophie,8.16,78
+Intelligence Artificielle,L3,EPL0445,DIJOUX,Madeleine,8.09,79
+Intelligence Artificielle,L3,EPL0503,WAGNER,Julie,7.8,80
+Intelligence Artificielle,L3,EPL0348,MARTIN,Agathe,7.78,81
+Intelligence Artificielle,L3,EPL1148,MOREAU,Agathe,7.68,82
+Intelligence Artificielle,L3,EPL0347,DIJOUX,Danielle,7.66,83
+Intelligence Artificielle,L3,EPL0705,DELANNOY,Lucas,7.33,84
+Intelligence Artificielle,L3,EPL1184,SCHMITT,Stéphane,7.29,85
+Intelligence Artificielle,L3,EPL0741,ROBERT,Sophie,6.48,86
+Intelligence Artificielle,L3,EPL0038,DUPONT,Stéphane,6.12,87
+Intelligence Artificielle,L3,EPL0992,WAGNER,Madeleine,5.87,88
+Intelligence Artificielle,L3,EPL0669,BERNARD,Madeleine,4.05,89
+Intelligence Artificielle,M1,EPL0848,DIJOUX,Lucas,19.37,1
+Intelligence Artificielle,M1,EPL0615,SCHMITT,Danielle,19.34,2
+Intelligence Artificielle,M1,EPL1162,BERNARD,Madeleine,18.87,3
+Intelligence Artificielle,M1,EPL0584,MOREAU,Julie,18.81,4
+Intelligence Artificielle,M1,EPL1158,DIJOUX,Julie,18.76,5
+Intelligence Artificielle,M1,EPL0770,PETIT,Sophie,17.44,6
+Intelligence Artificielle,M1,EPL1149,DIJOUX,Madeleine,16.78,7
+Intelligence Artificielle,M1,EPL0283,DELANNOY,Sophie,16.76,8
+Intelligence Artificielle,M1,EPL0827,DIJOUX,Agathe,16.74,9
+Intelligence Artificielle,M1,EPL0417,DUPONT,Thomas,16.65,10
+Intelligence Artificielle,M1,EPL0632,PETIT,Julie,16.59,11
+Intelligence Artificielle,M1,EPL1079,PETIT,Sophie,16.5,12
+Intelligence Artificielle,M1,EPL0954,WAGNER,Antoine,16.33,13
+Intelligence Artificielle,M1,EPL0895,SCHMITT,Julie,16.15,14
+Intelligence Artificielle,M1,EPL1200,SCHMITT,Danielle,16.09,15
+Intelligence Artificielle,M1,EPL0142,ROBERT,Danielle,15.92,16
+Intelligence Artificielle,M1,EPL0395,MARTIN,Agathe,15.54,17
+Intelligence Artificielle,M1,EPL1043,ROBERT,Danielle,15.24,18
+Intelligence Artificielle,M1,EPL0429,DELANNOY,Madeleine,15.18,19
+Intelligence Artificielle,M1,EPL0539,SCHMITT,Julie,15.02,20
+Intelligence Artificielle,M1,EPL0424,DUPONT,Stéphane,14.91,21
+Intelligence Artificielle,M1,EPL1186,MARTIN,Madeleine,14.82,22
+Intelligence Artificielle,M1,EPL0520,DELANNOY,Madeleine,14.25,23
+Intelligence Artificielle,M1,EPL0689,MOREAU,Antoine,14.13,24
+Intelligence Artificielle,M1,EPL0230,MARTIN,Danielle,14.04,25
+Intelligence Artificielle,M1,EPL0446,DIJOUX,Agathe,14.01,26
+Intelligence Artificielle,M1,EPL1029,BERNARD,Sophie,13.84,27
+Intelligence Artificielle,M1,EPL0010,DUPONT,Danielle,13.63,28
+Intelligence Artificielle,M1,EPL0454,MOREAU,Thomas,13.51,29
+Intelligence Artificielle,M1,EPL1053,DUPONT,Stéphane,13.48,30
+Intelligence Artificielle,M1,EPL0684,DIJOUX,Thomas,13.47,31
+Intelligence Artificielle,M1,EPL0622,SCHMITT,Emma,13.41,32
+Intelligence Artificielle,M1,EPL0549,MOREAU,Agathe,13.11,33
+Intelligence Artificielle,M1,EPL0201,ROBERT,Madeleine,13.07,34
+Intelligence Artificielle,M1,EPL0952,PETIT,Antoine,13.06,35
+Intelligence Artificielle,M1,EPL0573,DELANNOY,Julie,12.98,36
+Intelligence Artificielle,M1,EPL0116,ROBERT,Madeleine,12.9,37
+Intelligence Artificielle,M1,EPL0289,PETIT,Emma,12.84,38
+Intelligence Artificielle,M1,EPL0793,MOREAU,Agathe,12.81,39
+Intelligence Artificielle,M1,EPL0154,DELANNOY,Emma,12.7,40
+Intelligence Artificielle,M1,EPL0836,DIJOUX,Stéphane,12.7,40
+Intelligence Artificielle,M1,EPL0861,BERNARD,Lucas,12.61,41
+Intelligence Artificielle,M1,EPL0369,MOREAU,Danielle,12.29,42
+Intelligence Artificielle,M1,EPL0077,DUPONT,Madeleine,12.26,43
+Intelligence Artificielle,M1,EPL0819,DIJOUX,Stéphane,12.25,44
+Intelligence Artificielle,M1,EPL0493,PETIT,Agathe,12.23,45
+Intelligence Artificielle,M1,EPL0404,PETIT,Agathe,12.14,46
+Intelligence Artificielle,M1,EPL0371,SCHMITT,Antoine,12.07,47
+Intelligence Artificielle,M1,EPL0767,DUPONT,Danielle,11.9,48
+Intelligence Artificielle,M1,EPL0797,PETIT,Sophie,11.88,49
+Intelligence Artificielle,M1,EPL0841,WAGNER,Stéphane,11.85,50
+Intelligence Artificielle,M1,EPL0930,MARTIN,Madeleine,11.8,51
+Intelligence Artificielle,M1,EPL0173,DUPONT,Antoine,11.77,52
+Intelligence Artificielle,M1,EPL0363,BERNARD,Agathe,11.67,53
+Intelligence Artificielle,M1,EPL0105,DUPONT,Julie,11.52,54
+Intelligence Artificielle,M1,EPL0354,SCHMITT,Sophie,11.52,54
+Intelligence Artificielle,M1,EPL0811,MOREAU,Antoine,11.44,55
+Intelligence Artificielle,M1,EPL0291,MOREAU,Madeleine,11.38,56
+Intelligence Artificielle,M1,EPL0466,DIJOUX,Madeleine,11.34,57
+Intelligence Artificielle,M1,EPL0649,WAGNER,Lucas,11.31,58
+Intelligence Artificielle,M1,EPL0911,ROBERT,Madeleine,11.08,59
+Intelligence Artificielle,M1,EPL0696,SCHMITT,Madeleine,11.07,60
+Intelligence Artificielle,M1,EPL0009,DIJOUX,Julie,10.59,61
+Intelligence Artificielle,M1,EPL0396,MARTIN,Agathe,10.59,61
+Intelligence Artificielle,M1,EPL0061,DIJOUX,Stéphane,10.56,62
+Intelligence Artificielle,M1,EPL0828,SCHMITT,Thomas,10.43,63
+Intelligence Artificielle,M1,EPL0850,MOREAU,Lucas,10.41,64
+Intelligence Artificielle,M1,EPL0302,ROBERT,Julie,10.32,65
+Intelligence Artificielle,M1,EPL0470,ROBERT,Lucas,10.27,66
+Intelligence Artificielle,M1,EPL0293,DIJOUX,Lucas,10.23,67
+Intelligence Artificielle,M1,EPL0402,MARTIN,Emma,10.2,68
+Intelligence Artificielle,M1,EPL1193,DELANNOY,Thomas,10.2,68
+Intelligence Artificielle,M1,EPL0853,DELANNOY,Thomas,10.09,69
+Intelligence Artificielle,M1,EPL1056,PETIT,Julie,9.99,70
+Intelligence Artificielle,M1,EPL0972,DUPONT,Julie,9.96,71
+Intelligence Artificielle,M1,EPL0994,BERNARD,Antoine,9.95,72
+Intelligence Artificielle,M1,EPL0093,PETIT,Lucas,9.89,73
+Intelligence Artificielle,M1,EPL0416,DIJOUX,Antoine,9.75,74
+Intelligence Artificielle,M1,EPL0189,MOREAU,Sophie,9.46,75
+Intelligence Artificielle,M1,EPL0508,WAGNER,Sophie,9.41,76
+Intelligence Artificielle,M1,EPL0122,ROBERT,Lucas,9.27,77
+Intelligence Artificielle,M1,EPL0602,BERNARD,Thomas,9.23,78
+Intelligence Artificielle,M1,EPL0127,DELANNOY,Stéphane,9.03,79
+Intelligence Artificielle,M1,EPL1185,DELANNOY,Lucas,9.03,79
+Intelligence Artificielle,M1,EPL0995,SCHMITT,Agathe,9.0,80
+Intelligence Artificielle,M1,EPL1106,BERNARD,Thomas,8.88,81
+Intelligence Artificielle,M1,EPL1108,DUPONT,Sophie,8.84,82
+Intelligence Artificielle,M1,EPL0407,DUPONT,Danielle,8.8,83
+Intelligence Artificielle,M1,EPL1124,ROBERT,Julie,8.57,84
+Intelligence Artificielle,M1,EPL0140,BERNARD,Agathe,8.31,85
+Intelligence Artificielle,M1,EPL0147,BERNARD,Thomas,8.29,86
+Intelligence Artificielle,M1,EPL0284,MARTIN,Thomas,8.29,86
+Intelligence Artificielle,M1,EPL0266,ROBERT,Emma,8.26,87
+Intelligence Artificielle,M1,EPL0148,DIJOUX,Madeleine,8.04,88
+Intelligence Artificielle,M1,EPL0124,MARTIN,Julie,7.79,89
+Intelligence Artificielle,M1,EPL0704,MARTIN,Thomas,7.77,90
+Intelligence Artificielle,M1,EPL0024,WAGNER,Agathe,7.73,91
+Intelligence Artificielle,M1,EPL0486,MARTIN,Antoine,7.73,91
+Intelligence Artificielle,M1,EPL0816,MARTIN,Sophie,7.54,92
+Intelligence Artificielle,M1,EPL0050,DELANNOY,Lucas,6.71,93
+Intelligence Artificielle,M1,EPL0569,DIJOUX,Danielle,6.39,94
+Intelligence Artificielle,M1,EPL0976,MOREAU,Thomas,6.33,95
+Intelligence Artificielle,M1,EPL0014,BERNARD,Antoine,6.26,96
+Intelligence Artificielle,M1,EPL0080,BERNARD,Stéphane,6.04,97
+Intelligence Artificielle,M1,EPL0075,ROBERT,Lucas,4.14,98
+Intelligence Artificielle,M1,EPL1102,MARTIN,Stéphane,3.31,99
+Télécommunications,L1,EPL0114,DIJOUX,Madeleine,19.39,1
+Télécommunications,L1,EPL0823,MARTIN,Lucas,18.9,2
+Télécommunications,L1,EPL0379,ROBERT,Thomas,18.57,3
+Télécommunications,L1,EPL1103,ROBERT,Lucas,18.27,4
+Télécommunications,L1,EPL0421,MARTIN,Sophie,18.18,5
+Télécommunications,L1,EPL1110,WAGNER,Sophie,17.74,6
+Télécommunications,L1,EPL0168,DUPONT,Madeleine,17.69,7
+Télécommunications,L1,EPL0623,DELANNOY,Madeleine,17.65,8
+Télécommunications,L1,EPL0157,DUPONT,Madeleine,17.6,9
+Télécommunications,L1,EPL0968,ROBERT,Sophie,17.4,10
+Télécommunications,L1,EPL0997,SCHMITT,Stéphane,17.39,11
+Télécommunications,L1,EPL0422,WAGNER,Julie,17.27,12
+Télécommunications,L1,EPL1015,PETIT,Antoine,17.21,13
+Télécommunications,L1,EPL0489,ROBERT,Agathe,17.06,14
+Télécommunications,L1,EPL0572,WAGNER,Sophie,17.03,15
+Télécommunications,L1,EPL0642,DIJOUX,Lucas,17.01,16
+Télécommunications,L1,EPL0475,ROBERT,Emma,16.93,17
+Télécommunications,L1,EPL0072,PETIT,Stéphane,16.61,18
+Télécommunications,L1,EPL1049,DELANNOY,Sophie,16.43,19
+Télécommunications,L1,EPL0271,ROBERT,Thomas,16.32,20
+Télécommunications,L1,EPL0123,DELANNOY,Madeleine,16.21,21
+Télécommunications,L1,EPL0904,PETIT,Madeleine,15.84,22
+Télécommunications,L1,EPL0419,MARTIN,Emma,15.54,23
+Télécommunications,L1,EPL0894,BERNARD,Sophie,15.51,24
+Télécommunications,L1,EPL0580,MOREAU,Julie,15.43,25
+Télécommunications,L1,EPL0956,PETIT,Sophie,15.35,26
+Télécommunications,L1,EPL0890,DUPONT,Madeleine,15.33,27
+Télécommunications,L1,EPL0203,ROBERT,Emma,15.25,28
+Télécommunications,L1,EPL0893,BERNARD,Emma,15.2,29
+Télécommunications,L1,EPL0702,SCHMITT,Danielle,15.15,30
+Télécommunications,L1,EPL1009,DELANNOY,Emma,15.15,30
+Télécommunications,L1,EPL1120,DELANNOY,Julie,15.15,30
+Télécommunications,L1,EPL1165,PETIT,Danielle,15.07,31
+Télécommunications,L1,EPL1156,DELANNOY,Antoine,15.03,32
+Télécommunications,L1,EPL0068,ROBERT,Danielle,15.01,33
+Télécommunications,L1,EPL1159,DELANNOY,Madeleine,14.95,34
+Télécommunications,L1,EPL0335,MARTIN,Madeleine,14.93,35
+Télécommunications,L1,EPL0165,BERNARD,Sophie,14.89,36
+Télécommunications,L1,EPL0087,MARTIN,Agathe,14.75,37
+Télécommunications,L1,EPL0818,ROBERT,Antoine,14.67,38
+Télécommunications,L1,EPL0988,MARTIN,Agathe,14.63,39
+Télécommunications,L1,EPL0377,DUPONT,Antoine,14.62,40
+Télécommunications,L1,EPL0353,DELANNOY,Antoine,14.57,41
+Télécommunications,L1,EPL1080,MOREAU,Agathe,14.55,42
+Télécommunications,L1,EPL0589,DELANNOY,Lucas,14.49,43
+Télécommunications,L1,EPL0065,PETIT,Julie,14.44,44
+Télécommunications,L1,EPL0299,PETIT,Thomas,14.44,44
+Télécommunications,L1,EPL0601,ROBERT,Antoine,14.27,45
+Télécommunications,L1,EPL0650,DUPONT,Emma,14.09,46
+Télécommunications,L1,EPL0223,PETIT,Antoine,14.06,47
+Télécommunications,L1,EPL0282,BERNARD,Julie,13.99,48
+Télécommunications,L1,EPL0214,ROBERT,Thomas,13.95,49
+Télécommunications,L1,EPL1008,DELANNOY,Stéphane,13.91,50
+Télécommunications,L1,EPL0181,DELANNOY,Thomas,13.88,51
+Télécommunications,L1,EPL0917,DELANNOY,Madeleine,13.82,52
+Télécommunications,L1,EPL0695,WAGNER,Thomas,13.78,53
+Télécommunications,L1,EPL1198,DELANNOY,Emma,13.66,54
+Télécommunications,L1,EPL1059,DUPONT,Lucas,13.63,55
+Télécommunications,L1,EPL0543,DUPONT,Antoine,13.59,56
+Télécommunications,L1,EPL0207,DELANNOY,Danielle,13.55,57
+Télécommunications,L1,EPL0410,ROBERT,Sophie,13.54,58
+Télécommunications,L1,EPL0846,DUPONT,Stéphane,13.48,59
+Télécommunications,L1,EPL0593,DUPONT,Emma,13.44,60
+Télécommunications,L1,EPL0134,MARTIN,Danielle,13.42,61
+Télécommunications,L1,EPL0788,DUPONT,Emma,13.38,62
+Télécommunications,L1,EPL0690,PETIT,Lucas,13.33,63
+Télécommunications,L1,EPL0935,DIJOUX,Sophie,13.32,64
+Télécommunications,L1,EPL1026,BERNARD,Sophie,13.31,65
+Télécommunications,L1,EPL0605,BERNARD,Antoine,13.24,66
+Télécommunications,L1,EPL0714,DUPONT,Thomas,13.2,67
+Télécommunications,L1,EPL1033,MOREAU,Madeleine,13.2,67
+Télécommunications,L1,EPL1052,MARTIN,Stéphane,13.19,68
+Télécommunications,L1,EPL0928,PETIT,Sophie,13.13,69
+Télécommunications,L1,EPL0901,PETIT,Lucas,13.11,70
+Télécommunications,L1,EPL0152,DUPONT,Agathe,13.04,71
+Télécommunications,L1,EPL0387,SCHMITT,Danielle,13.03,72
+Télécommunications,L1,EPL0581,DUPONT,Emma,13.02,73
+Télécommunications,L1,EPL0415,WAGNER,Stéphane,13.0,74
+Télécommunications,L1,EPL0868,PETIT,Lucas,13.0,74
+Télécommunications,L1,EPL0088,MOREAU,Lucas,12.99,75
+Télécommunications,L1,EPL0697,BERNARD,Thomas,12.98,76
+Télécommunications,L1,EPL0150,MARTIN,Antoine,12.89,77
+Télécommunications,L1,EPL0155,SCHMITT,Emma,12.88,78
+Télécommunications,L1,EPL0847,PETIT,Sophie,12.87,79
+Télécommunications,L1,EPL1172,PETIT,Agathe,12.84,80
+Télécommunications,L1,EPL0343,MARTIN,Julie,12.73,81
+Télécommunications,L1,EPL0878,DELANNOY,Sophie,12.67,82
+Télécommunications,L1,EPL1039,DIJOUX,Julie,12.67,82
+Télécommunications,L1,EPL0232,PETIT,Stéphane,12.65,83
+Télécommunications,L1,EPL0193,ROBERT,Madeleine,12.64,84
+Télécommunications,L1,EPL0792,ROBERT,Madeleine,12.62,85
+Télécommunications,L1,EPL0277,PETIT,Stéphane,12.6,86
+Télécommunications,L1,EPL1119,DELANNOY,Madeleine,12.6,86
+Télécommunications,L1,EPL0814,MARTIN,Antoine,12.59,87
+Télécommunications,L1,EPL1016,PETIT,Agathe,12.59,87
+Télécommunications,L1,EPL0238,DUPONT,Madeleine,12.56,88
+Télécommunications,L1,EPL0747,SCHMITT,Emma,12.56,88
+Télécommunications,L1,EPL0718,DIJOUX,Thomas,12.45,89
+Télécommunications,L1,EPL1115,DIJOUX,Danielle,12.45,89
+Télécommunications,L1,EPL0923,MARTIN,Sophie,12.4,90
+Télécommunications,L1,EPL0270,MOREAU,Thomas,12.39,91
+Télécommunications,L1,EPL0971,ROBERT,Sophie,12.38,92
+Télécommunications,L1,EPL0129,WAGNER,Emma,12.3,93
+Télécommunications,L1,EPL0436,PETIT,Danielle,12.22,94
+Télécommunications,L1,EPL0591,DELANNOY,Antoine,12.21,95
+Télécommunications,L1,EPL0023,MOREAU,Stéphane,12.2,96
+Télécommunications,L1,EPL0420,WAGNER,Danielle,12.2,96
+Télécommunications,L1,EPL0227,ROBERT,Emma,12.19,97
+Télécommunications,L1,EPL0656,DUPONT,Thomas,12.18,98
+Télécommunications,L1,EPL1003,DELANNOY,Madeleine,12.18,98
+Télécommunications,L1,EPL0629,SCHMITT,Stéphane,12.17,99
+Télécommunications,L1,EPL0233,BERNARD,Emma,12.14,100
+Télécommunications,L1,EPL0462,SCHMITT,Julie,12.11,101
+Télécommunications,L1,EPL0744,BERNARD,Madeleine,12.08,102
+Télécommunications,L1,EPL0879,MOREAU,Julie,11.95,103
+Télécommunications,L1,EPL0112,DELANNOY,Agathe,11.92,104
+Télécommunications,L1,EPL0073,BERNARD,Emma,11.89,105
+Télécommunications,L1,EPL1118,DUPONT,Antoine,11.83,106
+Télécommunications,L1,EPL0262,DELANNOY,Thomas,11.82,107
+Télécommunications,L1,EPL0451,DUPONT,Sophie,11.81,108
+Télécommunications,L1,EPL0533,MOREAU,Stéphane,11.8,109
+Télécommunications,L1,EPL0444,MARTIN,Emma,11.73,110
+Télécommunications,L1,EPL0915,MOREAU,Thomas,11.71,111
+Télécommunications,L1,EPL1178,SCHMITT,Antoine,11.7,112
+Télécommunications,L1,EPL0457,ROBERT,Antoine,11.68,113
+Télécommunications,L1,EPL0628,PETIT,Sophie,11.62,114
+Télécommunications,L1,EPL0552,DIJOUX,Madeleine,11.53,115
+Télécommunications,L1,EPL0871,PETIT,Lucas,11.47,116
+Télécommunications,L1,EPL1188,PETIT,Sophie,11.33,117
+Télécommunications,L1,EPL0005,BERNARD,Agathe,11.3,118
+Télécommunications,L1,EPL0218,DELANNOY,Sophie,11.29,119
+Télécommunications,L1,EPL0667,WAGNER,Julie,11.24,120
+Télécommunications,L1,EPL0471,MARTIN,Stéphane,11.17,121
+Télécommunications,L1,EPL0830,WAGNER,Lucas,11.15,122
+Télécommunications,L1,EPL0318,MARTIN,Madeleine,11.07,123
+Télécommunications,L1,EPL0215,MOREAU,Antoine,11.05,124
+Télécommunications,L1,EPL0138,PETIT,Julie,11.03,125
+Télécommunications,L1,EPL1160,BERNARD,Thomas,11.03,125
+Télécommunications,L1,EPL0246,ROBERT,Madeleine,11.0,126
+Télécommunications,L1,EPL0673,DUPONT,Stéphane,10.97,127
+Télécommunications,L1,EPL0888,SCHMITT,Julie,10.92,128
+Télécommunications,L1,EPL1065,WAGNER,Stéphane,10.91,129
+Télécommunications,L1,EPL1060,BERNARD,Danielle,10.89,130
+Télécommunications,L1,EPL0280,SCHMITT,Agathe,10.84,131
+Télécommunications,L1,EPL0560,ROBERT,Lucas,10.74,132
+Télécommunications,L1,EPL0634,DELANNOY,Agathe,10.72,133
+Télécommunications,L1,EPL0812,DELANNOY,Stéphane,10.68,134
+Télécommunications,L1,EPL0191,DUPONT,Lucas,10.66,135
+Télécommunications,L1,EPL0345,PETIT,Agathe,10.59,136
+Télécommunications,L1,EPL0225,BERNARD,Stéphane,10.58,137
+Télécommunications,L1,EPL1035,MARTIN,Julie,10.55,138
+Télécommunications,L1,EPL0292,DELANNOY,Emma,10.52,139
+Télécommunications,L1,EPL0130,WAGNER,Agathe,10.49,140
+Télécommunications,L1,EPL0626,SCHMITT,Lucas,10.47,141
+Télécommunications,L1,EPL0084,SCHMITT,Danielle,10.45,142
+Télécommunications,L1,EPL0729,MOREAU,Thomas,10.38,143
+Télécommunications,L1,EPL0025,SCHMITT,Agathe,10.37,144
+Télécommunications,L1,EPL0927,BERNARD,Stéphane,10.32,145
+Télécommunications,L1,EPL0772,MARTIN,Antoine,10.31,146
+Télécommunications,L1,EPL0940,BERNARD,Agathe,10.31,146
+Télécommunications,L1,EPL0278,BERNARD,Sophie,10.2,147
+Télécommunications,L1,EPL0382,BERNARD,Thomas,10.2,147
+Télécommunications,L1,EPL0550,SCHMITT,Sophie,10.19,148
+Télécommunications,L1,EPL0851,DIJOUX,Emma,10.13,149
+Télécommunications,L1,EPL0974,PETIT,Madeleine,10.04,150
+Télécommunications,L1,EPL0053,DIJOUX,Agathe,9.97,151
+Télécommunications,L1,EPL0334,DELANNOY,Stéphane,9.97,151
+Télécommunications,L1,EPL1014,DIJOUX,Emma,9.93,152
+Télécommunications,L1,EPL0258,SCHMITT,Julie,9.88,153
+Télécommunications,L1,EPL0349,PETIT,Agathe,9.84,154
+Télécommunications,L1,EPL0231,WAGNER,Julie,9.81,155
+Télécommunications,L1,EPL0748,WAGNER,Julie,9.73,156
+Télécommunications,L1,EPL0834,BERNARD,Antoine,9.7,157
+Télécommunications,L1,EPL0676,SCHMITT,Agathe,9.67,158
+Télécommunications,L1,EPL0730,WAGNER,Sophie,9.67,158
+Télécommunications,L1,EPL0621,PETIT,Madeleine,9.63,159
+Télécommunications,L1,EPL0360,BERNARD,Agathe,9.52,160
+Télécommunications,L1,EPL0182,SCHMITT,Antoine,9.43,161
+Télécommunications,L1,EPL0590,BERNARD,Stéphane,9.43,161
+Télécommunications,L1,EPL0499,DIJOUX,Emma,9.37,162
+Télécommunications,L1,EPL0514,WAGNER,Julie,9.28,163
+Télécommunications,L1,EPL0135,DUPONT,Julie,9.24,164
+Télécommunications,L1,EPL0448,MOREAU,Madeleine,9.18,165
+Télécommunications,L1,EPL0482,DELANNOY,Madeleine,9.13,166
+Télécommunications,L1,EPL0568,DELANNOY,Lucas,8.98,167
+Télécommunications,L1,EPL0635,ROBERT,Antoine,8.96,168
+Télécommunications,L1,EPL0497,DIJOUX,Julie,8.89,169
+Télécommunications,L1,EPL0412,DUPONT,Thomas,8.63,170
+Télécommunications,L1,EPL0027,DELANNOY,Thomas,8.55,171
+Télécommunications,L1,EPL0245,MOREAU,Julie,8.4,172
+Télécommunications,L1,EPL0326,DUPONT,Thomas,8.36,173
+Télécommunications,L1,EPL0194,WAGNER,Emma,8.26,174
+Télécommunications,L1,EPL0941,PETIT,Antoine,8.16,175
+Télécommunications,L1,EPL1067,DUPONT,Antoine,8.12,176
+Télécommunications,L1,EPL0438,SCHMITT,Lucas,7.86,177
+Télécommunications,L1,EPL0500,ROBERT,Agathe,7.85,178
+Télécommunications,L1,EPL0101,MOREAU,Thomas,7.75,179
+Télécommunications,L1,EPL0272,SCHMITT,Danielle,7.69,180
+Télécommunications,L1,EPL0926,MARTIN,Danielle,7.43,181
+Télécommunications,L1,EPL0131,WAGNER,Madeleine,7.35,182
+Télécommunications,L1,EPL1077,DUPONT,Antoine,7.33,183
+Télécommunications,L1,EPL0401,DIJOUX,Danielle,7.22,184
+Télécommunications,L1,EPL1195,BERNARD,Sophie,7.22,184
+Télécommunications,L1,EPL0143,PETIT,Lucas,7.18,185
+Télécommunications,L1,EPL0521,BERNARD,Stéphane,6.99,186
+Télécommunications,L1,EPL0631,SCHMITT,Julie,6.92,187
+Télécommunications,L1,EPL0222,DUPONT,Emma,6.4,188
+Télécommunications,L2,EPL0479,MARTIN,Julie,20.0,1
+Télécommunications,L2,EPL1117,MARTIN,Agathe,19.21,2
+Télécommunications,L2,EPL0221,BERNARD,Antoine,18.94,3
+Télécommunications,L2,EPL0375,WAGNER,Madeleine,18.46,4
+Télécommunications,L2,EPL0461,PETIT,Agathe,17.89,5
+Télécommunications,L2,EPL0606,BERNARD,Emma,17.63,6
+Télécommunications,L2,EPL0651,DUPONT,Thomas,17.55,7
+Télécommunications,L2,EPL0876,SCHMITT,Agathe,17.38,8
+Télécommunications,L2,EPL0708,SCHMITT,Agathe,17.26,9
+Télécommunications,L2,EPL1155,DIJOUX,Agathe,16.93,10
+Télécommunications,L2,EPL1133,BERNARD,Madeleine,16.84,11
+Télécommunications,L2,EPL1036,PETIT,Emma,16.72,12
+Télécommunications,L2,EPL0074,DELANNOY,Sophie,16.69,13
+Télécommunications,L2,EPL0373,DUPONT,Thomas,16.35,14
+Télécommunications,L2,EPL0813,BERNARD,Stéphane,16.34,15
+Télécommunications,L2,EPL0855,ROBERT,Lucas,16.26,16
+Télécommunications,L2,EPL0474,DIJOUX,Danielle,16.1,17
+Télécommunications,L2,EPL0307,WAGNER,Sophie,15.83,18
+Télécommunications,L2,EPL0680,MARTIN,Danielle,15.81,19
+Télécommunications,L2,EPL0671,DELANNOY,Sophie,15.74,20
+Télécommunications,L2,EPL0565,WAGNER,Julie,15.6,21
+Télécommunications,L2,EPL0880,DUPONT,Julie,15.57,22
+Télécommunications,L2,EPL0553,DUPONT,Stéphane,15.5,23
+Télécommunications,L2,EPL1068,WAGNER,Sophie,15.48,24
+Télécommunications,L2,EPL0119,WAGNER,Antoine,15.43,25
+Télécommunications,L2,EPL1121,DIJOUX,Stéphane,15.32,26
+Télécommunications,L2,EPL0226,WAGNER,Julie,15.27,27
+Télécommunications,L2,EPL0921,BERNARD,Madeleine,15.22,28
+Télécommunications,L2,EPL0820,WAGNER,Sophie,15.2,29
+Télécommunications,L2,EPL0048,PETIT,Julie,15.17,30
+Télécommunications,L2,EPL0735,BERNARD,Emma,15.09,31
+Télécommunications,L2,EPL1087,ROBERT,Julie,15.09,31
+Télécommunications,L2,EPL0839,MARTIN,Madeleine,14.95,32
+Télécommunications,L2,EPL0801,MARTIN,Antoine,14.81,33
+Télécommunications,L2,EPL0501,DIJOUX,Thomas,14.78,34
+Télécommunications,L2,EPL0699,MARTIN,Lucas,14.77,35
+Télécommunications,L2,EPL0297,MOREAU,Stéphane,14.7,36
+Télécommunications,L2,EPL0942,PETIT,Stéphane,14.62,37
+Télécommunications,L2,EPL0603,DUPONT,Agathe,14.61,38
+Télécommunications,L2,EPL1170,DELANNOY,Stéphane,14.56,39
+Télécommunications,L2,EPL0541,ROBERT,Danielle,14.51,40
+Télécommunications,L2,EPL0313,DIJOUX,Julie,14.48,41
+Télécommunications,L2,EPL0076,MARTIN,Thomas,14.47,42
+Télécommunications,L2,EPL0162,DELANNOY,Agathe,14.36,43
+Télécommunications,L2,EPL0981,BERNARD,Sophie,14.36,43
+Télécommunications,L2,EPL0618,DIJOUX,Agathe,14.18,44
+Télécommunications,L2,EPL0686,PETIT,Emma,14.14,45
+Télécommunications,L2,EPL1005,ROBERT,Stéphane,14.09,46
+Télécommunications,L2,EPL0842,WAGNER,Antoine,14.02,47
+Télécommunications,L2,EPL0160,MOREAU,Agathe,13.97,48
+Télécommunications,L2,EPL0896,SCHMITT,Sophie,13.95,49
+Télécommunications,L2,EPL0583,PETIT,Emma,13.9,50
+Télécommunications,L2,EPL0694,SCHMITT,Emma,13.85,51
+Télécommunications,L2,EPL0304,MARTIN,Emma,13.83,52
+Télécommunications,L2,EPL0959,DUPONT,Stéphane,13.71,53
+Télécommunications,L2,EPL0504,DUPONT,Agathe,13.69,54
+Télécommunications,L2,EPL0202,PETIT,Agathe,13.68,55
+Télécommunications,L2,EPL0522,ROBERT,Thomas,13.63,56
+Télécommunications,L2,EPL0149,MOREAU,Sophie,13.57,57
+Télécommunications,L2,EPL0982,WAGNER,Thomas,13.28,58
+Télécommunications,L2,EPL1020,ROBERT,Danielle,13.27,59
+Télécommunications,L2,EPL0166,ROBERT,Sophie,13.24,60
+Télécommunications,L2,EPL0106,ROBERT,Thomas,13.21,61
+Télécommunications,L2,EPL0559,ROBERT,Lucas,13.18,62
+Télécommunications,L2,EPL0196,MARTIN,Stéphane,13.16,63
+Télécommunications,L2,EPL0071,PETIT,Danielle,13.08,64
+Télécommunications,L2,EPL0295,BERNARD,Emma,13.07,65
+Télécommunications,L2,EPL1070,MOREAU,Julie,13.04,66
+Télécommunications,L2,EPL0174,PETIT,Madeleine,13.02,67
+Télécommunications,L2,EPL1130,PETIT,Lucas,12.99,68
+Télécommunications,L2,EPL0319,ROBERT,Emma,12.97,69
+Télécommunications,L2,EPL1131,MARTIN,Madeleine,12.96,70
+Télécommunications,L2,EPL0478,WAGNER,Antoine,12.93,71
+Télécommunications,L2,EPL0298,MARTIN,Stéphane,12.92,72
+Télécommunications,L2,EPL1127,DELANNOY,Madeleine,12.91,73
+Télécommunications,L2,EPL0145,MARTIN,Danielle,12.78,74
+Télécommunications,L2,EPL0109,MOREAU,Agathe,12.77,75
+Télécommunications,L2,EPL0586,WAGNER,Agathe,12.74,76
+Télécommunications,L2,EPL0620,ROBERT,Stéphane,12.67,77
+Télécommunications,L2,EPL0711,BERNARD,Thomas,12.63,78
+Télécommunications,L2,EPL0991,BERNARD,Madeleine,12.63,78
+Télécommunications,L2,EPL0920,ROBERT,Antoine,12.58,79
+Télécommunications,L2,EPL0918,PETIT,Julie,12.56,80
+Télécommunications,L2,EPL0725,DIJOUX,Stéphane,12.51,81
+Télécommunications,L2,EPL0386,SCHMITT,Lucas,12.45,82
+Télécommunications,L2,EPL0898,BERNARD,Thomas,12.44,83
+Télécommunications,L2,EPL0762,MARTIN,Antoine,12.37,84
+Télécommunications,L2,EPL0418,ROBERT,Emma,12.35,85
+Télécommunications,L2,EPL0666,DELANNOY,Sophie,12.32,86
+Télécommunications,L2,EPL0519,ROBERT,Agathe,12.3,87
+Télécommunications,L2,EPL1073,DELANNOY,Madeleine,12.23,88
+Télécommunications,L2,EPL1094,BERNARD,Julie,12.16,89
+Télécommunications,L2,EPL0903,SCHMITT,Thomas,12.09,90
+Télécommunications,L2,EPL0316,ROBERT,Julie,12.06,91
+Télécommunications,L2,EPL0657,SCHMITT,Stéphane,12.04,92
+Télécommunications,L2,EPL0985,WAGNER,Sophie,11.99,93
+Télécommunications,L2,EPL0331,DIJOUX,Danielle,11.96,94
+Télécommunications,L2,EPL0663,PETIT,Julie,11.9,95
+Télécommunications,L2,EPL0984,DIJOUX,Antoine,11.86,96
+Télécommunications,L2,EPL0512,DIJOUX,Stéphane,11.85,97
+Télécommunications,L2,EPL0440,WAGNER,Lucas,11.83,98
+Télécommunications,L2,EPL0110,MOREAU,Lucas,11.78,99
+Télécommunications,L2,EPL0043,DIJOUX,Sophie,11.65,100
+Télécommunications,L2,EPL0336,DIJOUX,Thomas,11.56,101
+Télécommunications,L2,EPL0726,PETIT,Danielle,11.45,102
+Télécommunications,L2,EPL0062,WAGNER,Sophie,11.44,103
+Télécommunications,L2,EPL1090,MARTIN,Lucas,11.41,104
+Télécommunications,L2,EPL0310,DELANNOY,Lucas,11.39,105
+Télécommunications,L2,EPL0840,DUPONT,Madeleine,11.36,106
+Télécommunications,L2,EPL0311,DELANNOY,Emma,11.35,107
+Télécommunications,L2,EPL0185,SCHMITT,Emma,11.33,108
+Télécommunications,L2,EPL0645,PETIT,Julie,11.26,109
+Télécommunications,L2,EPL0778,WAGNER,Madeleine,11.26,109
+Télécommunications,L2,EPL0423,DELANNOY,Thomas,11.25,110
+Télécommunications,L2,EPL0265,PETIT,Stéphane,11.24,111
+Télécommunications,L2,EPL1031,DUPONT,Julie,11.23,112
+Télécommunications,L2,EPL0433,ROBERT,Antoine,11.19,113
+Télécommunications,L2,EPL0653,ROBERT,Danielle,11.19,113
+Télécommunications,L2,EPL0646,ROBERT,Antoine,11.18,114
+Télécommunications,L2,EPL1176,DUPONT,Lucas,11.16,115
+Télécommunications,L2,EPL0806,SCHMITT,Sophie,11.07,116
+Télécommunications,L2,EPL1019,BERNARD,Lucas,11.04,117
+Télécommunications,L2,EPL1083,ROBERT,Sophie,11.04,117
+Télécommunications,L2,EPL0094,ROBERT,Thomas,11.02,118
+Télécommunications,L2,EPL0103,DIJOUX,Thomas,10.97,119
+Télécommunications,L2,EPL1081,MARTIN,Stéphane,10.95,120
+Télécommunications,L2,EPL0674,DELANNOY,Antoine,10.89,121
+Télécommunications,L2,EPL0866,DIJOUX,Madeleine,10.84,122
+Télécommunications,L2,EPL0095,MARTIN,Danielle,10.82,123
+Télécommunications,L2,EPL0566,DIJOUX,Madeleine,10.78,124
+Télécommunications,L2,EPL1078,DIJOUX,Lucas,10.72,125
+Télécommunications,L2,EPL0805,DELANNOY,Antoine,10.7,126
+Télécommunications,L2,EPL0825,DIJOUX,Stéphane,10.66,127
+Télécommunications,L2,EPL0975,MOREAU,Julie,10.66,127
+Télécommunications,L2,EPL0012,WAGNER,Julie,10.6,128
+Télécommunications,L2,EPL0592,ROBERT,Sophie,10.57,129
+Télécommunications,L2,EPL0936,MOREAU,Agathe,10.49,130
+Télécommunications,L2,EPL0713,WAGNER,Madeleine,10.37,131
+Télécommunications,L2,EPL0859,SCHMITT,Lucas,10.34,132
+Télécommunications,L2,EPL0340,DELANNOY,Stéphane,10.31,133
+Télécommunications,L2,EPL0999,MOREAU,Madeleine,10.29,134
+Télécommunications,L2,EPL0743,MOREAU,Lucas,10.13,135
+Télécommunications,L2,EPL0487,DIJOUX,Julie,10.06,136
+Télécommunications,L2,EPL0170,MARTIN,Agathe,9.74,137
+Télécommunications,L2,EPL0485,SCHMITT,Antoine,9.73,138
+Télécommunications,L2,EPL0217,ROBERT,Lucas,9.68,139
+Télécommunications,L2,EPL0872,SCHMITT,Madeleine,9.61,140
+Télécommunications,L2,EPL0172,PETIT,Lucas,9.55,141
+Télécommunications,L2,EPL0341,BERNARD,Antoine,9.53,142
+Télécommunications,L2,EPL0337,DELANNOY,Agathe,9.52,143
+Télécommunications,L2,EPL1150,BERNARD,Antoine,9.46,144
+Télécommunications,L2,EPL0588,SCHMITT,Emma,9.45,145
+Télécommunications,L2,EPL0537,WAGNER,Thomas,9.42,146
+Télécommunications,L2,EPL0759,MARTIN,Emma,9.42,146
+Télécommunications,L2,EPL0810,ROBERT,Emma,9.32,147
+Télécommunications,L2,EPL0019,ROBERT,Madeleine,9.28,148
+Télécommunications,L2,EPL0755,PETIT,Emma,9.15,149
+Télécommunications,L2,EPL0753,ROBERT,Danielle,9.07,150
+Télécommunications,L2,EPL1187,DUPONT,Sophie,9.05,151
+Télécommunications,L2,EPL0453,SCHMITT,Julie,9.04,152
+Télécommunications,L2,EPL1151,MOREAU,Julie,9.03,153
+Télécommunications,L2,EPL0264,MARTIN,Danielle,8.93,154
+Télécommunications,L2,EPL0458,WAGNER,Danielle,8.89,155
+Télécommunications,L2,EPL0450,ROBERT,Antoine,8.82,156
+Télécommunications,L2,EPL0063,MARTIN,Sophie,8.68,157
+Télécommunications,L2,EPL0654,MARTIN,Danielle,8.68,157
+Télécommunications,L2,EPL0986,SCHMITT,Madeleine,8.52,158
+Télécommunications,L2,EPL0159,DELANNOY,Madeleine,8.43,159
+Télécommunications,L2,EPL0534,MARTIN,Agathe,8.37,160
+Télécommunications,L2,EPL0698,BERNARD,Emma,8.25,161
+Télécommunications,L2,EPL0707,DIJOUX,Julie,8.16,162
+Télécommunications,L2,EPL0752,DELANNOY,Madeleine,7.94,163
+Télécommunications,L2,EPL0907,DUPONT,Julie,7.92,164
+Télécommunications,L2,EPL0675,DIJOUX,Lucas,7.78,165
+Télécommunications,L2,EPL0750,MOREAU,Julie,7.78,165
+Télécommunications,L2,EPL0020,ROBERT,Stéphane,7.76,166
+Télécommunications,L2,EPL0268,DIJOUX,Danielle,7.71,167
+Télécommunications,L2,EPL0970,ROBERT,Antoine,7.71,167
+Télécommunications,L2,EPL0933,MARTIN,Thomas,7.66,168
+Télécommunications,L2,EPL0045,MARTIN,Stéphane,7.56,169
+Télécommunications,L2,EPL0579,WAGNER,Danielle,7.56,169
+Télécommunications,L2,EPL0190,BERNARD,Agathe,7.46,170
+Télécommunications,L2,EPL0413,PETIT,Thomas,7.4,171
+Télécommunications,L2,EPL0776,SCHMITT,Madeleine,7.29,172
+Télécommunications,L2,EPL0532,DELANNOY,Julie,7.02,173
+Télécommunications,L2,EPL1177,PETIT,Emma,6.92,174
+Télécommunications,L2,EPL1064,DIJOUX,Antoine,6.78,175
+Télécommunications,L2,EPL1098,PETIT,Sophie,6.01,176
+Télécommunications,L2,EPL0237,ROBERT,Julie,5.92,177
+Télécommunications,L2,EPL0672,PETIT,Sophie,5.78,178
+Télécommunications,L2,EPL0383,MARTIN,Lucas,5.63,179
+Télécommunications,L2,EPL0934,PETIT,Emma,5.4,180
+Télécommunications,L2,EPL1161,MARTIN,Agathe,4.5,181
