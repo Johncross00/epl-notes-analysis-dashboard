@@ -48,36 +48,69 @@ Les données sont simulées et analysées afin de produire :
 ### 1. Installer les dépendances
 ```bash
 pip install -r requirements.txt
+```
 
-
-2. Générer le dataset
+### 2. Générer le dataset
+```bash
 python scripts/generate_dataset.py
+```
 
-3. Lancer l’analyse statistique
+### 3. Lancer l'analyse statistique
+```bash
 python scripts/analysis_statistics.py
+```
 
-4. Générer les visualisations
+### 4. Générer les visualisations
+```bash
 python scripts/visualisations.py
+```
 
-5. Lancer le dashboard
+### 5. Lancer le dashboard
+```bash
 streamlit run dashboard/app.py
+```
 
-6. Lancer l’API
+### 6. Lancer l'API
+```bash
 uvicorn api.main:app --reload
+```
 
-7. Générer le rapport PDF
+### 7. Générer le rapport PDF
+```bash
 python scripts/generate_report_pdf.py
+```
 
-Résultats
+---
 
-Statistiques descriptives complètes
+## 📊 Tableau de bord interactif
 
-Visualisations graphiques
+Le dashboard Streamlit offre plusieurs vues pour analyser les données :
 
-Classements académiques
+### Vue globale
+![Vue globale](dashboard/images/global.png)
 
-Dashboard interactif
+### Analyses détaillées
+![Analyses détaillées](dashboard/images/analysis.png)
 
-API testable via Swagger
+### Démographie
+![Démographie](dashboard/images/demo.png)
 
-Rapport PDF généré automatiquement
+### Classements
+![Classements](dashboard/images/ranking.png)
+
+### Comparaison
+![Comparaison](dashboard/images/comparison.png)
+
+### Données brutes
+![Données brutes](dashboard/images/data.png)
+
+---
+
+## Résultats
+
+- Statistiques descriptives complètes
+- Visualisations graphiques
+- Classements académiques
+- Dashboard interactif
+- API testable via Swagger
+- Rapport PDF généré automatiquement
