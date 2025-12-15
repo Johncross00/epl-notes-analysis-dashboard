@@ -133,6 +133,25 @@ def stats_ue(ue: str = Query(..., example="UE302")):
     }
 
 
+@app.get("/stats/ues", tags=["Statistiques"])
+def stats_toutes_ues():
+    """Statistiques pour toutes les UE"""
+    result = (
+        df.groupby("ue")["note"]
+        .agg(
+            moyenne="mean",
+            mediane="median",
+            ecart_type="std",
+            min="min",
+            max="max",
+            taux_reussite=lambda x: (x >= 10).mean() * 100,
+            nombre_notes="count"
+        )
+        .reset_index()
+    )
+    return result.to_dict(orient="records")
+
+
 # ==============================
 # STATISTIQUES DÉMOGRAPHIQUES
 # ==============================
@@ -154,4 +173,171 @@ def stats_tranche_age():
         labels=["18-20", "21-23", "24-26", "27+"]
     )
     result = data.groupby("tranche_age")["note"].mean().reset_index()
+    return result.to_dict(orient="records")
+
+
+# ==============================
+# CLASSEMENTS
+# ==============================
+
+@app.get("/classement/general", tags=["Classements"])
+def classement_general(limit: Optional[int] = Query(None, ge=1, le=1000, description="Nombre d'étudiants à retourner")):
+    """Classement général de tous les étudiants"""
+    classement = (
+        df.groupby(["student_id", "nom", "prenom", "departement", "filiere", "niveau"])["note"]
+        .mean()
+        .reset_index()
+        .rename(columns={"note": "moyenne"})
+    )
+    classement["rang"] = classement["moyenne"].rank(ascending=False, method="dense").astype(int)
+    classement = classement.sort_values("rang")
+    
+    if limit:
+        classement = classement.head(limit)
+    
+    return classement.to_dict(orient="records")
+
+
+@app.get("/classement/departement", tags=["Classements"])
+def classement_departement(
+    departement: Optional[str] = Query(None, description="Filtrer par département"),
+    limit: Optional[int] = Query(None, ge=1, le=1000, description="Nombre d'étudiants à retourner")
+):
+    """Classement par département"""
+    data = df.copy()
+    
+    if departement:
+        data = data[data["departement"] == departement]
+    
+    classement = (
+        data.groupby(["departement", "student_id", "nom", "prenom"])["note"]
+        .mean()
+        .reset_index()
+        .rename(columns={"note": "moyenne"})
+    )
+    classement["rang"] = classement.groupby("departement")["moyenne"].rank(
+        ascending=False, method="dense"
+    ).astype(int)
+    classement = classement.sort_values(["departement", "rang"])
+    
+    if limit:
+        classement = classement.groupby("departement").head(limit)
+    
+    return classement.to_dict(orient="records")
+
+
+@app.get("/classement/filiere-niveau", tags=["Classements"])
+def classement_filiere_niveau(
+    filiere: Optional[str] = Query(None, description="Filtrer par filière"),
+    niveau: Optional[str] = Query(None, description="Filtrer par niveau"),
+    limit: Optional[int] = Query(None, ge=1, le=1000, description="Nombre d'étudiants à retourner")
+):
+    """Classement par filière et niveau"""
+    data = df.copy()
+    
+    if filiere:
+        data = data[data["filiere"] == filiere]
+    if niveau:
+        data = data[data["niveau"] == niveau]
+    
+    classement = (
+        data.groupby(["filiere", "niveau", "student_id", "nom", "prenom"])["note"]
+        .mean()
+        .reset_index()
+        .rename(columns={"note": "moyenne"})
+    )
+    classement["rang"] = classement.groupby(["filiere", "niveau"])["moyenne"].rank(
+        ascending=False, method="dense"
+    ).astype(int)
+    classement = classement.sort_values(["filiere", "niveau", "rang"])
+    
+    if limit:
+        classement = classement.groupby(["filiere", "niveau"]).head(limit)
+    
+    return classement.to_dict(orient="records")
+
+
+@app.get("/classement/ue", tags=["Classements"])
+def classement_ue(
+    ue: Optional[str] = Query(None, description="Filtrer par UE"),
+    limit: Optional[int] = Query(None, ge=1, le=1000, description="Nombre d'étudiants à retourner")
+):
+    """Classement par UE"""
+    data = df.copy()
+    
+    if ue:
+        data = data[data["ue"] == ue]
+    
+    classement = (
+        data.groupby(["ue", "student_id", "nom", "prenom"])["note"]
+        .mean()
+        .reset_index()
+        .rename(columns={"note": "moyenne"})
+    )
+    classement["rang"] = classement.groupby("ue")["moyenne"].rank(
+        ascending=False, method="dense"
+    ).astype(int)
+    classement = classement.sort_values(["ue", "rang"])
+    
+    if limit:
+        classement = classement.groupby("ue").head(limit)
+    
+    return classement.to_dict(orient="records")
+
+
+@app.get("/classement/top", tags=["Classements"])
+def classement_top(
+    n: int = Query(10, ge=1, le=100, description="Nombre d'étudiants à retourner")
+):
+    """Top N étudiants (classement général)"""
+    classement = (
+        df.groupby(["student_id", "nom", "prenom", "departement", "filiere", "niveau"])["note"]
+        .mean()
+        .reset_index()
+        .rename(columns={"note": "moyenne"})
+    )
+    classement["rang"] = classement["moyenne"].rank(ascending=False, method="dense").astype(int)
+    classement = classement.sort_values("rang").head(n)
+    
+    return classement.to_dict(orient="records")
+
+
+# ==============================
+# INFORMATIONS ÉTUDIANT
+# ==============================
+
+@app.get("/etudiant/{student_id}", tags=["Étudiants"])
+def get_etudiant(student_id: str):
+    """Informations détaillées sur un étudiant"""
+    data = df[df["student_id"] == student_id]
+    
+    if data.empty:
+        return {"error": f"Étudiant {student_id} non trouvé"}
+    
+    # Informations de base
+    etudiant_info = data.iloc[0][["nom", "prenom", "sexe", "date_naissance", "departement", "filiere", "niveau"]].to_dict()
+    
+    # Statistiques
+    moyenne_generale = data["note"].mean()
+    notes_par_ue = data.groupby("ue")["note"].agg(["mean", "count"]).reset_index()
+    notes_par_ue.columns = ["ue", "moyenne", "nombre_notes"]
+    
+    return {
+        "student_id": student_id,
+        "informations": etudiant_info,
+        "moyenne_generale": round(moyenne_generale, 2),
+        "nombre_total_notes": len(data),
+        "notes_par_ue": notes_par_ue.to_dict(orient="records")
+    }
+
+
+@app.get("/etudiant/{student_id}/notes", tags=["Étudiants"])
+def get_notes_etudiant(student_id: str):
+    """Toutes les notes d'un étudiant"""
+    data = df[df["student_id"] == student_id]
+    
+    if data.empty:
+        return {"error": f"Étudiant {student_id} non trouvé"}
+    
+    result = data[["ue", "enseignant", "note"]].copy()
     return result.to_dict(orient="records")
